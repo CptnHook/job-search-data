@@ -1,0 +1,43 @@
+{
+  "company": "Rapid7",
+  "fetched_date": "2026-10-16",
+  "sources": {
+    "website": {
+      "url": "https://www.rapid7.com/about/company/",
+      "notes": "Self-description (fetched): 'a global leader in AI-powered managed cybersecurity operations'; Command Platform integrates security data with AI, threat intelligence and '25 years of expertise'; preemptive MDR; 'more than 11,500 customers worldwide'; hosts Velociraptor and Metasploit open-source communities. NOTE: careers page says '20 years', about page says '25 years' (company's own inconsistency; avoid quoting a tenure number)."
+    },
+    "leadership": {
+      "url": "https://www.rapid7.com/about/leadership/",
+      "notes": "Executive leadership page (fetched 2026-10-16): Wael Mohamed (CEO), Rafe Brown (CFO), Katie Kulikoski (Chief People Officer), Dan Deklich (Chief Product and Technology Officer), Allan Peters (Chief Commercial Officer), Mel Stone (Chief Global Services Officer). Corey E. Thomas is Executive Chairman. Q2 2026 release calls the CPTO 'Dejan' (first name); leadership page and June 1 release say 'Dan Deklich'. Use 'Dan Deklich' if naming him."
+    },
+    "careers_values_hybrid": {
+      "url": "https://careers.rapid7.com/",
+      "notes": "Fetched. Core values: Bring You; Never Done ('We pursue excellence through continuous learning... constantly in search of a better solution'); Be an Advocate; Impact Together ('support one another... collaborate, strengthen our ideas'); Challenge Convention. 'Rapid7 is a hybrid first company.' Vision: 'create a secure digital world for our customers, our industry, and our communities.' Global Offices listed: Arlington, Austin, Belfast, Boston, Prague, Pune, Tampa, Tokyo. San Francisco is NOT listed on the careers page; the posting's SF address (470 3rd Street) is unverified against Rapid7's own site."
+    },
+    "media_q2_2026_results": {
+      "url": "https://s29.q4cdn.com/157304370/files/doc_news/Rapid7-Announces-Second-Quarter-2026-Financial-Results-2026.pdf",
+      "notes": "Rapid7 IR release, 2026-08-10 (fetched). ARR $824.0M (-2.0% YoY); revenue $210.9M (-1.5% YoY). CEO Mohamed: customers want Rapid7 'to go deeper in Detection and Response and Exposure Management, not wider'; aligning 'resources and investment behind our core platform and the AI foundation that connects it'; hired 'Dejan as Chief Product and Technology Officer to build an AI-first platform'. Q2 restructuring: ~12% of workforce notified, to 'streamline its organizational structure and better align resources and investments with its Core Platform Solutions'. July 2026: Cyber GRC GA; Command Platform updates ('Detection as Code' via Terraform, Microsoft Defender alert sync, Ransomware Prevention); June 2026 GovRAMP Authorization."
+    },
+    "media_ceo_transition": {
+      "url": "https://s29.q4cdn.com/157304370/files/doc_news/Rapid7-Appoints-Wael-Mohamed-Chief-Executive-Officer-Corey-Thomas-to-Become-Executive-Chairman-2026.pdf",
+      "notes": "2026-06-01 (fetched). Wael Mohamed named CEO, Corey Thomas to Executive Chairman. Strategy: transform 'from a platform player to the AI-SOC leader'; refreshed senior team incl. 'Dan Deklich as Chief Product & Technology Officer'. HQ dateline: Boston."
+    },
+    "media_kenzo_acquisition": {
+      "url": "https://s29.q4cdn.com/157304370/files/doc_news/Rapid7-Acquires-Kenzo-Security-to-Accelerate-Preemptive-AI-Powered-Security-Operations-2026.pdf",
+      "notes": "2026-03-26 (fetched). Acquired Kenzo Security, 'an agentic AI security platform built to scale autonomous security investigations', to enhance the Command Platform and move MDR 'from AI-assisted workflows to AI-driven, machine-speed security operations'."
+    },
+    "headcount": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1560327/000156032726000008/rp-20251231.htm",
+      "notes": "UNVERIFIED (search snippet only; SEC returned 403 to browser UA): FY2025 10-K reportedly 2,613 full-time employees at 2025-12-31, incl. ~888 in R&D. Pre-dates the Q2 2026 ~12% restructuring. Do not quote in application materials without fetching the filing."
+    },
+    "reviews": {
+      "url": "",
+      "notes": "Not researched in this pass."
+    },
+    "linkedin": {
+      "url": "",
+      "notes": "Not researched in this pass."
+    }
+  },
+  "network_contacts_note": "None identified. Hiring manager not named in posting; CPTO Dan Deklich is the stated reporting line per posting and leadership page."
+}
