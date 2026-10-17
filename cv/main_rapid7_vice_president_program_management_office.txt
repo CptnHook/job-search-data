@@ -1,0 +1,80 @@
+Casey Caster
+Pacifica, CA, USA
+MOBILE-ALT 650.799.9926 • Envelope casey.caster@gmail.com • linkedin.com/in/caster
+Technical program management and engineering operations executive with 15+ years building program management
+and delivery functions in enterprise SaaS, cloud infrastructure, and fintech. As Sr Director, Engineering for Internal
+Services & Technical Program Management at SingleStore, and chief of staff to the CPO and then the CTO, led
+the agile transformation that increased engineering velocity 5x, launched an internal development platform that cut
+infrastructure bottlenecks 70%, and rescued a strategic partner integration worth $30M+ in recurring ARR. Builds
+program organizations from the ground up, runs engineering capacity planning and delivery dashboards, and aligns
+product, engineering, and business teams on roadmap and delivery commitments.
+Core Competencies
+○ Technical Program Management & PMO Leadership : Leads internal services and technical program management
+for a cloud-native database company; architected Ripple’s global implementation function and led 25 project managers
+and 75+ engineers and architects (800+ implementations). PMP certified.
+○ Agile Operating Models & Delivery Velocity : Agile transformation and accountability systems that increased
+engineering velocity 5x.
+○ Capacity Planning & Delivery Visibility : Runs engineering capacity planning and delivery dashboards; internal
+development platform cut infrastructure bottlenecks 70%.
+○ Portfolio Governance & Executive Alignment : Chief of staff to the CPO and CTO; owns governance, M&A, and
+cost programs; built a governance body with bank C-suite executives at Ripple.
+○ Investment & Cost Trade-offs : Manages the engineering budget with Finance; built a COGS intelligence engine
+that ties growth trends to investment decisions; cut internal cloud spend 50%.
+○ AI Enablement : Leads internal GenAI adoption, governance, and AI tooling across the development stack; uses
+Claude Code for agentic workflows.
+Professional Experience
+○
+SingleStore San Francisco, CA
+Sr Director, Engineering - Internal Services & Technical Program Management (CTO Chief of Staff) 2021-Present
+Strategy and operations for a cloud-native database company in hypergrowth, reporting to the CPO and then the CTO.
+Managed seven teams.
+- Increased engineering velocity 5x through agile transformation and accountability systems.
+- Launched an internal development platform , reducing infrastructure bottlenecks by 70%.
+- Runs engineering capacity planning and delivery dashboards for the development organization.
+- Unlocked $30M+ in recurring ARR by rescuing a failing strategic partner integration through a cross-functional
+realignment.
+- Built a COGS intelligence engine with Finance, aligning growth trends with operational investment decisions.
+- Cut internal cloud spend by 50% through cross-team policy reform and usage modeling.
+- De-risked M&A by leading technical due diligence, then integrating acquired teams into core systems and workflows.
+- Drove internal GenAI adoption with a governance and ops program; leads tooling and AI enablement across the
+development stack.
+○
+Ripple, Inc. San Francisco, CA
+Global Head of Program Management, Customer Success 2016-2020
+Promoted to lead global delivery programs for RippleNet and architect the implementation function.
+- Delivered 800+ global implementations ; led 25 project managers directly and 75+ engineers and architects
+indirectly.
+- Created the RippleNet Committee , negotiating with C-suite executives of major banks to govern a network
+handling millions of transactions.
+- Built customer care and infrastructure strategy for enterprise financial institutions, including SOW and MSA
+negotiation and fulfillment.
+○
+Wells Fargo Bank San Francisco, CA
+Senior Program Manager 2014-2015
+- Delivered a $20M+ digital transformation initiative , coordinating 300+ testers.
+- Led an upgrade of project portfolio systems for 10,000+ vendors.
+○
+Autodesk San Francisco, CA
+Senior Program Manager, Head of Continuous Improvement 2013-2014
+- Led portfolio optimization with $2M+ in savings and improved user satisfaction.
+- Analyzed 150+ projects and delivered recommendations to improve efficiency and employee engagement.
+○
+Engajer Mountain View, CA
+Head of Customer Success 2012-2013
+- Built and led programs supporting 850+ customers; increased revenue 20% per account with 85% retention.
+○
+Avanade San Francisco, CA
+Senior Consultant 2010-2012
+- Delivered CRM and communications transformations in utilities and healthcare.
+Selected Accomplishments
+○ Built a global delivery organization from the ground up : from 3 project managers to 25, plus 75 engineers and
+architects; 250+ concurrent global projects and 800+ completed over three years.
+○ Implemented a $4M virtual testing network program with teams in Bangalore and London, saving hundreds of
+person-hours per test cycle.
+○ Mentored dozens of team members , three of whom became CEOs at other companies.
+Education & Certifications
+○ MBA – Cornell Johnson Graduate School of Management, Ithaca, NY
+○ BS, Electronic Engineering Technology – DeVry University, Pomona, CA
+○ Project Management Professional (PMP) – Project Management Institute
+References
+○ Available upon request.
