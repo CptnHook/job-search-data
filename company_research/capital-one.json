@@ -1,0 +1,19 @@
+{
+  "company": "Capital One",
+  "fetched_date": "2026-10-20",
+  "sources": {
+    "website": {
+      "url": "https://www.capitalone.com/tech/",
+      "notes": "Fetched: 'We use real-time data at scale, AI and machine learning and the power of the cloud to solve challenging industry problems.' 'We embed customer-centered AI throughout our business with proprietary solutions built on our modern tech stack.' Announced VulnHunter, an open-source agentic AI code security tool."
+    },
+    "ai": {
+      "url": "https://www.capitalone.com/tech/ai/",
+      "notes": "Fetched: 'Customer-driven, proprietary AI at scale.' Product spotlights: a transformer-based recommender engine for real-time personalized experiences across digital channels; an extensible multi-agentic framework to support car buyers and dealers."
+    },
+    "ml": {
+      "url": "https://www.capitalone.com/tech/machine-learning/",
+      "notes": "Fetched: standardized cloud platforms for data management, model development and operationalization."
+    }
+  },
+  "network_contacts_note": "None recorded."
+}
