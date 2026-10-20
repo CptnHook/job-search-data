@@ -4,15 +4,19 @@
   "sources": {
     "website": {
       "url": "https://www.capitalone.com/tech/",
-      "notes": "Fetched: 'We use real-time data at scale, AI and machine learning and the power of the cloud to solve challenging industry problems.' 'We embed customer-centered AI throughout our business with proprietary solutions built on our modern tech stack.' Announced VulnHunter, an open-source agentic AI code security tool."
+      "notes": "Fetched (reviewer re-fetched 2026-10-20 via curl with browser headers; WebFetch failed on DNS). 'We use real-time data at scale, AI and machine learning and the power of the cloud to solve challenging industry problems.' 'We embed customer-centered AI throughout our business with proprietary solutions built on our modern tech stack.' Cloud: 'We're all in on the cloud and closed our last data center in 2021.' Serverless at massive scale; open source contributions to 100+ projects. Announced VulnHunter, an open-source agentic AI code security tool. News items: joined the Open Secure AI Alliance; NVIDIA GTC 2026 agentic AI showcase; 'pioneering data, analytics & AI innovation for over three decades'."
     },
     "ai": {
       "url": "https://www.capitalone.com/tech/ai/",
-      "notes": "Fetched: 'Customer-driven, proprietary AI at scale.' Product spotlights: a transformer-based recommender engine for real-time personalized experiences across digital channels; an extensible multi-agentic framework to support car buyers and dealers."
+      "notes": "Fetched (reviewer re-verified 2026-10-20). 'Customer-driven, proprietary AI at scale.' Product spotlights: extensible multi-agentic framework to support car buyers and dealers (validates plans against internal APIs in real time); open-source agentic code security tool (VulnHunter); transformer-based recommender engine for real-time personalized experiences across digital channels; knowledge retrieval tool: 'We built our generative AI tool to help employees answer customer questions faster' using a custom RAG pipeline and fine-tuned models. Prem Natarajan is EVP, Chief Scientist and Chief Enterprise AI Officer; quote: 'AI and ML are foundational to how we continue to deliver value for our customers and our business.' Publishes AI research (ACL, ICML, EMNLP, NeurIPS 2026)."
     },
     "ml": {
       "url": "https://www.capitalone.com/tech/machine-learning/",
-      "notes": "Fetched: standardized cloud platforms for data management, model development and operationalization."
+      "notes": "Fetched (reviewer re-verified 2026-10-20). 'Leveraging standardized cloud platforms for data management, model development, and operationalization, we use AI and ML to look out for our customers' financial well-being.' Applied areas: graph ML for fraud, NLP, explainable AI, anomaly detection, data and privacy, 'ML at Scale: Building systems to scale the entire model building and deployment process'. University partnerships on AI/ML explainability, fairness and ethics."
+    },
+    "careers": {
+      "url": "https://www.capitalonecareers.com/",
+      "notes": "Search snippets only (not fetched): many open TPM roles at Sr Manager, Director and Sr Director levels across Bank Tech, Card Tech, eData, FS Tech. Not used for any claim."
     }
   },
   "network_contacts_note": "None recorded."
