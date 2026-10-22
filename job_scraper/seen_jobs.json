@@ -80,9 +80,24 @@
       "posted_date": "2026-10-09",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 59,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Strategy, operating cadence and transformation-portfolio role for post-sales; maps to his Ripple customer success delivery build-out and SingleStore chief-of-staff work",
+        "Owns the AI and automation roadmap for post-sales and drives agent adoption, which fits his GenAI adoption and governance program",
+        "Part of every planning cycle and leadership decision; prepares board materials"
+      ],
+      "gaps": [
+        "Right hand to a post-sales VP, with programs run with no direct authority and no team mentioned; level looks below VP and the company size isn't stated, so it may fail the level and authority gates",
+        "Wants deep NRR/GRR SaaS metrics, comp-plan design and hands-on modeling, which are thinner in his profile",
+        "No salary posted. Mountain View, 3+ office days a week (Bay Area hybrid)"
+      ]
     },
     "nxp-semiconductors_head-of-program-portfolio-management-serdes-networking-solut-b75d30": {
       "title": "Head of Program & Portfolio Management – SerDes Networking Solutions",
@@ -914,9 +929,24 @@
       "posted_date": "2026-10-07",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 67,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Owns the PMO, QA and business-solutions-architecture orgs (15 direct reports), plus portfolio prioritization, capacity planning and executive reporting",
+        "Seat on the Business Technology Leadership Team that shapes IT-wide strategy; builds the operating model and delivery standards",
+        "Works with Corporate AI teams and drives process automation and transformation"
+      ],
+      "gaps": [
+        "Base range of $191,340 to $306,144 tops out just above his $300K floor and well under the $350K ideal",
+        "Internal IT and business-systems focus (ERP, CPQ, CRM, Salesforce/D365/Snowflake); manufacturing experience preferred; less exciting than his target sectors",
+        "In the office Tuesday to Friday at the San Francisco hub (4 days a week, remote Mondays): not fully onsite but heavier than he prefers. Reports to a VP, not the C-suite"
+      ]
     },
     "qcells-north-america_sr-director-project-execution": {
       "title": "Sr. Director Project Execution",
@@ -1295,9 +1325,24 @@
       "posted_date": "2026-10-06",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 55,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Chief of staff and surrogate to the C-level Chief Strategy Officer, so direct access to the C-suite",
+        "Strategy org covers corporate development and M&A, strategic partnerships and international expansion, which line up with his M&A diligence and partner-integration rescue",
+        "Security and enterprise SaaS sector; AI-native, agentic-workflow culture"
+      ],
+      "gaps": [
+        "Bay Area salary range of $221K to $304K tops out barely above his $300K floor; no team or decision rights (influence and surrogate role)",
+        "Prefers investment banking or management consulting plus Big Tech background, deep technical product fluency and master-level writing",
+        "Location: travel 30-50%, well over his 25% limit; San Francisco or New York with office days not stated"
+      ]
     },
     "rzr_chief-of-staff-coo": {
       "title": "Chief of Staff - COO",
@@ -1569,11 +1614,26 @@
       "url": "https://kindercare.wd5.myworkdayjobs.com/ExternalCareerSite/job/Work-From-Home-OR/Vice-President--Digital-Product-and-Program-Management-Office---Remote-Opportunity_JR54934?utm_source=freehire.me",
       "first_seen": "2026-10-19",
       "posted_date": "2026-10-19",
-      "deadline": null,
+      "deadline": "2027-01-19",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 73,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP level; leads the IT PMO and product management org with enterprise portfolio governance, stage gates and benefits realization",
+        "Owns portfolio budgets, workforce plans and vendor relationships, and partners with executive leaders; real authority to set the operating model",
+        "Leads recovery planning for critical initiatives and pilots and scales new technologies, matching his builder and turnaround track record"
+      ],
+      "gaps": [
+        "Heavy digital product management scope (product vision, customer discovery, experimentation); his background is program and portfolio, not product",
+        "Early childhood education and child care sector, outside his target sectors; no AI or developer-tools angle",
+        "No salary posted"
+      ]
     },
     "aecom_vice-president-project-program-management": {
       "title": "Vice President, Project & Program Management",
@@ -3439,10 +3499,24 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "source": "cli",
-      "location": "US - Remote"
+      "location": "US - Remote",
+      "rank_score": 36,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Build and scale a PMO from the ground up, including methodology, governance and team structure",
+        "Customer-facing program leadership with executive reporting; PMP is a preferred qualification"
+      ],
+      "gaps": [
+        "Requires 15+ years in switchgear or switchboard electrical equipment manufacturing and engineered-to-order production knowledge, which he does not have",
+        "Head of PMO reporting to the VP of Design Engineering, so below VP; company size unknown; industrial manufacturing is far from his target sectors",
+        "No salary posted. US remote with about 25% travel (at his limit)"
+      ]
     },
     "experian_director-program-management": {
       "title": "Director, Program Management",
@@ -3478,10 +3552,25 @@
       "posted_date": "2026-10-17",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "source": "cli",
-      "location": "United States"
+      "location": "United States",
+      "rank_score": 70,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Builds and leads the Global PMO technology program portfolio, with governance, prioritization and executive reporting, which matches his TPM and engineering ops core",
+        "Flagship program is the Product and Engineering Transformation to AI-native delivery, which fits his GenAI adoption and Claude Code tooling work",
+        "Public company (NYSE: FICO), so the Sr Director level passes the large-company gate; partners with Product, Engineering and Technology Ops heads and manages budgets with Finance"
+      ],
+      "gaps": [
+        "Posted base pay is $150.5K to $236.5K, well below the $300K floor (deal-breaker)",
+        "Reports to the VP of the Global PMO rather than the C-suite, and the role is execution-heavy with influence without authority (acceptable at a large company)",
+        "Aggregator listed a Mexico entity; scored from FICO's own careers posting (req 32124, Work from Home, United States)"
+      ]
     },
     "interpublic-group_vp-group-project-manager": {
       "title": "VP, Group Project Manager",
@@ -4206,10 +4295,25 @@
       "posted_date": "2026-10-12",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "California, United States"
+      "location": "California, United States",
+      "rank_score": 68,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP leading a 40+ person global delivery, TPM and solution architecture organization, reporting to the COO and sitting on the senior leadership team",
+        "Scale and productize implementation methodology and use AI tooling to cut time-to-value, which mirrors his Ripple work (800+ implementations, 8 months to 8 weeks)",
+        "Vertical AI company; utility clients overlap with his Avanade utilities consulting, and an MBA is preferred"
+      ],
+      "gaps": [
+        "Base pay $220K to $250K, below the $300K floor (deal-breaker)",
+        "Requires ownership of a services P&L (he manages a budget, not a P&L) and a background at a global SI or consulting firm (Avanade is only partial)",
+        "Remote within the US with up to 25% travel, which is at his travel limit; utility industry is not one of his preferred sectors"
+      ]
     },
     "trimble-inc_vice-president-global-professional-services-customer-onboard-e5ed33": {
       "title": "Vice President, Global Professional Services & Customer Onboarding, AECO",
@@ -4349,10 +4453,25 @@
       "posted_date": "2026-10-16",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 76,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "SVP and COO role for Cloud Success: owns planning, operating cadences and org design, and acts as executive delegate to the EVP",
+        "Owns the AI-powered agentic tooling strategy for frontline teams, which fits his GenAI adoption and AI enablement record",
+        "Base pay $352K to $473K in San Francisco, above his $350K ideal; build-from-scratch mandate inside a large public company"
+      ],
+      "gaps": [
+        "Asks for proven COO experience in Sales or Customer Success orgs; his customer success leadership (Ripple) is delivery-focused, not a COO seat",
+        "Explicitly influence without direct authority across a highly matrixed organization; heavy on communications and branding",
+        "Location: San Francisco, but office days are not stated"
+      ]
     },
     "omnissa_vice-president-of-revenue-operations-and-strategy": {
       "title": "Vice President of Revenue Operations and Strategy",
@@ -4375,10 +4494,25 @@
       "posted_date": "2026-10-22",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 56,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP reporting to the Chief Product Officer; builds and leads a global Product Operations and GTM Operations function",
+        "Enterprise transformation, governance, KPIs, operating rhythms and digital tools rollout match his program and transformation skills",
+        "Hybrid in San Francisco, 3 days a week in office (Tuesday to Thursday)"
+      ],
+      "gaps": [
+        "Requires deep apparel, footwear, retail or consumer-goods GTM and product creation experience, which he does not have",
+        "Base pay $251.6K to $369.1K; the $300K floor is mid-range and $350K is near the top",
+        "Retail apparel is outside his preferred sectors; posting says it is expected to be filled by 2027-01-18 (a fill date, not an application deadline)"
+      ]
     },
     "visa_vice-president-head-of-sales-operations-north-america": {
       "title": "Vice President, Head of Sales Operations, North America",
@@ -4648,10 +4782,25 @@
       "posted_date": "2026-10-20",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 52,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Fast-growing AI company with a chief of staff role for the Field CTO and Enterprise Deployment leads",
+        "Staffing and capacity planning, OKR tracking, onboarding and cross-org alignment overlap with his CTO chief-of-staff work",
+        "High-velocity, AI-first culture matches his AI enablement interests"
+      ],
+      "gaps": [
+        "Coordination role (staffing, meeting prep, onboarding, co-location planning) with no team, budget or strategy ownership; below VP level",
+        "No compensation posted, so the $300K floor can't be checked",
+        "Location: remote and can be done from anywhere, but London is preferred"
+      ]
     },
     "coreshell_chief-of-staff": {
       "title": "Chief of Staff",
@@ -4752,10 +4901,25 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco Bay Area"
+      "location": "San Francisco Bay Area",
+      "rank_score": 49,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "AVP/VP level owning end-to-end delivery of complex global onsite-offshore programs, which matches his Ripple global delivery leadership",
+        "Delivery governance, CXO stakeholder management and AI-led operations line up with his Ripple bank C-suite committee and SingleStore GenAI programs",
+        "PMP is listed as a preferred certification"
+      ],
+      "gaps": [
+        "Requires 20+ years of onsite delivery leadership in Telecom/Media/Tech plus telecom product engineering (4G/5G Core, RAN, OSS), which he does not have",
+        "IT-services account role weighted to farming revenue growth, margins and supporting sales, at a client site rather than shaping company strategy; no salary posted",
+        "Location: Bay Area client-site role with office days not stated"
+      ]
     },
     "salesforce_svp-platform-security-and-new-products-cloud-success": {
       "title": "SVP, Platform, Security and New Products - Cloud Success",
@@ -4778,10 +4942,25 @@
       "posted_date": "2026-10-20",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "Palo Alto, CA"
+      "location": "Palo Alto, CA",
+      "rank_score": 43,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Leads a global PM/PMO team and sets PMO strategy, governance, portfolio priorities and capacity, which are his core portfolio and TPM skills",
+        "Executive-level portfolio visibility, evidence-based trade-offs, and using data and AI to improve decisions",
+        "Large company (72,000+ employees), so a head-of-PMO role clears the level gate"
+      ],
+      "gaps": [
+        "Posted base is $192,600-$264,825, below his $300K floor (deal-breaker)",
+        "Must-have medical device industry experience and NPI, industrialization, supply chain and manufacturing depth, which he does not have",
+        "Location: Palo Alto with office days not stated"
+      ]
     },
     "allegiance-search_vice-president-of-engineering": {
       "title": "Vice President of Engineering",
@@ -4869,10 +5048,25 @@
       "posted_date": "2026-10-13",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 27,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "FAIL",
+      "language_gate": "PASS",
+      "strengths": [
+        "Developer-tooling company (API platform) in a sector he likes, with a distributed team across SF, India and Europe",
+        "Cost management and FinOps/cloud cost optimization are a nice-to-have, matching his 50% internal cloud spend cut",
+        "Owns the infrastructure and reliability roadmap and represents it in leadership forums"
+      ],
+      "gaps": [
+        "Requires 15+ years of hands-on infrastructure/SRE engineering with Kubernetes, Cluster API, Argo, Helm, Crossplane, Istio, AWS and Azure; he is not hands-on technical",
+        "Head-of-function role inside engineering at a private company, not VP+ or ops/TPM-aligned; base $290K-$340K, with the low end under $300K and the top under $350K",
+        "Location: in office 5 days a week in San Francisco (deal-breaker)"
+      ]
     },
     "roblox_director-engineering-engineering-acceleration": {
       "title": "Director, Engineering — Engineering Acceleration",
@@ -4882,10 +5076,25 @@
       "posted_date": "2026-10-22",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Mateo, CA"
+      "location": "San Mateo, CA",
+      "rank_score": 61,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Agentic-native engineering toolchain, AI coding tools and developer velocity, which match his AI enablement work, Claude Code use and an internal dev platform that cut bottlenecks 70%",
+        "Large public company, so Director clears the level gate; base $399,420-$457,970 is above his $350K ideal",
+        "Owns the roadmap and leads managers and senior ICs across pods, with a builder mandate to rethink the toolchain from the ground up"
+      ],
+      "gaps": [
+        "Requires strong backend and distributed-systems depth and hands-on familiarity with the AI engineering stack, evals and open-weight models; he is not hands-on technical",
+        "Preferred C#/Go, Kubernetes/Nomad, Temporal, canary and feature-flag rollout expertise are gaps; this is an engineering-line role, not ops or TPM",
+        "Reports to a named engineering leader rather than the C-suite"
+      ]
     },
     "crowdstrike_director-engineering-data-infrastructure-reliability": {
       "title": "Director, Engineering - Data Infrastructure & Reliability",
@@ -4999,10 +5208,25 @@
       "posted_date": "2026-10-20",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 69,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Owns the portfolio operating model, planning, governance and executive steering for the Chief Data Officer's org, plus building and scaling a TPM organization, which is his core TPM and chief-of-staff skill set",
+        "AI-first leadership and personally using AI to automate program operations match his GenAI adoption and Claude Code work",
+        "Large public company, so Sr Director clears the level gate; SF base range $228,600-$348,600 tops out above $300K"
+      ],
+      "gaps": [
+        "Wants deep data-platform fluency (Data 360/Snowflake/Databricks, MDM, RAG/embeddings) and a technical bachelor's degree; his depth is in program leadership, not data architecture",
+        "Execution backbone with influence-without-authority across VP/SVP leaders; acceptable at a large company, but the range top sits just under his $350K ideal",
+        "Location: San Francisco with office days not stated"
+      ]
     },
     "hadrian_sr-director-forward-deployed-engineering": {
       "title": "Sr. Director, Forward Deployed Engineering",
@@ -5025,10 +5249,25 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 57,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP level at a large public company, inside an AI-focused portfolio (Agentforce, agentic AI adoption)",
+        "Asks for building and scaling new teams, scalable repeatable programs and C-suite customer engagement, which fits the Ripple global delivery and bank C-suite governance record",
+        "SF/NYC base range $266.8K-$426.9K reaches above $350K"
+      ],
+      "gaps": [
+        "Role is account-portfolio CSM leadership with revenue metrics (NNAOV, attrition, consumed revenue) and wants 7+ years of dedicated CS leadership plus enterprise CRM deployment depth; Casey's CS background is implementation-led, not book-of-business ownership",
+        "Bottom of the range sits below $300K, and the role executes within a large matrixed sales-aligned org with limited strategy ownership",
+        "Location FLAG: travel up to 50% is required (well over 25%) and office days are not stated"
+      ]
     },
     "miro_vice-president-customer-success": {
       "title": "Vice President Customer Success",
@@ -5038,10 +5277,25 @@
       "posted_date": "2026-10-22",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 55,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP title at a roughly 1,600-person high-growth SaaS company, building and leading Americas and APAC/Japan CS teams",
+        "Sits on the CS leadership team that shapes strategic decisions, with executive relationships at the largest enterprise customers",
+        "Professional services and time-to-value are named, which matches the Ripple implementation build-out"
+      ],
+      "gaps": [
+        "Requires 10+ years in enterprise CS or account management leadership and 7+ years leading CS/AM teams, plus revenue and health forecasting; Casey's CS experience is mostly implementation and program delivery",
+        "Quota-like KPI and retention/expansion focus partnering with sales; no posted pay range to confirm base over $300K",
+        "Location FLAG: San Francisco listed but office days not stated"
+      ]
     },
     "cloudinary_svp-customer-success-professional-services": {
       "title": "SVP, Customer Success & Professional Services",
@@ -5051,10 +5305,25 @@
       "posted_date": "2026-10-22",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Jose, CA"
+      "location": "San Jose, CA",
+      "rank_score": 68,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "SVP who owns the strategy and operating model of the enterprise customer journey, reports to the Chief Customer Officer, and leads CS, Professional Services and Education globally",
+        "Onboarding, implementation, time-to-value and building a scalable organization match the Ripple 800+ implementations and 8-months-to-8-weeks record; AI-enabled engagement and developer platform/API nice-to-haves fit",
+        "Base $360K-$440K plus 25% bonus and options; hybrid 2 days a week in San Jose"
+      ],
+      "gaps": [
+        "Asks for 15+ years leading CS/PS/TAM in enterprise SaaS and ownership of Net Revenue Retention and expansion; Casey has no direct NRR or CSM book ownership",
+        "Customer lifecycle tooling (health scoring, Gainsight-type platforms) is not in his profile",
+        "San Jose office is a longer commute from Pacifica than San Francisco, though still in the Bay Area"
+      ]
     },
     "stripe_head-of-key-accounts-customer-success": {
       "title": "Head of Key Accounts, Customer Success",
@@ -5064,10 +5333,25 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 59,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Payments/fintech at Stripe, a sector Casey likes, where Ripple payments network experience counts toward the required payments background",
+        "Playbooks, operating rhythms, cross-functional program delivery and executive engagement fit his TPM and governance strengths; Looker and Salesforce are both in his toolset",
+        "Base range $276K-$414K, SF office about 50% of the time"
+      ],
+      "gaps": [
+        "Requires 8+ years leading strategic CS or account management teams and owning share of wallet and volume forecasting; this is account management more than delivery or ops",
+        "Level is ambiguous ('Head of', range spans several career levels) and the low end is below $300K; scope is a portfolio of key accounts rather than a full function or strategy seat",
+        "Mostly execution of growth goals set with sales leadership; authority beyond the CSM team is unclear"
+      ]
     },
     "golinks_head-of-customer-success": {
       "title": "Head of Customer Success",
