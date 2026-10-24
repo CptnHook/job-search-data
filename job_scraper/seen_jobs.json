@@ -6102,10 +6102,25 @@
       "posted_date": "2026-10-19",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "United States"
+      "location": "United States",
+      "rank_score": 78,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-10-24",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Builder role: stand up Vanta's Professional Services function from the ground up (delivery methodology, offerings, team), plus lead existing Customer Success and Support, which fits his Ripple implementation build (800+ implementations, delivery cut from 8 months to 8 weeks) and his Engajer customer success work",
+        "Wants a strong operator who builds processes, tools and dashboards, works with C-suite stakeholders, and has an AI-forward mindset with AI-enabled workflows (Claude Code and GenAI adoption at SingleStore)",
+        "VP-level role at a high-growth security/compliance SaaS company (a sector he likes); posting location is United States with remote workspace stipends"
+      ],
+      "gaps": [
+        "Wants owners of the combined PS/CS/Support P&L, services revenue and margin, and NRR/expansion targets, with experience scoping, pricing and selling PS engagements (SOWs, change orders, renewals); Casey has managed budgets and SOWs but has not owned a P&L or services revenue",
+        "Wants familiarity with SOC 2, ISO 27001 and HIPAA compliance frameworks and 10+ years in SaaS PS/CS/Support; his security-compliance domain experience is thin",
+        "Posting says US base pay ranges are shared, but the fetched text has no figures, so the $300K floor can't be checked; office days are not stated (looks remote US, with SF and NYC offices)"
+      ]
     },
     "tyler-technologies_vp-professional-services-support": {
       "title": "VP, Professional Services & Support",
@@ -6128,10 +6143,25 @@
       "posted_date": "2026-10-20",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 63,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-24",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP leading a team of Directors (Strategy and Insights, Go to Market) that owns multi-year strategy for agentic AI commerce on the Amex network: AI plus payments at a large public company",
+        "Covers enterprise governance, risk assessment and business program management across strategic, commercial and operational workstreams, which matches his governance and TPM strengths (Ripple bank C-suite committee, SingleStore GenAI governance)",
+        "Ecosystem and partner engagement and partner onboarding frameworks, similar to his Ripple global bank network rollouts and the SingleStore strategic partner rescue ($30M+ ARR)"
+      ],
+      "gaps": [
+        "Wants deep payments ecosystem expertise (networks, digital wallets, tokenization, authentication) plus commercial strategy work: pricing frameworks, partnership economics, business cases; these are commercial/GTM skills beyond his delivery and operations background",
+        "Reports to a VP (not the C-suite) inside a large regulated financial-services company, where influencing senior stakeholders is emphasized; Casey likes payments but not big-bank cultures",
+        "Location: San Francisco, but Amex Flex can be onsite, hybrid or virtual depending on role, and this role's model is not stated (FLAG); the salary range line is present but the fetched text contains no figures"
+      ]
     },
     "petvet-care-centers_vice-president-of-operations-remote-pacific-northwest": {
       "title": "Vice President of Operations - Remote (Pacific Northwest)",
@@ -6453,10 +6483,25 @@
       "posted_date": "2026-10-23",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "Chicago, IL"
+      "location": "Chicago, IL",
+      "rank_score": 50,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-24",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP role for TransUnion (Archer is the recruiting partner), reporting to the SVP of Global Infrastructure, Engineering and Operations; leads global operations modernization and AIOps adoption",
+        "Asks for executive reporting, operational dashboards, governance and enterprise-wide transformation programs, which match his engineering operations and delivery dashboard work",
+        "Posted base range $193,500 - $406,500 covers his $300K floor and $350K target, plus bonus and possible long-term incentives"
+      ],
+      "gaps": [
+        "Core requirements are 15+ years leading large-scale infrastructure/IT operations or SRE in 24x7 environments, deep ITOM/ITSM, incident and problem management, and observability platforms; this is hands-on infra-ops depth Casey does not have",
+        "Internal title is VP, IT Support, in an internal IT/infrastructure function at a credit bureau, which is outside his preferred sectors and builder-of-new-functions profile",
+        "Location: hybrid, at least two days a week in person at a TU office, listed in Chicago, IL; this would require relocating from the Bay Area (FLAG)"
+      ]
     },
     "nextpower_vice-president-operations": {
       "title": "Vice President, Operations",
@@ -6661,10 +6706,25 @@
       "posted_date": "2026-10-22",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "Sunnyvale, CA"
+      "location": "Sunnyvale, CA",
+      "rank_score": 64,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-24",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP setting a multi-year global support strategy and operating model, with transformation through AI, automation and self-service, at a cybersecurity company (a sector he likes)",
+        "Asks for operational frameworks, governance, workforce and capacity planning, support budgets and cross-functional work with Product and Engineering, which match his engineering operations, capacity planning and budget management",
+        "Member of the Customer Success leadership team with scalable models for acquisitions and new products, drawing on his M&A integration and Ripple global delivery scaling"
+      ],
+      "gaps": [
+        "Role centers on running a worldwide 24x7 follow-the-sun technical support organization (SLAs, backlog, escalations) with deep cybersecurity technical expertise; Casey has led customer success and implementations, not technical support at this scale",
+        "Reports to the VP, Global Customer Support and Operations, so it sits two or more levels below the C-suite, with less access to leadership and a share in strategy only within the support function",
+        "Location: Sunnyvale, CA (Bay Area), but office days are not stated beyond 'flexible work environment' (FLAG); no pay range in the posting"
+      ]
     },
     "seismic_vp-engineering-operations-technical-program-management": {
       "title": "VP, Engineering Operations & Technical Program Management",
