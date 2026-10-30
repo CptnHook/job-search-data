@@ -6849,9 +6849,24 @@
       "posted_date": "2026-10-24",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 60,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP leader-of-leaders role owning IT strategy, the multi-year roadmap, IT budgets and vendor management at a high-growth AI infrastructure company",
+        "Champions AI and agentic automation adoption across IT operations, which matches his GenAI adoption and governance work",
+        "Base $330K-$360K plus bonus and RSUs; M&A integration and MBA are listed as bonus points"
+      ],
+      "gaps": [
+        "Requires personal ownership of a large brownfield ERP/enterprise systems transformation (SAP strongly preferred) covering manufacturing or supply chain, which he has not done",
+        "Wants deep IAM, endpoint and device management expertise and 8+ years leading multi-function IT orgs; his background is eng ops and TPM, not corporate IT",
+        "Location: San Francisco, but office days are not stated"
+      ]
     },
     "visa_vice-president-acceptance-technologies-and-intelligent-comme-15618d": {
       "title": "Vice President, Acceptance Technologies and Intelligent Commerce",
@@ -6888,9 +6903,24 @@
       "posted_date": "2026-10-14",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 43,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Senior technology leader who owns IT strategy, budget and vendors and advises the Executive Committee and Board",
+        "Owns the enterprise data and AI strategy and AI governance, which matches his GenAI governance program",
+        "Base $335K-$365K plus equity and bonus"
+      ],
+      "gaps": [
+        "Requires 15+ years of IT including senior leadership at a biotech or pharma company, plus accountability for a US pharmaceutical product launch; he has neither",
+        "Needs GxP, 21 CFR Part 11, computer system validation and deep hands-on Microsoft/O365 expertise; biotech is outside his target sectors",
+        "Location: San Francisco office with regular travel to Boston and Ireland; office days and travel share are not stated"
+      ]
     },
     "nasa-national-aeronautics-and-space-admi-a7f2e4_deputy-chief-information-officer": {
       "title": "Deputy Chief Information Officer",
@@ -6967,9 +6997,24 @@
       "posted_date": "2026-10-22",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 78,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Chief of Staff to the CIO at a large public cloud database company; runs the Office of the CIO operating rhythm and board readouts",
+        "Leads and develops the IT PMO/TPMO and governs the IT portfolio, including AI adoption programs, cloud spend, SaaS and vendor spend with Finance",
+        "Closely matches his CTO chief-of-staff, TPM and portfolio governance work at SingleStore; Director title is fine at a large public company"
+      ],
+      "gaps": [
+        "Focuses on enterprise IT systems (enterprise apps, IAM, cybersecurity), not engineering; requires deep technical knowledge of enterprise systems",
+        "Much of the role is influence without authority, though he would lead the PMO team; the posted base salary is a placeholder ($0.01), so the $300K floor can't be checked",
+        "Hybrid, for candidates based in Palo Alto"
+      ]
     },
     "molex_digital-operation-manager": {
       "title": "Digital Operation Manager",
@@ -7333,7 +7378,7 @@
       "posted_date": "2026-10-23",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "linkedin-search",
       "source": "cli"
     },
@@ -7398,9 +7443,24 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 57,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Drives company-wide AI adoption and agentic development across engineering and non-engineering workflows, which fits his AI enablement interest and GenAI adoption record",
+        "Large public company, so a Director title is acceptable; works with many cross-organizational leaders",
+        "Base $292K-$442.75K plus equity; $350K is in the lower-middle of the range"
+      ],
+      "gaps": [
+        "Engineering director role that builds AI systems, tools and services; requires deep hands-on AI/LLM/ML expertise and an EE/CS degree with a record of AI-native development, more technical than his profile",
+        "Asks for a record of designing and launching large software products; his strength is programs and operations, not product engineering",
+        "Location: Santa Clara, office days not stated; applications were guaranteed open only until 2026-10-02, but the posting is still active"
+      ]
     },
     "aidash_head-of-engineering-ai-platform": {
       "title": "Head of Engineering, AI Platform",
@@ -7437,9 +7497,24 @@
       "posted_date": "2026-10-24",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 78,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Leads enterprise-wide GenAI and agentic AI adoption, governance frameworks and change management, which maps directly to his SingleStore GenAI adoption and governance program",
+        "Partners with executive leadership on the AI transformation strategy and roadmap and leads a team of PMs and forward deployed engineers, so he would have real authority and a hand in strategy",
+        "Fintech at a large public company, so the Sr Director level clears his large-company exception; MBA and fintech experience are listed as nice-to-haves"
+      ],
+      "gaps": [
+        "Asks for deep technical understanding of LLMs, agentic AI and enterprise AI architecture; he leads through technical people rather than being hands-on",
+        "Management consulting background (big consulting firms) is preferred; his Avanade consulting was earlier and CRM-focused. No base pay range appears in the posting text",
+        "Location FLAG: San Francisco, but the posting does not say how many days are in the office"
+      ]
     },
     "franklin-templeton_head-of-ai-community": {
       "title": "Head of AI Community",
@@ -7866,9 +7941,24 @@
       "posted_date": "2026-10-25",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 82,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP running the Product and Technology PMO and operating rhythm, partnering with the SVP Head of Technology and the CPO as part of the P&T leadership team, which closely matches his CTO chief-of-staff and TPM leadership",
+        "Shapes priorities and trade-offs rather than only coordinating execution; covers capacity planning, M&A integrations, platform modernization and AI-enabled tooling",
+        "High-growth public SaaS company past $1B ARR; PMP and MBA are preferred qualifications he has"
+      ],
+      "gaps": [
+        "Base range tops out at $345K, which clears his $300K floor but sits just under his $350K ideal",
+        "Wants 5+ years leading an enterprise PMO and experience rolling out portfolio or workforce tooling; he should frame Ripple and SingleStore as equivalent strategic operations functions",
+        "Location FLAG: remote or office within the US is allowed, but the role requires up to 30% travel, above his 25% preference"
+      ]
     },
     "pattern_vp-of-international": {
       "title": "VP of International",
@@ -7983,9 +8073,24 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 65,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP leading portfolio and technical program managers, owning the end-to-end Product and Engineering portfolio, capacity, sizing and executive reporting",
+        "Builds and develops a team of managers and TPMs and sets common operating rhythms, which fits his Ripple experience scaling the delivery function",
+        "Hybrid in San Francisco, in office Tuesday to Thursday; fintech or consumer banking; PMP is a nice-to-have"
+      ],
+      "gaps": [
+        "Base range is $240K to $270K, below his $300K floor; this is likely a deal-breaker unless the pay can be raised",
+        "Requires hands-on SAFe and PI planning at scale, plus software capitalization (IDSW) controls; his SMC has lapsed and he has no SAFe credential",
+        "Weighted toward delivery and execution of strategy owned by Product and Engineering, with limited strategy ownership, at a bank-style company"
+      ]
     },
     "wadhwani-foundation_vice-president-global-programs-amp-grants-management": {
       "title": "Vice President – Global Programs &amp; Grants Management",
@@ -8087,9 +8192,24 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 79,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "A builder's role standing up the enterprise portfolio, intake and prioritization, with reporting to the CIO, the C-suite and the board, described as acting as a C-level proxy",
+        "Covers tech spend optimization with Finance (TBM), vendor and contract governance, and leading the internal rollout of AI tools, which match his cost optimization, vendor management and GenAI adoption work",
+        "Public SaaS company near $1B+ revenue; an active PMP is listed as preferred"
+      ],
+      "gaps": [
+        "Wants 15+ years in enterprise PMO, technology operations or transformation roles in B2B SaaS, with technology business management and application rationalization (build vs buy vs retire); TBM is new to him",
+        "Business technology and enterprise-wide scope (GTM, Legal, Finance) rather than R&D; base range tops out at $345K, under his $350K ideal",
+        "Location FLAG: remote within the US is allowed, but the role requires up to 30% travel, above his 25% preference"
+      ]
     },
     "western-union_vp-pmo": {
       "title": "VP, PMO",
@@ -8438,9 +8558,24 @@
       "posted_date": "2026-10-26",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 62,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP within Customer Success, owning strategy and multi-year roadmap for the premium success offer, with exposure to the C-suite",
+        "Covers operating cadence, KPI reporting, capacity planning and AI or digital-enabled delivery, which links to his Ripple customer success leadership and AI enablement work",
+        "San Francisco base range is $310K to $496K, well above his floor; large public company"
+      ],
+      "gaps": [
+        "At its core this is product management for a commercial offer, with P&L-level ownership of pricing, packaging and go-to-market; he has not owned a P&L or productized a premium offer",
+        "Requires deep Salesforce platform knowledge and experience leading directors of product managers; his Salesforce experience is as a tool user and from Avanade CRM consulting",
+        "Location FLAG: San Francisco is one of several listed hubs, but the posting does not say how many days are in the office"
+      ]
     },
     "carbon_vice-president-of-product-management": {
       "title": "Vice President of Product Management",
@@ -8477,9 +8612,24 @@
       "posted_date": "2026-10-25",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 74,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Builds the business operations function from first principles, including systems, data, process, and using AI and automation, which suits a builder",
+        "Owns capacity planning, forecasting, staffing and utilization, plus annual and quarterly planning, business reviews and Board preparation, so he works directly with leadership",
+        "AI-native company (Anthropic's services venture, 'Overuse AI' with Claude) that ties into his GenAI adoption and Claude Code work"
+      ],
+      "gaps": [
+        "Title is 'Head of', and the posting gives no reporting line, team size, comp range, or company size, so the level against the VP gate is unclear",
+        "Wants a highly quantitative player-coach who builds rigorous models from messy inputs and stays deep in the work; Casey leads through analysts and is less hands-on",
+        "Location: San Francisco HQ, but the posting doesn't say how many office days"
+      ]
     },
     "jpmorganchase_personalization-insights-executive-director-product-delivery": {
       "title": "Personalization & Insights, Executive Director, Product Delivery",
@@ -8568,9 +8718,24 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 63,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Owns enterprise AI tooling strategy and governance (assistants, copilots, agentic workflows), which matches his GenAI adoption and governance program at SingleStore",
+        "Builds and leads a new Business Systems org and runs cross-functional transformation programs, business cases, and vendor negotiation, which suits a builder with a TPM background",
+        "High-growth AI infrastructure company (Series D, valued at $17.5B); M&A integration and multi-entity experience is listed as preferred"
+      ],
+      "gaps": [
+        "Core asks are 12+ years in business systems, enterprise apps, or IT and deep experience with NetSuite, Oracle, or billing platforms; his background is engineering ops and TPM, with only Salesforce and Coupa, so this is a real gap",
+        "Reports to the Head of Finance and Operations, not the C-suite; the 'Head of' title and missing comp range leave the level and pay against the $300K floor unclear",
+        "Location: San Mateo, and the posting doesn't say how many office days"
+      ]
     },
     "cohnreznick_director-managing-director-ai-software-development": {
       "title": "Director/Managing Director, AI Software Development",
@@ -8725,9 +8890,24 @@
       "posted_date": "2026-10-28",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 71,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Chief of staff to the CTO and Technology COO: turns strategy into roadmaps, operating plans, governance, and portfolio and investment decisions, which closely matches his current SingleStore role",
+        "Payments network (Zelle, Paze) working with thousands of financial institutions, which matches his Ripple bank-network delivery and fintech experience",
+        "MBA preferred, and a direct partnership with the CTO is required; he has both"
+      ],
+      "gaps": [
+        "Level gate: Senior Director title, and the posting doesn't establish public status, 5,000+ employees, or $1B+ revenue (it says only 30+ years, thousands of institutions, and hundreds of millions of consumers), so it may count as below level",
+        "Base range is $226K-$310K; the top barely clears his $300K floor and is well under his ideal of $350K. The role also stresses influencing 'without relying solely on formal authority', and team leadership is only 'as applicable'",
+        "Location: hybrid in San Francisco, but the number of office days isn't stated; it is also a bank-owned, heavily regulated environment"
+      ]
     },
     "cmc-recruiting_chief-operating-officer": {
       "title": "Chief Operating Officer",
@@ -8933,9 +9113,24 @@
       "posted_date": "2026-10-30",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 52,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP level at a large public company; hybrid with an average of 2 office days a week in San Jose",
+        "Turns strategy into annual and multi-year plans, governance, and execution discipline, and covers acquisitions and integration, which links to his M&A due diligence work",
+        "Base range of $199K-$437K in California reaches past his $350K ideal; the role also shapes the AI agenda and leads a team of senior strategy leaders"
+      ],
+      "gaps": [
+        "Requires prior experience at a top strategy consulting firm (McKinsey, Bain, BCG); he doesn't have it (Avanade is IT consulting)",
+        "Requires deep networking industry knowledge and a track record of turning strategy into revenue growth at $10B+ scale; his work is in operations and delivery, not corporate or market strategy",
+        "Reports to a VP of Strategy and Business Development rather than the C-suite; corporate strategy is a function he hasn't worked in"
+      ]
     },
     "oakland-zoo_vice-president-strategy-and-planning": {
       "title": "Vice President, Strategy and Planning",
@@ -8959,9 +9154,24 @@
       "posted_date": "2026-10-29",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 56,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP-level customer success leadership role at a large public enterprise SaaS company, matching his Ripple and Engajer customer success background",
+        "Wants experience building and scaling new teams or functions, plus use of AI tools and agentic workflows for team productivity",
+        "C-suite customer engagement and scalable repeatable delivery methodologies line up with his bank C-suite governance committee and 800+ implementations"
+      ],
+      "gaps": [
+        "Requires 7+ years of dedicated customer success leadership and a portfolio-revenue focus (NNAOV, attrition, expansion); his CS leadership adds up to about 5 years, and this is closer to a revenue/account-management role than operations",
+        "Deep Life Sciences (pharma, biotech, medtech) domain expertise is strongly preferred; he has none beyond healthcare CRM consulting at Avanade",
+        "Location: San Francisco, but office days are not stated and the role requires travel of up to 50%, above his 25% preference. Base in CA is $266.8K-$426.9K, so $350K sits inside the range"
+      ]
     },
     "disco_vice-president-customer-success-enablement": {
       "title": "Vice President, Customer Success & Enablement",
@@ -9023,11 +9233,26 @@
       "location": "San Jose, CA",
       "first_seen": "2026-10-30",
       "posted_date": "2026-10-27",
-      "deadline": null,
+      "deadline": "2026-10-30",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 52,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Workforce/internal technology leadership at a large public company: about 70 people across seven global locations, with strategy, planning and delivery ownership",
+        "Infrastructure portfolio governance, strategic investment to reduce technical debt, AI and automation of employee services, and vendor coordination fit his internal services and GenAI adoption work",
+        "Base range $194.9K-$426.3K reaches past $350K"
+      ],
+      "gaps": [
+        "Requires 15 years leading IT infrastructure and operations, with 5 at VP/Sr Director level, managing global IT teams in 10,000+ employee organizations; his internal services experience is at a much smaller company",
+        "Expects hands-on depth in IAM (Okta, SailPoint), endpoint management, SRE, and NIST/SOX/SOC compliance tooling, which is not in his profile",
+        "Location: San Jose, and the posting does not say whether it is hybrid, remote or in-person. It closes 2026-10-30"
+      ]
     },
     "altera_head-of-cyber-resilience": {
       "title": "Head of Cyber Resilience",
@@ -9575,9 +9800,24 @@
       "posted_date": "2026-10-16",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "company-ats",
-      "source": "ats-api"
+      "source": "ats-api",
+      "rank_score": 68,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Runs the R&D operating engine for a 2,000+ person organization at a public security company: budget governance, vendor operations, capacity, and the OKR/review cadence, with 5 direct reports and a mandate to shape the operating model",
+        "Owns modeling and optimizing AI token spend and AI-first operations, a direct match for his LLM token pricing negotiation, COGS intelligence engine, and cloud cost reduction",
+        "Reports to the Head of Strategy & Operations and Chief of Staff to the President of R&D, with executive budget reviews. Base $290K-$398K, so $350K sits inside the range"
+      ],
+      "gaps": [
+        "Finance-heavy must-haves: hands-on Capitalized Software accounting and US/Canada R&D tax credits, plus ownership of an R&D P&L framework; he manages the engineering budget with Finance but has not owned a P&L or capitalization",
+        "Proven ownership of workforce planning and headcount governance with Recruiting at a 2,000+ person scale is larger than his 32-person organization",
+        "Snowflake expense data platform build is a nice-to-have he lacks. Sr Director title is acceptable because Okta is a large public company, but the role is a level below his VP target"
+      ]
     },
     "okta_vice-president-vertical-strategy-commercialization": {
       "title": "Vice President, Vertical Strategy & Commercialization",
@@ -9627,9 +9867,24 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "company-ats",
-      "source": "ats-api"
+      "source": "ats-api",
+      "rank_score": 45,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-30",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Leads and scales a professional services delivery organization at a large public security company, similar to how he built Ripple's global implementation function",
+        "Capacity planning, resource utilization, executive escalation and partner/systems integrator delivery match his implementation and governance work",
+        "PMP is listed as a preferred certification, and the role is remote in the US"
+      ],
+      "gaps": [
+        "Base pay range of $199,500-$285,000 tops out below his $300K minimum, which is a deal-breaker",
+        "Requires an active US Government Top Secret clearance and deep US public sector, FedRAMP and DoD knowledge, which he does not have",
+        "Requires $15M+ services P&L ownership with billable margin, and deep SASE/Zero Trust technical familiarity, both gaps"
+      ]
     },
     "replit_director-of-compensation-strategy": {
       "title": "Director of Compensation Strategy",
