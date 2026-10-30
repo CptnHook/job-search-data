@@ -1,0 +1,27 @@
+{
+  "company": "SoFi",
+  "fetched_date": "2026-10-30",
+  "sources": {
+    "website": {
+      "url": "https://investors.sofi.com/",
+      "notes": "NOT FETCHED. SoFi's Q3 2026 earnings release is hosted on the SEC (www.sec.gov) and on SoFi's IR CDN (s27.q4cdn.com); both hosts fail DNS resolution from this cloud session (outside allowed network domains). Nothing below is verified against a SoFi-owned or SEC page. Re-run once one of these hosts is allowed, then replace these notes."
+    },
+    "media_ir_leads": {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001818874/000181887426000065/a2026q3earningsrelease.htm",
+      "notes": "UNVERIFIED (search-result summary only, 2026-10-30). Leads from the Q3 2026 earnings release (8-K exhibit; also https://s27.q4cdn.com/749715820/files/doc_financials/2026/q3/2026-Q3-Earnings-Release_FINAL.pdf): SoFi 'added a record 1.2 million members in the third quarter of 2026', total members 17.1 million (up 35% from 12.6 million a year earlier); record product additions of 2.2 million, total products nearly 26.7 million; 2026 guidance raised. Q3 2025 comparison: a then-record 905,000 members added. Release date (reported by drafter as 2026-10-27) not independently confirmed. Do not quote in application materials until fetched from an SEC or SoFi-owned page."
+    },
+    "role_context_from_posting": {
+      "url": "",
+      "notes": "From the employer's Greenhouse posting R0013730 (untrusted input, not independent verification): Sr Director, Head of Enterprise Applied AI, Information Technology department, CA - San Francisco; entity Social Finance, LLC; base $224K-$385K plus bonus and LTI; leads a team of product managers and software / forward deployed engineers building agentic solutions with business teams; 'AI Enterprise Transformation function' described as growing. Self-description: 'next-generation financial services company and national bank', 'millions of members'. Office days not stated."
+    },
+    "reviews": {
+      "url": "",
+      "notes": "Not researched in this pass (network policy)."
+    },
+    "linkedin": {
+      "url": "",
+      "notes": "Not researched in this pass. Hiring manager and reporting line not named in the posting."
+    }
+  },
+  "network_contacts_note": "None identified. Hiring manager not named in the posting."
+}

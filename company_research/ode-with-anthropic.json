@@ -1,0 +1,21 @@
+{
+  "company": "Ode with Anthropic",
+  "fetched_date": "2026-10-30",
+  "sources": {
+    "website": {
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "notes": "Fetched 2026-10-30. Anthropic announcement dated May 4, 2026, titled 'Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs'. Krishna Rao (Anthropic CFO): 'Enterprise demand for Claude is significantly outpacing any single delivery model.' and 'This new firm brings additional operating capability to the ecosystem and capital from leading alternative asset managers.' Founded with Blackstone, H&F, Goldman Sachs; backed by General Atlantic, Leonard Green, Apollo, GIC, Sequoia. Will 'work with mid-sized companies across sectors to bring Claude into their most important operations.' The page does NOT use the name 'Ode' and names no Ode leaders or offices."
+    },
+    "official_site": {
+      "url": "https://ode.com",
+      "notes": "NOT FETCHED: ode.com (and hf.com) do not resolve in this cloud session's network allowlist. Search results say ode.com is the official site after the July 2026 rebrand."
+    },
+    "media": {
+      "url": "",
+      "notes": "UNVERIFIED (search-result leads only, not fetched; do not quote in application materials): public launch/brand 'Ode with Anthropic' around 2026-07-15 (Business Wire); built on Fractional AI (applied-AI services firm acquired earlier in 2026) plus engineers from Anthropic's applied AI group; CEO Chris Taylor, CTO Eddie Siegel; reported ~$1.5B valuation/funding; acquired Casper Studios (~12-person AI services firm) on 2026-08-21; targets mid-size orgs in financial services, healthcare, retail, manufacturing, software; engineers embed inside client companies."
+    },
+    "reviews": {"url": "", "notes": "Not researched in this pass."},
+    "linkedin": {"url": "", "notes": "Not researched in this pass."}
+  },
+  "network_contacts_note": "None identified. Hiring manager not named in the posting."
+}

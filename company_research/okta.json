@@ -1,0 +1,27 @@
+{
+  "company": "Okta",
+  "fetched_date": "2026-10-30",
+  "sources": {
+    "website": {
+      "url": "https://www.okta.com/newsroom/",
+      "notes": "NOT FETCHED: www.okta.com does not resolve from the cloud session (outside allowed network domains); drafter also reports Cloudflare challenge on okta.com and investor.okta.com. Nothing below is verified against an Okta-owned page. Re-run this research once okta.com is allowed, then replace these notes."
+    },
+    "media_ir_leads": {
+      "url": "https://www.businesswire.com/news/home/20260528809289/en/Okta-Announces-First-Quarter-Fiscal-Year-2027-Financial-Results",
+      "notes": "UNVERIFIED (search snippets only; businesswire.com also blocked by session network policy). Leads: Q1 FY2027 results released 2026-05-28 (quarter ended 2026-04-30). Third-party coverage of Q4 FY2026: revenue ~$761M; narrative shifting from single-product identity provider to platform, with AI agents as the expansion vector. Products: 'Okta for AI Agents' (governance layer to discover, govern and control agents as first-class identities; GA reportedly April 30) and 'Auth0 for AI Agents' (formerly 'Auth for GenAI'; customer-facing agent login). 'Cross App Access' open standard for securing AI agents, with partners reportedly incl. AWS, Zoom, Box. Okta IR transcripts are hosted on s205.q4cdn.com (not fetched). Do not quote any of this in application materials until fetched from an Okta-owned or SEC page."
+    },
+    "role_context_from_posting": {
+      "url": "",
+      "notes": "From the employer's Greenhouse posting (untrusted input, not independent verification): tagline 'Secure Every Identity, from AI to Human'; R&D org called ORD (Okta Platform) plus Auth0, 2,000+ people; role reports to Head of Strategy & Operations and Chief of Staff to the President of Okta R&D; hub-based SF/Seattle/Chicago, multiple office days a week; base $290K-$398K SF Bay Area."
+    },
+    "reviews": {
+      "url": "",
+      "notes": "Not researched in this pass (network policy)."
+    },
+    "linkedin": {
+      "url": "",
+      "notes": "Not researched in this pass (network policy). Hiring manager (Head of Strategy & Operations / Chief of Staff to the President of Okta R&D) not identified."
+    }
+  },
+  "network_contacts_note": "None identified. Hiring manager not named in the posting."
+}

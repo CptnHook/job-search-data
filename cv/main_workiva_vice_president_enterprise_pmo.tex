@@ -1,0 +1,196 @@
+%% Tailored CV - Casey Caster - Workiva, Vice President, Enterprise PMO (R12615)
+%%
+%% Facts come from 01-candidate-profile.md (Drive profile is the source of truth).
+%% Compile with: lualatex main_workiva_vice_president_enterprise_pmo.tex
+%% (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors.)
+
+\documentclass[11pt,letterpaper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+
+% Force the name and section headings to render in moderncv blue (color1).
+% Default banking leaves them black: moderncvstylebanking.sty's \colorlet
+% copies (not aliases) the pre-scheme accent colour, so the name colours are
+% frozen before \moderncvcolor runs. Re-let them after. \namefont is the hook
+% every name-style macro routes through, so this also works on moderncv 2.3.1
+% (Debian/Ubuntu apt), which has no \firstnamestyle/\lastnamestyle at all.
+\renewcommand*{\namefont}{\fontsize{34}{36}\bfseries\upshape}
+\colorlet{firstnamecolor}{color1}
+\colorlet{lastnamecolor}{color1}
+\colorlet{namecolor}{color1}
+\renewcommand*{\sectionstyle}[1]{{\sectionfont\color{color1}#1}}
+
+\usepackage[utf8]{inputenc}
+% pdflatex fallback only (the documented engine is lualatex, which skips this
+% branch). Without T1 font encoding pdflatex builds accented letters with
+% \accent, and the PDF text layer stores them decomposed - `e` + U+0300 rather
+% than U+00E8 - so an ATS keyword match on "Genève" fails while the page looks
+% right. moderncv 2.5 loads T1 itself under pdflatex; 2.3.1 (Debian/Ubuntu apt)
+% does not. \ifpdftex comes from iftex, which every moderncv version loads.
+\ifpdftex\usepackage[T1]{fontenc}\fi
+% moderncv loads hyperref itself in an \AtEndPreamble hook, so \hypersetup
+% must go in an \AtEndPreamble of our own: on moderncv < 2.4 a top-level
+% \usepackage{hyperref} clashes with the class's own
+% \RequirePackage[unicode]{hyperref}. From 2.4.0 the class passes its options
+% through \PassOptionsToPackage instead, which is what removes that clash.
+\AtEndPreamble{\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+    pdftitle={Casey Caster - CV},
+    % Keep pdfpagemode=UseNone: this block runs after moderncv's own
+    % \AtEndPreamble (moderncv.cls sets pdfpagemode there), so a FullScreen
+    % value here would win and open every CV in fullscreen presentation mode.
+    pdfpagemode=UseNone,
+}}
+\usepackage[scale=0.80]{geometry}
+\usepackage{import}
+\usepackage{needspace}
+
+% personal data
+\name{Casey}{Caster}
+\address{Pacifica, CA, USA}{}{}
+\phone[mobile]{650.799.9926}
+\email{casey.caster@gmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/caster/}{linkedin.com/in/caster}}
+
+\begin{document}
+
+\makecvtitle
+
+% ============================================================
+%     PROFILE STATEMENT
+% ============================================================
+
+\vspace{6pt}
+\small{Enterprise portfolio and technology operations executive with 15+ years in program management, transformation, and delivery leadership in enterprise SaaS, cloud infrastructure, and fintech. Chief of staff to the CPO and then the CTO at SingleStore, a B2B SaaS company in hypergrowth: cut internal cloud spend 50\%, built a COGS intelligence engine with Finance, negotiates vendor contracts including LLM token pricing, and leads internal GenAI adoption and governance. Built Ripple's global implementation function from 4 project managers to an organization delivering 800+ implementations. PMP; Executive MBA.}
+
+% ============================================================
+%     CORE COMPETENCIES
+% ============================================================
+
+\section{Core Competencies}
+\vspace{1pt}
+\begin{itemize}
+
+\item \textbf{Enterprise PMO, Portfolio Management \& Governance}: Built Ripple's global program management function from the ground up; led Autodesk portfolio optimization across 150+ projects (\$2M+ savings); led an upgrade of Wells Fargo's project portfolio systems for 10,000+ vendors.
+
+\item \textbf{Tech Spend Optimization \& Finance Partnership}: Cut internal cloud spend 50\%; manages the engineering budget with Finance; built a COGS intelligence engine that ties growth trends to investment decisions.
+
+\item \textbf{Vendor \& Contract Governance}: Negotiates vendor contracts, including LLM token pricing; negotiated and fulfilled SOWs and MSAs with enterprise financial institutions.
+
+\item \textbf{Capacity Planning \& Executive Reporting}: Runs engineering capacity planning and delivery dashboards for engineering leadership; acts as chief of staff to the CTO.
+
+\item \textbf{Internal AI Deployment \& Change Management}: Drove internal GenAI adoption through a governance and ops program; leads AI tooling, including Claude Code, across the development stack; agile transformation (5x velocity).
+
+\item \textbf{Risk Management \& Escalation}: Rescued a failing strategic partner integration through a cross-functional realignment, unlocking \$30M+ in recurring ARR; led M\&A technical due diligence and integration.
+
+\end{itemize}
+
+% ============================================================
+%     PROFESSIONAL EXPERIENCE
+% ============================================================
+
+\section{Professional Experience}
+\vspace{3pt}
+\begin{itemize}
+
+\needspace{5\baselineskip}
+\item{\cventry{2021-Present}{Sr Director, Engineering - Internal Services \& Technical Program Management (CTO Chief of Staff)}{SingleStore}{San Francisco, CA}{}{\vspace{1pt}
+Strategy and operations for a cloud-native database company in hypergrowth, reporting to the CPO and then the CTO. Leads seven teams through a director, two managers, a TPM who runs quality assurance, and two principal architects (32 people). Owns cost optimization, M\&A, governance, and AI platform operations programs.
+\begin{itemize}
+    \item {\textbf{Cut internal cloud spend by 50\%} through cross-team policy reform and usage modeling.}
+    \item {\textbf{Manages the engineering budget with Finance}; built a COGS intelligence engine that aligns growth trends with operational investment decisions.}
+    \item {\textbf{Negotiates with vendors}, including LLM token pricing, and analyzes mergers.}
+    \item {\textbf{Drove internal GenAI adoption} with a governance and ops program, creating and launching internal platforms; leads AI tooling, including Claude Code, across the development stack.}
+    \item {\textbf{Runs engineering capacity planning and delivery dashboards} for engineering leadership.}
+    \item {\textbf{Unlocked \$30M+ in recurring ARR} by rescuing a failing strategic partner integration through a cross-functional realignment.}
+    \item {\textbf{Increased engineering velocity 5x} through agile transformation and accountability systems.}
+    \item {\textbf{Launched an internal development platform}, reducing infrastructure bottlenecks by 70\%.}
+    \item {\textbf{De-risked M\&A} by leading technical due diligence, then integrating acquired teams into core systems and workflows.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{2016-2020}{Global Head of Program Management, Customer Success}{Ripple, Inc.}{San Francisco, CA}{}{\vspace{1pt}
+Promoted to lead global delivery programs for RippleNet and architect the implementation function.
+\begin{itemize}
+    \item {\textbf{Delivered 800+ global implementations}, with 250+ running concurrently; grew the team from 4 project managers to three managers of project management and 25 project managers, plus 75+ engineers and architects led indirectly.}
+    \item {\textbf{Cut customer delivery time from eight months to eight weeks} across RippleNet implementations.}
+    \item {\textbf{Created the RippleNet Committee}, a global governance body, negotiating with C-suite executives of major banks.}
+    \item {\textbf{Negotiated and fulfilled SOWs and MSAs} with enterprise financial institutions; oversaw a joint venture in Japan that delivered implementations at 68+ additional banks.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{2014-2015}{Senior Program Manager}{Wells Fargo Bank}{San Francisco, CA}{}{\vspace{1pt}
+\begin{itemize}
+    \item {\textbf{Led an upgrade of project portfolio systems} for 10,000+ vendors.}
+    \item {\textbf{Delivered a \$20M+ digital transformation initiative}, coordinating 300+ testers.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{2013-2014}{Senior Program Manager, Head of Continuous Improvement}{Autodesk}{San Francisco, CA}{}{\vspace{1pt}
+\begin{itemize}
+    \item {\textbf{Led portfolio optimization with \$2M+ in savings} and improved user satisfaction.}
+    \item {Analyzed 150+ projects and delivered recommendations to improve efficiency and employee engagement.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{2012-2013}{Head of Customer Success}{Engajer}{Mountain View, CA}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Built and led programs supporting 850+ customers; increased revenue 20\% per account with 85\% retention.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{2010-2012}{Senior Consultant}{Avanade}{San Francisco, CA}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Led requirements for new CRM systems; delivered CRM and communications transformations in utilities and healthcare.}
+\end{itemize}}}
+
+\end{itemize}
+
+% ============================================================
+%     SELECTED ACCOMPLISHMENTS
+% ============================================================
+
+\section{Selected Accomplishments}
+\vspace{1pt}
+\begin{itemize}
+\item {\textbf{Established Ripple's payments network governance}: membership scheme, governing body, and business rules; enrolled the first 12 banks and grew membership past 200.}
+\item {\textbf{Implemented a \$4M virtual testing network program} with teams in Bangalore and London, saving hundreds of person-hours per test cycle.}
+\item {\textbf{Mentored dozens of team members}, three of whom became CEOs at other companies.}
+\end{itemize}
+
+% ============================================================
+%     EDUCATION
+% ============================================================
+
+\section{Education \& Certifications}
+\vspace{1pt}
+\begin{itemize}
+\item{\textbf{Project Management Professional (PMP)}, Project Management Institute}
+\item{\textbf{Executive MBA}, Cornell University (Johnson) and Queen's University (Smith), dual degree}
+\item{\textbf{BS, Electronic Engineering Technology}, DeVry University, Pomona, CA}
+\end{itemize}
+
+% ============================================================
+%     REFERENCES
+% ============================================================
+
+\section{References}
+\vspace{1pt}
+\begin{itemize}
+\item{Available upon request.}
+\end{itemize}
+
+\end{document}
