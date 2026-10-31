@@ -9235,7 +9235,7 @@
       "posted_date": "2026-10-27",
       "deadline": "2026-10-30",
       "fit": "high",
-      "status": "ranked",
+      "status": "expired",
       "portal": "linkedin-search",
       "source": "cli",
       "rank_score": 52,
@@ -10105,9 +10105,24 @@
       "posted_date": "2026-10-29",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 79,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Leads Business Operations and Delivery Operations through leaders, owns rhythm of business, executive reporting and capacity planning, which matches his CTO chief-of-staff and engineering operations work",
+        "Cost of Cloud and service economics programs partnered with Finance line up with his 50% cloud spend cut and COGS intelligence engine",
+        "VP role at a large public company in cloud data and storage, with real org-building scope and a part in setting direction for strategic programs"
+      ],
+      "gaps": [
+        "Requires strong technical depth in distributed systems and storage, enough to challenge architecture plans; Casey leads through deep technical people rather than being hands-on",
+        "Posted range is $169.8K-$355.4K, so $300K+ sits near the top and $350K is at the ceiling (bonus and equity possible)",
+        "Location listed only as United States; office or remote arrangement and Bay Area availability not stated"
+      ]
     },
     "qu_vp-of-engineering-program-management": {
       "title": "VP of Engineering, Program Management",
@@ -10118,9 +10133,24 @@
       "posted_date": "2026-10-30",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 61,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP-level engineering program management role covering release management, intake/triage and incident management processes",
+        "Building a small dedicated release team and driving process adoption across Product and Engineering fits his builder profile",
+        "Mostly virtual company, so remote US works"
+      ],
+      "gaps": [
+        "Scope leans toward execution and agile process enforcement (Scrum coaching, release cadence) with a small team, not strategy ownership; Scrum Master cert has lapsed and he is not targeting scrum-centric roles",
+        "Restaurant POS software is outside his preferred sectors, and the posting asks for POS industry experience",
+        "No salary range posted, and a small-company VP of program management may fall below his $300K base floor"
+      ]
     },
     "td_head-technology-portfolio-management-transaction-banking-pay-a5937a": {
       "title": "Head - Technology Portfolio Management, Transaction Banking & Payments, TD Securities",
@@ -10274,9 +10304,24 @@
       "posted_date": "2026-10-30",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 69,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Build business operations from zero to one, including governance, decision rights and operating cadence, which matches his builder strengths",
+        "Rolling out AI-native workflows, measuring adoption and ROI, and running the Jira-based workplace tech ecosystem match his GenAI adoption and governance work",
+        "Works closely with Cooley AI leadership and builds and leads its own team"
+      ],
+      "gaps": [
+        "Pay range is $250K-$325K, so the top is just above his $300K floor and well below his $350K ideal",
+        "Head of title inside a law-firm subsidiary; it translates strategy into operating plans rather than owning it, and it lists influence without formal authority, more hands-on ops than VP scope",
+        "Based in San Francisco, but office days are not stated, and the posting says extended or weekend hours and travel as required"
+      ]
     },
     "sbm-management-services-lp_vice-president-of-operations": {
       "title": "Vice President of Operations",
