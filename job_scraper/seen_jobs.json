@@ -6063,7 +6063,7 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "linkedin-search",
       "source": "cli",
       "location": "United States"
@@ -6089,10 +6089,25 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "United States"
+      "location": "United States",
+      "rank_score": 47,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP of delivery building and scaling a practice, recruiting and developing delivery talent",
+        "C-suite client relationships and engagement governance and risk management, close to Ripple delivery leadership",
+        "Remote flexible work in the US"
+      ],
+      "gaps": [
+        "Requires 10+ years of Salesforce-platform delivery, 5+ years of healthcare and life sciences domain depth, Salesforce Health Cloud expertise and certifications, none of which Casey has",
+        "Consulting practice measured on utilization, personal billability and sales targets; healthcare is not a target sector; no salary posted",
+        "Location: remote, but travel to client sites is 25%+, above his preferred limit"
+      ]
     },
     "vanta_vp-success-services": {
       "title": "VP, Success & Services",
@@ -6197,10 +6212,24 @@
       "posted_date": "2026-10-20",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "Houston, TX"
+      "location": "Houston, TX",
+      "rank_score": 42,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Reports to the CEO and brings a ranked automation roadmap to the leadership team",
+        "AI enablement and adoption programs (office hours, prompt libraries, power users) match his GenAI adoption work; PMP listed as nice to have"
+      ],
+      "gaps": [
+        "Hands-on role: he must personally build agents, apps and data pipelines, and the posting says strategy, vendor selection or pilot governance alone are not a fit",
+        "No team and deliberately little formal authority, with AI strategy owned by the Chief Transformation Officer, which conflicts with his authority requirement; real estate sector; no salary posted",
+        "Location: Houston, TX preferred; remote or Bay Area option not stated"
+      ]
     },
     "janus-henderson-investors_head-of-ai": {
       "title": "Head of AI",
@@ -10237,11 +10266,26 @@
       "location": "Foster City, CA",
       "first_seen": "2026-10-31",
       "posted_date": "2026-10-30",
-      "deadline": null,
+      "deadline": "2026-11-27",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 73,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP at a large public payments company, the single accountable leader for release readiness, new product deployment and servicing-model design across four portfolios",
+        "Payments ecosystem knowledge and client-facing delivery at scale, matching Ripple's 800+ bank implementations and bank C-suite governance",
+        "Foster City, at least 3 days in office; base range $222.5K to $458.1K (includes $300K and $350K) plus possible bonus and equity"
+      ],
+      "gaps": [
+        "Calls for deep incident and problem management and service-engineering practice (observability, telemetry, root-cause remediation), lighter in his background",
+        "Heavily matrixed role that works through influence over Product, Technology and Risk; must also confirm the role has real team and decision rights",
+        "Card-processing specifics (issuers, acquirers, tokenization, 3DS) go beyond his Ripple and Wells Fargo experience"
+      ]
     },
     "lattice-semiconductor_vice-president-solutions-r-d-and-plm": {
       "title": "Vice President, Solutions R&D and PLM",
@@ -10718,10 +10762,25 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "note": "VP, reports to CCO, hybrid SF, $289-433K; support-org depth required"
+      "note": "VP, reports to CCO, hybrid SF, $289-433K; support-org depth required",
+      "rank_score": 60,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP reporting to the CCO, building and governing an AI-orchestrated support model at an AI-focused enterprise SaaS company",
+        "AI governance, feedback loops and cross-functional alignment with Product, Engineering and Finance match his GenAI governance and operations work",
+        "San Francisco hybrid with about 20-25% travel; base $289K to $433K (top above $350K)"
+      ],
+      "gaps": [
+        "Requires leading a 300+ person global 24/7 technical support organization; his largest teams are 32 direct and about 100 through others",
+        "Requires owning the P&L of a monetized Premier support business plus hands-on Zendesk experience; Casey has managed a budget, not a P&L",
+        "Wants 20+ years of leadership with 10+ years of global multi-functional teams; the bottom of the base range is under $300K"
+      ]
     },
     "pylon_head-of-support": {
       "title": "Head of Support",
@@ -10872,10 +10931,24 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "note": "Reports to CEO, fintech; IC role, IB background asked"
+      "note": "Reports to CEO, fintech; IC role, IB background asked",
+      "rank_score": 58,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Chief of Staff reporting directly to the founder and CEO of a large public fintech, with direct C-suite (MTeam) access",
+        "Runs the operating rhythm, decision follow-through and CEO-sponsored cross-functional initiatives, close to his CTO chief-of-staff role; MBA is a plus"
+      ],
+      "gaps": [
+        "Requires senior investment banking or top-tier consulting experience advising CEOs or Boards on transactions; Casey has M&A diligence but neither background",
+        "Individual contributor role (IC9) with no team, a poor fit for his authority preference even at a large company; no salary posted",
+        "Location: Bay Area aligned with the CEO's base; office days not stated"
+      ]
     },
     "betmgm_svp-business-transformation-and-ai-strategy": {
       "title": "SVP, Business Transformation and AI Strategy",
@@ -11068,10 +11141,25 @@
       "posted_date": "2026-10-23",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "note": "Director at large firm (PwC), $155-410K; work model unstated"
+      "note": "Director at large firm (PwC), $155-410K; work model unstated",
+      "rank_score": 62,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Core PMO and portfolio work: governance, prioritization, resource allocation and benefits realization across complex transformation programs",
+        "Director level at a very large firm, so the level gate passes and execution-focused scope is acceptable",
+        "Posted range of $155K-$410K reaches well above $350K"
+      ],
+      "gaps": [
+        "Client-facing Advisory consulting role that expects business development, market-gap thought leadership and growing the practice, which Casey has not done since Avanade",
+        "Managed-services PMO for clients rather than an internal engineering or AI role; no C-suite reporting line or AI or dev-tooling angle stated",
+        "Location: San Francisco, but office days and hybrid policy are not stated"
+      ]
     },
     "cbre_global-pmo-director": {
       "title": "Global PMO Director",
@@ -11936,10 +12024,25 @@
       "posted_date": "2026-10-26",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "source": "cli",
-      "note": "VP CS, remote, $230-350K"
+      "note": "VP CS, remote, $230-350K",
+      "rank_score": 69,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP role building and scaling the whole post-sales organization (AI adoption onboarding, CSM, support, account management) at a fast-growing AI vertical SaaS company",
+        "Partners with executive leadership, including the President of Field Operations, on AI change management and complex implementations, which matches Ripple's global implementation and customer success track record",
+        "Remote, with an SF hub; base $230K-$350K plus equity"
+      ],
+      "gaps": [
+        "Asks for 15+ years of Customer Success and Account Management leadership; Casey's CS-specific leadership is Ripple and Engajer, not a continuous CS career",
+        "Strong emphasis on NRR, renewals, expansion and account turnarounds, a revenue-ownership track record Casey only partly has",
+        "Posted top of $350K just reaches his ideal; legaltech is outside his favored sectors"
+      ]
     },
     "feedbackfruits_customer-success-manager-north-america": {
       "title": "Customer Success Manager North America",
@@ -12566,10 +12669,25 @@
       "posted_date": "2026-10-30",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "source": "cli",
-      "note": "VP, remote, $258-341K; partnerships role"
+      "note": "VP, remote, $258-341K; partnerships role",
+      "rank_score": 57,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP executive owner who sets company-wide strategy for technology, data and AI partnerships, with build, buy, partner or acquire decisions and building the team",
+        "Overlaps with his rescue of a strategic partner integration ($30M+ ARR), vendor and LLM pricing negotiation, and M&A due diligence",
+        "Enterprise SaaS with an AI, agents and MCP ecosystem focus; San Francisco with a remote tag"
+      ],
+      "gaps": [
+        "Core requirement is having built or scaled a technology or data partnership function and negotiated multi-year deals on data rights, IP, licensing and economics, which Casey has not done",
+        "Expects technical fluency on architecture, APIs, identity and data licensing; Casey is not hands-on technical",
+        "Base $258K-$341K: top clears $300K but sits below the $350K ideal"
+      ]
     },
     "anaplan_vp-technology-partnerships": {
       "title": "VP, Technology Partnerships",
@@ -12664,10 +12782,25 @@
       "posted_date": "2026-10-25",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "source": "cli",
-      "note": "VP reports to CIO, remote US, $214.7-361.9K"
+      "note": "VP reports to CIO, remote US, $214.7-361.9K",
+      "rank_score": 62,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP reporting directly to the CIO, leading Financial Systems, People Technology and an Enterprise AI Lab: workforce and internal technology plus AI enablement at an identity security company",
+        "Calls for Claude Code and Cursor adoption, Bedrock and Vertex, and AI governance, matching his SingleStore GenAI adoption and internal platform work",
+        "US remote with 10-20% travel; base $214.7K-$361.9K"
+      ],
+      "gaps": [
+        "Requires hands-on enterprise AI architecture (LLM gateways, MCP, RAG, agent frameworks) plus Python, scikit-learn and PyTorch fluency; Casey leads through technical people and does not build these himself",
+        "Requires a track record leading Workday, NetSuite/ERP, Salesforce and Snowflake/BigQuery application portfolios; Casey has no Workday or NetSuite background",
+        "15+ years in enterprise technology and business applications leadership; his background is engineering ops, TPM and customer delivery rather than corporate IT"
+      ]
     },
     "marmon-holdings_chief-information-officer": {
       "title": "Chief Information Officer",
@@ -13952,10 +14085,25 @@
       "posted_date": "2026-10-30",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "source": "cli",
-      "note": "Director at large public co, $268.6-395K, hybrid SF"
+      "note": "Director at large public co, $268.6-395K, hybrid SF",
+      "rank_score": 75,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Leads 12 TPMs supporting about 1,300 engineers and reports to the VP of Engineering Operations at a large high-growth company, so the Director level passes",
+        "Shapes portfolio strategy, operating mechanisms and the multi-year Pedregal re-architecture, which fits his TPM, eng-ops and transformation builder profile",
+        "Explicitly wants a leader who uses AI to amplify TPM output; base $268.6K-$395K plus equity"
+      ],
+      "gaps": [
+        "Asks for 12+ years as a TPM with 7+ years leading TPM teams, plus deep technical credibility on architecture, platform migrations and reliability; Casey is not hands-on technical",
+        "Director under a VP and alongside four Senior Directors, so strategy sits mostly with Engineering leadership; no direct C-suite access",
+        "Location: hybrid near San Francisco or Sunnyvale, but office days per week are not stated"
+      ]
     },
     "versant_vice-president-governance-risk-and-compliance-grc": {
       "title": "Vice President, Governance, Risk, and Compliance (GRC)",
@@ -14568,10 +14716,25 @@
       "posted_date": "2026-10-28",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "source": "cli",
-      "note": "Sr Dir at large co, $169.8-355.4K; location/work model unstated"
+      "note": "Sr Dir at large co, $169.8-355.4K; location/work model unstated",
+      "rank_score": 65,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-31",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Sr Director TPM at a very large public company, so the level gate passes and an execution-focused role is acceptable",
+        "Program governance, risk mitigation, KPI design, resource and funding forecasting, global delivery standards and executive alignment all map to his primary skills",
+        "People manager role overseeing development, QA and customer success program staff; base $169.8K-$355.4K plus bonus and equity"
+      ],
+      "gaps": [
+        "Generic, oversight-heavy posting with no named product area or reporting line, and no clear AI or high-growth signal",
+        "Stresses security escalations, compliance and maintenance programs and Oracle Cloud transitions, which point toward a maintainer role and are less builder-oriented",
+        "Location: listed only as United States, with no city or workplace type, so remote or hybrid status and office days are unknown"
+      ]
     },
     "asrc-federal_director-program-management-dhs": {
       "title": "Director Program Management, DHS",
