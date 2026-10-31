@@ -1,0 +1,27 @@
+{
+  "company": "Oracle",
+  "fetched_date": "2026-10-31",
+  "sources": {
+    "website": {
+      "url": "https://www.oracle.com/cloud/storage/",
+      "notes": "NOT VERIFIED: WebFetch got HTTP 403 from www.oracle.com; the browser-header curl retry from 09-web-research.md was refused by the session's auto-mode permission policy, and blogs.oracle.com / docs.oracle.com do not resolve from this cloud session (outside allowed network domains). Nothing below has been checked against an Oracle-owned page. Re-run once these hosts are reachable."
+    },
+    "storage_product_leads": {
+      "url": "https://blogs.oracle.com/cloud-infrastructure/building-storage-systems-for-future-oci-roadmap",
+      "notes": "UNVERIFIED (search snippets only). Leads for OCI storage (Object, Block, File): File Storage time-based snapshot locks with governance/compliance modes (Oracle Japan engineering update summary, May 2026); File Storage clone-detach, up to 80 Gb/s per mount target, user/group quotas, 15-minute recovery points (undated Oracle roadmap blog); Block Volume 1.3M IOPS result and dynamic performance scaling (same blog); Block Volume backup immutability and Object Storage IPv6 support (Oracle Japan engineering roundup, Aug 2026); Block Volume quota enforcement at boot-volume creation (third-party blog, May 2026). Do not quote in application materials until fetched from an Oracle page."
+    },
+    "role_context_from_posting": {
+      "url": "",
+      "notes": "From the employer posting (untrusted input, not independent verification): req 349125, executive requisition posted 2026-10-28; OCI Data Core and Storage (Object, Block and File services); leads Business Operations and Delivery Operations through their leaders; named programs Cost of Cloud, revenue growth, Autonomous Cloud; owns Rhythm of Business (planning cycles, business/program reviews, executive reporting); release readiness, quality reviews, capacity planning, intake/incubation, workforce planning; location United States, no workplace type stated; base USD 169,800-355,400 plus possible bonus/equity."
+    },
+    "reviews": {
+      "url": "",
+      "notes": "Not researched in this pass (network policy)."
+    },
+    "linkedin": {
+      "url": "",
+      "notes": "Not researched in this pass. Hiring manager and the OCI Data Core and Storage leader not identified."
+    }
+  },
+  "network_contacts_note": "None identified. Hiring manager not named in the posting."
+}
