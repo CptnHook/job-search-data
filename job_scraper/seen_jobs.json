@@ -16188,9 +16188,24 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 74,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-02",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Owns all post-contract technical teams (integration and support engineering, about 20 people) and builds the playbooks, SLAs and onboarding, which mirrors his Ripple global implementation function",
+        "Fintech fraud and risk platform, a sector he likes; requires domain experience in financial services or banking, which he has from Ripple and Wells Fargo",
+        "Remote-first; listed in the San Francisco Bay Area"
+      ],
+      "gaps": [
+        "Asks for deep technical and product expertise to guide integration scoping and contract structuring; he is not hands-on technical",
+        "No compensation posted, so base against the $300K floor is unknown",
+        "Reporting line and part in company strategy are not stated; the role leans toward running delivery and support"
+      ]
     },
     "ace-electric-inc_vice-president-of-technology": {
       "title": "Vice President of Technology",
@@ -16584,9 +16599,24 @@
       "posted_date": "2026-10-20",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 79,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-11-02",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Head of Strategy and Operations on the executive leadership team: sets strategic direction, owns planning, OKRs and operating cadences, with real authority over resource allocation",
+        "Leads a roughly 15-person org across business ops, marketing, safety and insurance ops; asks for teams of 10-20+ and strategy-to-execution builders, which matches his SingleStore and Ripple record",
+        "Drive replacing manual work with AI agents and automation at a high-growth Series D company; remote role"
+      ],
+      "gaps": [
+        "Pay is posted as total cash of $280K-$370K, not base; base could fall below the $300K floor, and equity is extra",
+        "Reports to the GM of the Insurance business rather than the CEO; insurance or insurtech experience and marketing leadership are nice-to-haves he lacks",
+        "Wants P&L, unit-economics and financial-modeling depth; his budget work has been with Finance, not P&L ownership"
+      ]
     },
     "groupon_director-senior-director-marketplace-strategy-operations": {
       "title": "Director / Senior Director, Marketplace Strategy & Operations",
@@ -16776,9 +16806,24 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 64,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-02",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Build the customer success function from an early stage (hiring, operating model, playbooks) at a high-growth AI workforce startup",
+        "Executive sponsor for the largest enterprise accounts; presents strategy and metrics to the executive team and board",
+        "Remote US; does not require coding, only technical curiosity about integrations, APIs and AI"
+      ],
+      "gaps": [
+        "Player-coach role with direct targets for gross retention, NRR, expansion and renewals; he hasn't owned NRR or renewal quotas",
+        "Prefers hands-on logistics or freight experience, which he lacks; Spanish or Portuguese is a nice-to-have",
+        "No compensation posted, and the team starts small, so the level and the $300K base are uncertain"
+      ]
     },
     "crux_director-of-business-development-research-intelligence": {
       "title": "Director of Business Development , Research & Intelligence",
@@ -17532,9 +17577,24 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 60,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-02",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Build the TPM function from the ground up and own delivery, capacity planning, SLAs and margin across the Applied AI practice, which matches his TPM and global delivery background",
+        "Manages managers across TPMs, project managers and vendor workforces; executive partner to frontier AI lab customers",
+        "AI sector; remote US with SF, NY and Boston listed"
+      ],
+      "gaps": [
+        "Posted base range is $191K-$250K; the top is under his $300K floor",
+        "Requires deep hands-on frontier AI expertise (training data, LLM evaluation, annotation programs) and a CS or AI degree; his degree is in electronic engineering technology and he isn't hands-on technical",
+        "Reporting line not stated; the role is an operator delivery role, not one that shapes company strategy"
+      ]
     },
     "opower_director-e-o-and-end-of-life-monetization-oci-supply-chain": {
       "title": "Director, E&O and End-of-Life Monetization — OCI Supply Chain",
