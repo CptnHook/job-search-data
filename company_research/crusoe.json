@@ -1,0 +1,27 @@
+{
+  "company": "Crusoe",
+  "fetched_date": "2026-10-30",
+  "sources": {
+    "website": {
+      "url": "https://www.crusoe.ai/about/company",
+      "notes": "Fetched via curl with browser UA (200). Mission: 'Accelerate the abundance of energy and intelligence.' Self-description: 'energy-first approach to AI infrastructure. We're vertically integrated, meaning we find innovative energy sources, build and manage hyperscale AI factories, and offer a scalable AI cloud platform.' Homepage title: 'The AI factory company'. Timeline: founded 2018 (stranded natural gas to compute, Digital Flare Mitigation); 2023 Iceland Crusoe Cloud deployment; 2024 $600M Series D, Crusoe Cloud GA, broke ground on Stargate 1.2 GW campus in Abilene TX; 2025 $1B+ Series E, acquired GPU memory startup Atero and opened Tel Aviv office, launched Crusoe Spark modular AI data centers with Redwood Materials, divested bitcoin mining to NYDIG, launched Crusoe Managed Inference; 2026 $3.9B+ Series F, Aalo Atomics nuclear partnership, 1.0 GW Childress TX campus with Lancium, 900 MW Abilene campus for Microsoft, $200M+ Crusoe Spark Factory in Brighton CO, Crusoe Edge Zones, Fast Company Most Innovative 2026. Values: Think like a mountaineer; Move fast and make things; Bend the arc of energy toward sustainability; Tap into the collective genius; With our customers, we build together and win forever; Live on the infinite growth loop."
+    },
+    "manufacturing": {
+      "url": "https://www.crusoe.ai/manufacturing",
+      "notes": "Fetched (200). 'Crusoe Industries' builds custom server systems, industrial controls, power distribution centers, metal structures, electrical enclosures; Crusoe Spark is 'an AI-optimized modular data center that can be deployed anywhere'. Newsroom 2026-09-14: 'Crusoe Opens Second Tulsa Manufacturing Facility'."
+    },
+    "leadership": {
+      "url": "https://www.crusoe.ai/about/leadership",
+      "notes": "Fetched (200). Founders: Chase Lochmiller (Co-founder, CEO, Chairman), Cully Cavness (Co-founder, President, Chief Strategy Officer). Executives: Chris Dolan (Chief Data Center Officer), Jamey Seely (CLO), Matt Field (Chief Real Estate Officer), Michael Gordon (COO and CFO), Nitin Perumbeti (CTO), Tara Green (Chief People Officer), Tim Loos (Chief Accounting Officer). Also Andrew Sweatman (VP Manufacturing), Stephen Martin (Global Risk & Compliance Officer), Kyle Sosnowski (SVP Software Engineering). No CIO or IT leader listed; reporting line for the VP IT role is not stated anywhere fetched."
+    },
+    "media": {
+      "url": "https://www.crusoe.ai/newsroom",
+      "notes": "Fetched (200). Recent headlines: 2026-10-22 Araico partnership (AI cloud in Paraguay); 2026-10-22 $700M Neuberger facility to finance power infrastructure for AI factories; 2026-10-21 Crusoe Spark Liquid (liquid-cooled modular AI factory), NVIDIA DSX POD support, Polar 40MW Norway expansion; 2026-10-08 $50M compute credits pledge to White House AI Science Initiative; 2026-09-28 Armstrong County TX campus; 2026-09-23 Thinking Machines Lab partnership; 2026-09-17 $3.9B Series F and new board members (Thomas Seifert, Bill Stein, JB Straubel); 2026-09-15 Perplexity partnership; 2026-09-14 second Tulsa manufacturing facility. Headlines read from the listing page only; individual releases not fetched."
+    },
+    "reviews": {
+      "url": "",
+      "notes": "Not researched this pass."
+    }
+  },
+  "network_contacts_note": "None recorded. Private company (Series F); posting mentions IPO readiness as a plus but no IPO announcement found on crusoe.ai. Ashby lists the role as OnSite in San Francisco."
+}

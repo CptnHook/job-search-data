@@ -1,0 +1,162 @@
+{
+ "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6139722004",
+ "board": "agilityrobotics",
+ "files": {
+  "cv": "8786606563551cabce076aa803b992c47f041272399e52023c961ffa30f0c63f",
+  "cover": "1d8416ff4edc8863c6c9cf20f703e1af4330151bbc19d9debffaffb273ab91dd"
+ },
+ "cvPath": "documents/applications/agility_robotics_vice_president_strategic_program_management_office/send/Casey_Caster_Resume.pdf",
+ "coverPath": "documents/applications/agility_robotics_vice_president_strategic_program_management_office/send/Casey_Caster_Cover_Letter.pdf",
+ "answers": [
+  {
+   "key": "first_name",
+   "label": "First Name",
+   "type": "text",
+   "value": "Casey",
+   "signature": "851b4898702591e0",
+   "source": "identity.given_name",
+   "required": true
+  },
+  {
+   "key": "last_name",
+   "label": "Last Name",
+   "type": "text",
+   "value": "Caster",
+   "signature": "b8167b4bb96eccc3",
+   "source": "identity.family_name",
+   "required": true
+  },
+  {
+   "key": "email",
+   "label": "Email",
+   "type": "text",
+   "value": "casey.caster@gmail.com",
+   "signature": "2b8352269f653a27",
+   "source": "contact.email",
+   "required": true
+  },
+  {
+   "key": "country",
+   "label": "Country",
+   "type": "combobox",
+   "value": "United States +1",
+   "signature": "fcb2fc0ca95abaf6",
+   "source": "residence.phone_dialing_country",
+   "required": true
+  },
+  {
+   "key": "phone",
+   "label": "Phone",
+   "type": "tel",
+   "value": "650-799-9926",
+   "signature": "19a6c097b62901d2",
+   "source": "contact.phone",
+   "required": true
+  },
+  {
+   "key": "candidate-location",
+   "label": "Location (City)",
+   "type": "combobox",
+   "value": "Pacifica, California, United States",
+   "signature": "34ed869aca9cf3ff",
+   "source": "residence.city / state",
+   "required": true,
+   "query": "Pacifica"
+  },
+  {
+   "key": "resume",
+   "label": "Resume/CV",
+   "type": "file",
+   "value": "cv",
+   "signature": "0f73f7284b8e2a50",
+   "source": "tailored resume (approved PDF)",
+   "required": true
+  },
+  {
+   "key": "cover_letter",
+   "label": "Cover Letter",
+   "type": "file",
+   "value": "cover",
+   "signature": "f1267baff84e9b2a",
+   "source": "cover letter (approved PDF)",
+   "required": false
+  },
+  {
+   "key": "question_19409997004",
+   "label": "LinkedIn Profile",
+   "type": "text",
+   "value": "https://www.linkedin.com/in/caster/",
+   "signature": "a016c4c113d74a9b",
+   "source": "contact.linkedin_url",
+   "required": false
+  },
+  {
+   "key": "question_19410000004",
+   "label": "Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?",
+   "type": "combobox",
+   "value": "No",
+   "signature": "48ad1777f42cb9e0",
+   "source": "eligibility.US.sponsorship_now and _future (both No)",
+   "required": true
+  },
+  {
+   "key": "question_19410001004",
+   "label": "Are you legally authorized to work in the United States?",
+   "type": "combobox",
+   "value": "Yes",
+   "signature": "fcda15880c923420",
+   "source": "eligibility.US.work_authorized",
+   "required": true
+  },
+  {
+   "key": "question_19410002004",
+   "label": "Are you a previous employee or contractor?",
+   "type": "combobox",
+   "value": "No",
+   "signature": "a2f6c6df87ee3aa3",
+   "source": "employment history (never worked at Agility)",
+   "required": true
+  },
+  {
+   "key": "gender",
+   "label": "Gender",
+   "type": "combobox",
+   "value": "Male",
+   "signature": "0b1c9b3b6f63277c",
+   "source": "disclosure.sex (saved answer)",
+   "required": false,
+   "group": "eeo"
+  },
+  {
+   "key": "hispanic_ethnicity",
+   "label": "Are you Hispanic/Latino?",
+   "type": "combobox",
+   "value": "No",
+   "signature": "f397fbe701b48598",
+   "source": "disclosure.ethnicity: Not Hispanic or Latino",
+   "required": false,
+   "group": "eeo"
+  },
+  {
+   "key": "race",
+   "label": "Please identify your race",
+   "type": "combobox",
+   "value": "White",
+   "signature": "",
+   "source": "disclosure.race (saved answer)",
+   "required": false,
+   "group": "eeo",
+   "conditional": true
+  },
+  {
+   "key": "veteran_status",
+   "label": "Veteran Status",
+   "type": "combobox",
+   "value": "I am not a protected veteran",
+   "signature": "6b057c7ead7c6fb1",
+   "source": "disclosure.veteran_status: not a veteran",
+   "required": false,
+   "group": "eeo"
+  }
+ ]
+}

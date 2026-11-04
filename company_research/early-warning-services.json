@@ -1,0 +1,32 @@
+{
+  "company": "Early Warning Services",
+  "fetched_date": "2026-10-30",
+  "verification_status": "UNVERIFIED LEADS ONLY. On 2026-10-30 www.earlywarning.com and www.zelle.com were not reachable from the cloud session (host outside the session's allowed network domains), so no primary page was fetched. Everything below comes from WebSearch result summaries, which are leads, not sources. Re-fetch the primary URLs before using any claim in a final document, and treat this file as stale for verification purposes.",
+  "sources": {
+    "website": {
+      "url": "https://www.earlywarning.com/",
+      "notes": "Not fetched (host blocked by session network policy). Posting self-description (untrusted): 'powered and protected the U.S. financial system for over thirty years' with Zelle and Paze; hybrid work model. Search leads: Early Warning Services, LLC is a privately held fintech owned by seven U.S. banks, headquartered in Scottsdale, Arizona; operates Zelle and the Paze wallet, plus the National Shared Database (data from 2,500+ financial institutions)."
+    },
+    "press_release_zelle_india": {
+      "url": "https://www.zelle.com/press-releases/zelle-heads-to-india-unveils-zelleusdsm-stablecoin-other-markets",
+      "notes": "Not fetched (host blocked). Headline per search: 'Zelle Heads to India, Unveils ZelleUSD(SM) Stablecoin For Other Markets'. Search leads (AP via abcnews.com / wtop.com, American Banker, PaymentsJournal): announced June 11, 2026; India is Zelle's first international market, launching later in 2026; ZelleUSD (ticker ZLUSD) is a planned USD-backed stablecoin for international payments, framed in the headline as being for markets beyond India. American Banker: EWS did not say who will issue or custody the stablecoin. The release was found on zelle.com; an earlywarning.com copy was not confirmed."
+    },
+    "size_and_ownership": {
+      "url": "https://www.reveliolabs.com/companies/early-warning-services/employees/",
+      "notes": "Third-party estimates only (no company-published figure found): Revelio Labs ~1,812 employees (Dec 2025, +10.3% YoY); LeadIQ ~1.7K (Feb 2026); IBISWorld 750; ZoomInfo/Wiza 1K-5K; Seamless.ai 5,001-10,000 (outlier). Revenue estimates (unaudited, third-party): Zippia $250M, ZoomInfo $458.6M, Growjo $502.3M, IBISWorld ProcurementIQ 2026 $798.5M. Not public (bank-consortium-owned LLC). Zelle network payment volume is not company revenue; do not conflate."
+    },
+    "reviews": {
+      "url": "",
+      "notes": "Not researched this run."
+    },
+    "linkedin": {
+      "url": "",
+      "notes": "Not researched this run."
+    },
+    "media": {
+      "url": "https://www.americanbanker.com/payments/news/zelle-steps-into-crowded-remittance-market-with-a-stablecoin",
+      "notes": "Lead only (not fetched): coverage of the India/ZelleUSD announcement; analysts note regulatory and compliance questions around the stablecoin."
+    }
+  },
+  "network_contacts_note": "None identified."
+}

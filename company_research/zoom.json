@@ -1,0 +1,21 @@
+{
+  "company": "Zoom",
+  "fetched_date": "2026-10-30",
+  "sources": {
+    "website": {
+      "url": "https://www.zoom.com/en/about/",
+      "notes": "NOT FETCHED: www.zoom.com does not resolve from the cloud session (outside allowed network domains); drafter also reports zoom.com and news.zoom.us unresolvable. Nothing below is verified against a Zoom-owned page. No public Zoom source was found for an internal 'Zoom on Zoom' / 'IT as Customer Zero' program; treat those phrases as the posting's own wording only. Re-run once zoom.com / news.zoom.us / investors.zoom.us are allowed."
+    },
+    "media": {
+      "url": "https://en.wikipedia.org/wiki/Zoom_Video_Communications",
+      "notes": "UNVERIFIED (search snippets only, page not fetched): ~7,420 employees (Jan 2024); Feb 2023 layoff of ~1,300 (15%). Public company (NASDAQ: ZM). Implies Zoom is a large public company (5,000+), so the Director/Sr Director exception in Casey's targeting applies. Do not quote headcount in application materials until verified on a Zoom-owned or SEC page."
+    },
+    "role_context_from_posting": {
+      "url": "",
+      "notes": "From the Workday posting R19466 (untrusted input, not independent verification): Head of Infrastructure and Employee Services, San Jose, CA; ~70 people across seven global locations; scope: end-user services, IAM, endpoint, Unified Communications, service operations, XaaS apps, product engineering labs, IaC, AI/automation for employee services, tech-debt reduction, 'Zoom-on-Zoom', 'IT as Customer Zero', infrastructure portfolio governance. Requires 15 yrs IT infra/ops, 5 yrs VP/Sr Director, teams in 10,000+ employee orgs, SRE, NIST/SOX/SOC, Okta/SailPoint, Jamf/Intune/Workspace One, ServiceNow/Jira/PagerDuty, CrowdStrike, AWS/GCP. Range $194,900-$426,300. Work style (hybrid/remote/in-person) not stated in the posting text. Close date 2026-10-30."
+    },
+    "reviews": {"url": "", "notes": "Not researched in this pass (network policy, time)."},
+    "linkedin": {"url": "", "notes": "Not researched in this pass. Hiring manager (likely CIO org) not named in the posting."}
+  },
+  "network_contacts_note": "None identified. Hiring manager not named in the posting."
+}

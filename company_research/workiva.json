@@ -1,0 +1,21 @@
+{
+  "company": "Workiva",
+  "fetched_date": "2026-10-30",
+  "sources": {
+    "website": {
+      "url": "https://www.workiva.com/platform/whats-new",
+      "notes": "NOT FETCHED. workiva.com returns a CloudFront 403 ('Request blocked') to plain curl and does not resolve for WebFetch in this cloud session; robots.txt allows the path, but no browser-header retry was made (reviewer instructed not to bypass blocks). The tagline 'Automate with control' and the exact product name 'AI Agent Studio' are UNVERIFIED on workiva.com. Re-check this page when workiva.com is reachable."
+    },
+    "media_amplify_2026_agent_studio": {
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-15-workiva-advances-regulatory-work-with-ai-innovation",
+      "notes": "Fetched (verbatim Business Wire copy of Workiva's own release, 2026-09-15; Business Wire source: https://www.businesswire.com/news/home/20260915584662/en/). Headline 'Workiva Advances Regulatory Work with AI Innovation'; subhead 'Agent Studio anchors AI capabilities unveiled at Amplify 2026'. Product is named 'Agent Studio' (not 'AI Agent Studio'): 'a landmark platform capability that empowers users to quickly build, customize, and deploy AI agents in Workiva's trusted platform', combining 'AI reasoning with Workiva's native platform capabilities, enterprise knowledge, and governed workflows' to 'automate sophisticated manual business processes without writing any code'. Three new agentic solutions for regulatory disclosures (BEA surveys, US Census surveys, Country-by-Country Reporting) plus automated testing for Internal Audit and GRC ('consistency, traceability, and governance'). CEO Julie Iskow: 'Every company has access to AI. What matters is whether your outcomes are traceable, defensible, and can hold up in front of investors and regulators.' Boilerplate: Workiva Inc. (NYSE: WK) 'powers trust, transparency, and accountability'; 'more than 6,700 organizations, including over 85% of Fortune 1,000 companies'."
+    },
+    "media_financials": {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001445305/000144530526000059/q22026exhibit991.htm",
+      "notes": "NOT FETCHED (sec.gov not reachable from this session). Search-snippet leads only, do not quote: Q2 2026 revenue about $255M (+19% YoY); FY2026 revenue guidance $1.040-1.044B; Q3 2026 guidance $260-262M (issued 2026-08-04). Q3 results expected early November 2026. If confirmed, Workiva crosses $1B revenue in 2026 (relevant to the posting's '$1B+ revenue environments')."
+    },
+    "reviews": {"url": "", "notes": "Not checked."},
+    "linkedin": {"url": "", "notes": "Not checked."}
+  },
+  "network_contacts_note": "None identified. Role reports into Technology alongside the CIO (per posting: dashboards to the CIO, C-suite and Board); hiring manager not named."
+}

@@ -1,0 +1,39 @@
+{
+  "company": "Databricks",
+  "fetched_date": "2026-10-17",
+  "sources": {
+    "website_press_2026_08": {
+      "url": "https://www.databricks.com/company/newsroom",
+      "notes": "Verified by the /apply drafter from the 2026-08-13 Databricks press release (not re-fetched by the reviewer): >80% YoY growth; $7B revenue run-rate; $5B round at $190B valuation; Lakebase (serverless Postgres for AI agents, >$100M run-rate); Genie (AI coworker for business data); Unity AI Gateway (multi-AI governance and cost controls); >1,000 customers at $1M+ run-rate. Re-fetch the release itself before quoting."
+    },
+    "product_nav": {
+      "url": "https://www.databricks.com/product/startups",
+      "notes": "Site navigation (fetched 2026-10-17, curl with browser UA; WebFetch DNS-failed): 'Database: Postgres for data apps and AI agents'; 'AI Assistant: Agentic coworker for business users'; Neon listed as a product; 'Forward Deployed Engineering' listed under Solutions."
+    },
+    "startup_program": {
+      "url": "https://www.databricks.com/blog/announcing-new-databricks-startup-program",
+      "notes": "Blog, June 16, 2026 (fetched): 'Announcing the new Databricks Startup Program'. Qualifying startups get up to $200K in credits across Databricks and Neon; one consolidated application; includes 'hands-on technical guidance from our team to help you architect and ship fast' and 'Partner and community access, connecting you to our go-to-market teams and founder communities'. Aimed at early-stage venture-backed startups (pre-seed through Series A) building on data and AI. Quote: 'Every startup today needs a database and access to foundation models, and Databricks and Neon can provide both on day one.' Product page /product/startups also lists the invitation-only Databricks AI Accelerator Program (investment, credits, technical and GTM mentorship) and the Built on Databricks Partner Program (technical resources and coordinated GTM support for SaaS/AI companies building on Databricks), plus VC partnerships."
+    },
+    "culture_principles": {
+      "url": "https://www.databricks.com/company/careers/culture",
+      "notes": "Fetched. Six culture principles: We are customer obsessed; We raise the bar; We are truth seeking ('We make our decisions based on data, and we adapt as it changes'); We operate from first principles ('we start with why'); We bias for action ('Speed is critical. We debate, plan, execute — and iterate — with urgency'); We put the company first."
+    },
+    "careers_overview": {
+      "url": "https://www.databricks.com/company/careers",
+      "notes": "Fetched. HQ San Francisco; 'over 30 offices in 20+ countries'; '10,000+ employees worldwide' (clears Casey's 5,000+ level gate for a Director title); 'flexible ways of working' / hybrid mentioned under benefits, specifics not stated. Field Engineering is its own department. Careers page says 'Over 60% of the Fortune 500' (the posting says 70%; inconsistent, avoid quoting)."
+    },
+    "gtm_careers": {
+      "url": "https://www.databricks.com/company/careers/go-to-market",
+      "notes": "Fetched. GTM org 'across sales, partnerships, field engineering, strategy and operations'; 'trusted adviser'; 'help customers simplify complex architectures, deploy AI at scale and move from experimentation to enterprise-wide impact'; GTM staff 'share insights that directly shape our product roadmap'; interview process: hiring manager screen, technical interview, virtual loop, virtual presentation, references."
+    },
+    "internal_ai_in_field": {
+      "url": "https://www.databricks.com/blog/databricks-databricks-transforming-sales-experience-using-genai-agents",
+      "notes": "Blog, January 7, 2025, by Deepa Gopinath and Naveen Zutshi (fetched): 'Databricks on Databricks'. Field AI Assistant: genAI agents that assist sellers across the sales lifecycle; integrates data sources, automates actions such as CRM updates and tailored customer proposals. Quote: 'our automation vision is to automate all aspects of the business, making it better, faster, and cheaper.' A search snippet claimed 4,000+ sellers; NOT verified (session page did not show it), do not use."
+    },
+    "field_engineering_org": {
+      "url": "",
+      "notes": "No official org description found. Job boards (unverified, leads only) show Field Engineering Managers leading Solutions Architect teams by segment and partnering with sales on consumption targets. Treat as background, not citable."
+    }
+  },
+  "network_contacts_note": "None recorded; ask Casey about contacts in Databricks Field Engineering or GTM, and any SingleStore partner/customer overlap."
+}

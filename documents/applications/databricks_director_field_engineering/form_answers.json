@@ -1,0 +1,183 @@
+{
+ "url": "https://job-boards.greenhouse.io/databricks/jobs/8662803002",
+ "board": "databricks",
+ "files": {
+  "cv": "863690689f6bc79e7821b9a6ddf706170cc35aebb18d9a2b97af25a8430f4a8e",
+  "cover": "240362ba49e4f6797182f7fe9975d8adcc504efb9075dbd46a784d24277f40bb"
+ },
+ "cvPath": "documents/applications/databricks_director_field_engineering/send/Casey_Caster_Resume.pdf",
+ "coverPath": "documents/applications/databricks_director_field_engineering/send/Casey_Caster_Cover_Letter.pdf",
+ "answers": [
+  {
+   "key": "first_name",
+   "label": "First Name",
+   "type": "text",
+   "value": "Casey",
+   "signature": "851b4898702591e0",
+   "source": "identity.given_name",
+   "required": true
+  },
+  {
+   "key": "last_name",
+   "label": "Last Name",
+   "type": "text",
+   "value": "Caster",
+   "signature": "b8167b4bb96eccc3",
+   "source": "identity.family_name",
+   "required": true
+  },
+  {
+   "key": "preferred_name",
+   "label": "Preferred First Name",
+   "type": "text",
+   "value": "Casey",
+   "signature": "140f85499c03f5d9",
+   "source": "identity.given_name (no other preferred name on file)",
+   "required": true
+  },
+  {
+   "key": "email",
+   "label": "Email",
+   "type": "text",
+   "value": "casey.caster@gmail.com",
+   "signature": "2b8352269f653a27",
+   "source": "contact.email",
+   "required": true
+  },
+  {
+   "key": "country",
+   "label": "Country",
+   "type": "combobox",
+   "value": "United States +1",
+   "signature": "fcb2fc0ca95abaf6",
+   "source": "residence.phone_dialing_country",
+   "required": true
+  },
+  {
+   "key": "phone",
+   "label": "Phone",
+   "type": "tel",
+   "value": "650-799-9926",
+   "signature": "19a6c097b62901d2",
+   "source": "contact.phone",
+   "required": true
+  },
+  {
+   "key": "resume",
+   "label": "Resume/CV",
+   "type": "file",
+   "value": "cv",
+   "signature": "0f73f7284b8e2a50",
+   "source": "tailored resume (approved PDF)",
+   "required": true
+  },
+  {
+   "key": "cover_letter",
+   "label": "Cover Letter",
+   "type": "file",
+   "value": "cover",
+   "signature": "f1267baff84e9b2a",
+   "source": "cover letter (approved PDF)",
+   "required": false
+  },
+  {
+   "key": "question_37558657002",
+   "label": "LinkedIn Profile",
+   "type": "text",
+   "value": "https://www.linkedin.com/in/caster/",
+   "signature": "4ae2499df06ef103",
+   "source": "contact.linkedin_url",
+   "required": false
+  },
+  {
+   "key": "question_37558660002",
+   "label": "Are you legally authorized to work in the country in which you are applying?",
+   "type": "combobox",
+   "value": "Yes",
+   "signature": "bfb423cba1783652",
+   "source": "eligibility.US.work_authorized",
+   "required": true
+  },
+  {
+   "key": "question_37558661002",
+   "label": "Do you now or will you in the future need sponsorship for employment visa status in the country in which you are applying?",
+   "type": "combobox",
+   "value": "No",
+   "signature": "c8b3a08b5d5813d6",
+   "source": "eligibility.US.sponsorship_now and _future (both No)",
+   "required": true
+  },
+  {
+   "key": "question_37558662002",
+   "label": "Do you currently or have you previously worked for Databricks in the past?",
+   "type": "combobox",
+   "value": "No",
+   "signature": "973d011cf76f0f80",
+   "source": "employment history (never worked at Databricks)",
+   "required": true
+  },
+  {
+   "key": "question_37558663002[]",
+   "label": "Please confirm whether any of the below applies to you. Select all that apply. Note: This information will only be used to ensure compliance with U.S. sanctions and export controls.",
+   "type": "checkboxes",
+   "value": [
+    "None of the above"
+   ],
+   "signature": "6597497a513cdf11",
+   "source": "eligibility.citizenship (United States) and residence (Pacifica, CA)",
+   "required": true
+  },
+  {
+   "key": "question_37558664002[]",
+   "label": "If you selected a response to the prior question other than \u201cnone of the above,\u201d please confirm whether any of the following also applies to you. Select all that apply.",
+   "type": "checkboxes",
+   "value": [
+    "Not applicable (i.e., I selected \u201cnone of the above\u201d for the prior question)"
+   ],
+   "signature": "bf983d0c00da17ec",
+   "source": "follows from the previous answer",
+   "required": true
+  },
+  {
+   "key": "gender",
+   "label": "Gender",
+   "type": "combobox",
+   "value": "Male",
+   "signature": "0b1c9b3b6f63277c",
+   "source": "disclosure.sex (saved answer)",
+   "required": false,
+   "group": "eeo"
+  },
+  {
+   "key": "hispanic_ethnicity",
+   "label": "Are you Hispanic/Latino?",
+   "type": "combobox",
+   "value": "No",
+   "signature": "f397fbe701b48598",
+   "source": "disclosure.ethnicity: Not Hispanic or Latino",
+   "required": false,
+   "group": "eeo"
+  },
+  {
+   "key": "race",
+   "label": "Please identify your race",
+   "type": "combobox",
+   "value": "White",
+   "signature": "",
+   "source": "disclosure.race (saved answer)",
+   "required": false,
+   "group": "eeo",
+   "conditional": true
+  },
+  {
+   "key": "veteran_status",
+   "label": "Veteran Status",
+   "type": "combobox",
+   "value": "I am not a protected veteran",
+   "signature": "6b057c7ead7c6fb1",
+   "source": "disclosure.veteran_status: not a veteran",
+   "required": false,
+   "group": "eeo"
+  }
+ ]
+}
