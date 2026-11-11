@@ -23916,9 +23916,24 @@
       "posted_date": "2026-11-04",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "company-ats",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 51,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Chief of Staff program-running work (cross-functional programs, operating rhythm, weekly exec status) maps directly to his CTO chief-of-staff role",
+        "Runs AI adoption in Finance and builds practical AI tools, a close match for his GenAI adoption and governance program",
+        "AI security SaaS company at high growth, a sector he likes"
+      ],
+      "gaps": [
+        "Pay: posted base $202,700-$291,500 tops out under his $300K floor",
+        "Reports to the CFO, but it is a coordination role with no team or budget, executing the CFO's agenda (influence without authority) and below his VP+ target",
+        "Wants Finance exposure (audit, controls, ESG, talent reviews) he lacks"
+      ]
     },
     "affirm_director-enterprise-sales": {
       "title": "Director, Enterprise Sales",
@@ -24048,9 +24063,23 @@
       "posted_date": "2026-11-05",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "company-ats",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 36,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Claude-first AI enablement at an AI company, a sector and theme he is excited by, and he uses Claude Code",
+        "Asks for adoption and impact metrics and work with senior leaders across geographies, which fit his program delivery record"
+      ],
+      "gaps": [
+        "Reporting line not stated, likely within the sales enablement org rather than the C-suite; 'Head of' title that starts as an individual contributor with no team",
+        "Core requirements are sales enablement plus UX, product or learning design and hands-on AI learning builds, none of which are in his background",
+        "Pay: $310,000-$360,000 clears the $300K floor if it is base; the posting notes sales roles are quoted as OTE, so confirm base"
+      ]
     },
     "anthropic_head-of-technology-partnerships": {
       "title": "Head of Technology Partnerships",
@@ -25248,9 +25277,23 @@
       "posted_date": "2026-11-10",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "company-ats",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 30,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Executive role at a public security company (NASDAQ: NTSK), a sector he likes. Includes ownership of a multi-million-dollar infrastructure budget and vendor negotiations",
+        "Capacity planning, unit economics and vendor negotiation echo his 50% cloud spend cut and vendor and LLM pricing work"
+      ],
+      "gaps": [
+        "Posting body describes an SVP of Network and Operations, not general platform operations. It requires 15+ years in network engineering and deep BGP, DDoS, SDN and edge expertise, plus 7+ years as VP/SVP at a hyperscaler, ISP or CDN. That is a hands-on infrastructure engineering mismatch",
+        "Pay is a national range of $297,500-$500,000. The bottom is just under his $300K floor, but the top clears it. Reporting line not stated",
+        "Location is listed only as United States, with the office or remote arrangement not stated, so it's flagged. Requires leading 100+ person engineering and NOC/SRE organizations"
+      ]
     },
     "netskope_vice-president-solutions-engineering-emea": {
       "title": "Vice President, Solutions Engineering EMEA",
@@ -25500,9 +25543,24 @@
       "posted_date": "2026-09-18",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "company-ats",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 51,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Builds a new global function from scratch: charter, service model, staffing, capacity plans and metrics. Strong builder fit at a leading AI company",
+        "Makes AI and automation foundational to the function, which matches his GenAI adoption and governance and AI enablement work",
+        "SF hybrid, 3 days in the office. Board-listed pay of $347K-$385K plus equity clears his $300K floor and nearly reaches his $350K ideal"
+      ],
+      "gaps": [
+        "Requires a strong technical foundation in APIs, distributed systems and production troubleshooting, enough to evaluate investigation quality and challenge hypotheses. That is hands-on depth he lacks",
+        "Wants 12+ years in technical customer-facing roles, including 6+ leading enterprise Support Engineering or TAM. His Ripple delivery was implementation rather than support engineering",
+        "Head-of title within User Operations and Premium Support. The reporting line isn't stated but is likely below the C-suite, which is a career-level concern"
+      ]
     },
     "openai_head-of-performance-marketing": {
       "title": "Head of Performance Marketing",
@@ -26664,9 +26722,24 @@
       "posted_date": "2026-11-11",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 54,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP working directly with the Founder and CEO, building a practice from scratch, a fit with his builder profile",
+        "Enterprise GenAI architecture and governance at the conversation level; hands-on coding stated as not mandatory",
+        "Consulting (Avanade) and global delivery (Ripple, 800+ implementations) support the delivery side"
+      ],
+      "gaps": [
+        "Pay not posted; reporting line is the Founder and CEO (fine), but it looks like a small firm",
+        "Heavy commercial load: revenue generation, practice P&L, enterprise selling and pricing, which are his weakest areas (he has managed a budget, not a P&L)",
+        "Wants 4+ years of enterprise AI consulting engagements and an existing buyer network; his AI work is internal adoption"
+      ]
     },
     "hcltech_vice-president": {
       "title": "Vice President",
@@ -26796,9 +26869,23 @@
       "posted_date": "2026-11-06",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 38,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP reporting to the CTPO (C-suite), first leader of a new function: write the operating model and hire the team",
+        "AI-agentic operations at an AI infrastructure company, an area he likes; 4 days a week in office in Palo Alto is now fine"
+      ],
+      "gaps": [
+        "Hands-on engineering role: 'you read the telemetry and write the agent yourself' and 'a builder's seat, not a supervisory one', a real Technical gap for a non-programmer",
+        "Requires 15+ years of large-scale infrastructure, SRE or NOC operations and having shipped AIOps systems; he has neither",
+        "Pay not posted (posting says only 'generous base'); reports to the CTPO"
+      ]
     },
     "plaud_head-of-platform-engineering": {
       "title": "Head of Platform Engineering",
@@ -27084,9 +27171,24 @@
       "posted_date": "2026-11-05",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 52,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "C-level COO reporting to the CEO and on the Executive Team, with real authority: org design, a multi-year operational plan, and KPIs and budget partnering with Finance",
+        "Salary of $350,000-$400,000 meets his ideal base. Hybrid in downtown SF at 4 office days a month, rising to 8 in 2027",
+        "Asks him to turn strategy into an operational plan and lead enterprise-wide efficiency initiatives, which matches his strategy and operations and portfolio work"
+      ],
+      "gaps": [
+        "Requires managed care or health plan experience (Medi-Cal and Medicare) and knowledge of DHCS, DMHC and CMS requirements. He has none, which is a hard domain gap",
+        "Operations here means claims, member eligibility, customer service, grievances and provider contracting at a public-sector health plan. That is outside his tech, fintech and AI sectors and is not a high-growth company",
+        "Wants 15+ years of progressive leadership, including 5+ overseeing large multi-department operations, and Governing Board and regulator representation"
+      ]
     },
     "atomic-machines_chief-operating-officer": {
       "title": "Chief Operating Officer",
@@ -27096,9 +27198,24 @@
       "posted_date": "2026-11-06",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 39,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "C-level COO reporting to the CEO, with real authority over strategy, budgets and the leadership team",
+        "Base starts at $350,000 plus equity, above his ideal; AI-native, well-funded Bay Area company (Emeryville)",
+        "Asks for building organizations through rapid headcount growth, operating cadence and planning, which fit his builder and operator profile"
+      ],
+      "gaps": [
+        "Requires 15+ years in manufacturing leadership and having designed and run an automated fab; he has no manufacturing, supply chain or contract manufacturing background",
+        "Requires ownership of $100M+ capital plans and the People function, both beyond his experience",
+        "Reports to the CEO; pay clears the floor. Wants an ME, EE or Physics degree; his BS in Electronic Engineering Technology only partly fits"
+      ]
     },
     "sinch_svp-email-product-area": {
       "title": "SVP, Email Product Area",
@@ -27120,9 +27237,24 @@
       "posted_date": "2026-11-06",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 68,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP role building post-sales Customer Success, Services and Support at an enterprise AI company, which is one of his favorite sectors",
+        "Asks for someone who builds strategy and builds from the ground up, defines the customer lifecycle and handoffs, and advocates at the executive level. That matches the Ripple implementation function and the RippleNet governance committee",
+        "Posted pay of $570K-$675K is far above his $300K floor. Based in SF, and the company is remote-friendly"
+      ],
+      "gaps": [
+        "Wants 10+ years leading Customer Success, Technical Support and Services teams, ideally in ML/AI or data engineering. Casey's customer-facing leadership is at Ripple and Engajer (about 6 years), and his AI work is internal enablement, not post-sales",
+        "Reporting line not stated (VP level, executive-facing). The posting doesn't say whether $570K-$675K is base or OTE, but either way it clears the floor",
+        "No direct technical support org leadership. Ripple's 75+ engineers and architects were indirect reports"
+      ]
     },
     "dish-tv_head-of-engineering-manufacturing-and-distribution-moderniza-67c132": {
       "title": "Head of Engineering, Manufacturing and Distribution Modernization",
@@ -27192,9 +27324,24 @@
       "posted_date": "2026-11-04",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 49,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-11",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Reports to the CRO (C-suite) at a developer-tooling CI/CD company, which is a sector and match signal he likes",
+        "Builds a global organization and operating model with metrics, health scoring and operating rhythms. The bonus list includes building new motions from the ground up and using AI to scale engagement",
+        "His global delivery at Ripple (800+ implementations, 8 months cut to 8 weeks) fits the time-to-value and scaling goals"
+      ],
+      "gaps": [
+        "Pay of $261,500-$327,000 doesn't clearly clear his $300K base floor, since most of the band sits below it, and the top is under his $350K ideal",
+        "Revenue-owned role: the leader owns NRR, GRR, churn and expansion, and runs pre-sales field engineering alongside Sales. He has no retention or quota-metric ownership track record",
+        "Requires a strong technical foundation in software development, DevOps and CI/CD to engage customer engineering leaders, plus 15+ years in CS or field engineering and 10+ leading leaders. Hands-on depth is a gap"
+      ]
     },
     "reevo_builder-head-of-customer-success": {
       "title": "Builder - Head of Customer Success",
