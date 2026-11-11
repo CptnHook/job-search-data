@@ -1,0 +1,23 @@
+{
+  "company": "Cohere",
+  "fetched_date": "2026-11-11",
+  "sources": {
+    "website": {
+      "url": "https://cohere.com/blog/introducing-north-2",
+      "notes": "North 2 launched Oct 5, 2026 (Cohere blog, 'North 2: Enterprise AI without compromises'). Single agentic AI platform: new agent harness/orchestration, skills, libraries, memory, applications, automations, connectors (Slack, SharePoint, Outlook, Jira, GitHub, etc.). Deploys privately on-prem, in the cloud, or fully air-gapped (self-hosted, VPC, hybrid, on-prem). North Admin: roles/permissions, granular cost controls, rate limits, user quotas, org-wide caps, token-spend monitoring; 'whether your organization measures adoption or model consumption, Cohere provides the tooling to measure AI ROI.' Post says that over the last year Cohere rolled out North across finance, healthcare, telecom, manufacturing, energy and public sector, 'investing deeply in large-scale production deployments.' Named customers/partners quoted: LG CNS (bringing North to customers across Korea), Bell Cyber; NVIDIA collaboration. SOC 2 Type 2, ISO 27001, ISO 42001. Site nav also lists Private Deployments, Model Vault (isolated inference), Help Center, Customer Stories, industry pages (Financial Services, Public Sector, Technology, Telecom, Energy, Healthcare, Life Sciences, Manufacturing). Note: WebFetch could not resolve cohere.com in this session (network allowlist); pages were read with plain curl (robots.txt allows /blog)."
+    },
+    "reviews": {
+      "url": "",
+      "notes": "Not researched in this pass."
+    },
+    "linkedin": {
+      "url": "",
+      "notes": "Not fetched. Search leads (aggregator job listings, unverified): Cohere hiring Forward Deployed Engineers and an Engineering Manager, FDE Infrastructure to deploy North into private cloud and on-prem customer environments; separate Customer Success Manager, Public Sector & Defence role. Treat as leads only."
+    },
+    "media": {
+      "url": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+      "notes": "Oct 15, 2026: Cohere announced a proposed agreement to acquire AISLE (autonomous vulnerability discovery/remediation, founded 2024) and plans to launch Cohere Cyber. Post references prior acquisition of Reliant AI and partnership with Aleph Alpha; mission framed as 'the world's leading sovereign AI platform'. Says enterprises moving AI 'from experimentation to production' want partners that operate in private cloud, on-prem and fully air-gapped environments. Job posting (employer data, untrusted): HQ Toronto; offices London, NYC, SF, Montreal, Paris, Berlin, Seoul."
+    }
+  },
+  "network_contacts_note": "None known. Hiring manager not named in the posting."
+}
