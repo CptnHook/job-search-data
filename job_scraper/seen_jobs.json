@@ -16176,7 +16176,7 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "linkedin-search",
       "source": "cli"
     },
@@ -16467,9 +16467,10 @@
       "posted_date": "2026-10-29",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "skipped",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "skip_reason": "Target company, but a sales role (outside Casey's functions)"
     },
     "gainsight_sr-director-customer-operations": {
       "title": "Sr Director, Customer Operations",
@@ -16587,9 +16588,10 @@
       "posted_date": "2026-10-20",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "skipped",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "skip_reason": "Target company, but business development/sales for LATAM (outside functions)"
     },
     "nirvana-insurance_head-of-operations-and-strategy": {
       "title": "Head of Operations and Strategy",
@@ -16710,7 +16712,7 @@
       "posted_date": "2026-10-24",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "expired",
       "portal": "vc-boards-search",
       "source": "cli"
     },
@@ -16989,9 +16991,10 @@
       "posted_date": "2026-10-21",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "skipped",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "skip_reason": "Target company, but EMEA sales operations (sales function)"
     },
     "scale-ai_vp-research": {
       "title": "VP, Research",
@@ -17097,9 +17100,10 @@
       "posted_date": "2026-10-28",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "skipped",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "skip_reason": "Target company, but a large-customer sales role"
     },
     "mintlify_head-of-digital-customer-success": {
       "title": "Head of Digital Customer Success",
@@ -17565,9 +17569,24 @@
       "posted_date": "2026-10-28",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "ranked",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 44,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Senior TPM leadership owning the technical roadmap for a large, cross-functional transformation, matching his TPM and portfolio strengths",
+        "AI-first automation of manual spreadsheet workflows fits his GenAI adoption and capacity-planning background",
+        "Sunnyvale location option is Bay Area"
+      ],
+      "gaps": [
+        "Base of 240K to 333K: most of the range is below 300K, so it does not clearly clear his floor",
+        "Hands-on technical depth: SQL/BigQuery, schema design, ETL pipelines, operations research and supply chain planning engines he lacks",
+        "Individual TPM-track role with the reporting line not stated, so likely below the VP level and authority he targets"
+      ]
     },
     "lilt_head-of-technical-program-management-applied-ai": {
       "title": "Head of Technical Program Management, Applied AI",
@@ -17640,9 +17659,10 @@
       "posted_date": "2026-10-23",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "skipped",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "skip_reason": "Target company, but enterprise risk management (finance/legal function)"
     },
     "launchdarkly_director-internal-ai-operations": {
       "title": "Director, Internal AI Operations",
@@ -17700,7 +17720,7 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "expired",
       "portal": "vc-boards-search",
       "source": "cli"
     },
@@ -17724,9 +17744,10 @@
       "posted_date": "2026-10-26",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "skipped",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "skip_reason": "Target company, but communications/marketing"
     },
     "backstory_vp-svp-finance": {
       "title": "VP/SVP, Finance",
@@ -18612,9 +18633,10 @@
       "posted_date": "2026-10-28",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "skipped",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "skip_reason": "Target company, but field marketing"
     },
     "serval_head-of-field-marketing-commercial": {
       "title": "Head of Field Marketing, Commercial",
@@ -18624,9 +18646,10 @@
       "posted_date": "2026-10-28",
       "deadline": null,
       "fit": "low",
-      "status": "new",
+      "status": "skipped",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "skip_reason": "Target company, but field marketing"
     },
     "bioage-labs_director-clinical-supply-chain-or-senior": {
       "title": "Director, Clinical Supply Chain (or Senior)",
@@ -20040,7 +20063,7 @@
       "posted_date": "2026-11-03",
       "deadline": null,
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "company-ats",
       "source": "cli"
     },
@@ -21744,9 +21767,24 @@
       "posted_date": "2026-09-22",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "company-ats",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 60,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "AI enablement angle: lead agent-led and customer-zero work and evolve the operating model as AI advances, which matches his GenAI adoption and AI platform ops work",
+        "Builder mandate: shape ETX strategy, investment priorities and operating model globally, with leadership development and scaling",
+        "Base of 313K to 347K clears the 300K floor; SF HQ in-office suits him"
+      ],
+      "gaps": [
+        "Reports to the Head of Global IT, not the C-suite; Head of title is a sub-VP level",
+        "Scope is corporate IT services (Helpdesk, SysOps, Logistics, AV); he has not run IT helpdesk or employee-services operations",
+        "Mostly running internal services, with less enterprise strategy and executive access than he targets"
+      ]
     },
     "openai_account-director-digital-natives-mena": {
       "title": "Account Director, Digital Natives | MENA",
@@ -22608,9 +22646,24 @@
       "posted_date": "2026-11-03",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 75,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Right-hand to the CEO owning operating rhythm, OKRs, board materials and cross-functional initiatives, which matches his CTO chief-of-staff work",
+        "AI fluency is a defining part of the role: piloting and rolling out AI tools and coaching execs on AI adoption, which fits his GenAI adoption and AI platform ops work",
+        "Fintech-adjacent digital identity platform with direct C-suite access"
+      ],
+      "gaps": [
+        "Pay not posted, so the $300K+ base can't be verified",
+        "Listed in San Francisco, but the posting names Vancouver HQ plus San Diego and Dublin hubs with 3 days a week at a hub; remote only 'may be considered'",
+        "Bar is 5+ years and the role is a CoS with no stated team or direct authority, so it may be leveled below a C-level CoS"
+      ]
     },
     "presto-phoenix-inc_chief-of-staff": {
       "title": "Chief of Staff",
@@ -22944,9 +22997,24 @@
       "posted_date": "2026-11-02",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 67,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Reports to the CEO and partners with the ELT, owning OKRs, planning cycles and board/ELT materials",
+        "Dev-tools enterprise SaaS (feature management/DevOps), a sector he targets",
+        "Strategy-to-execution, cross-functional alignment and SaaS-metrics analysis match his chief-of-staff and engineering-ops background"
+      ],
+      "gaps": [
+        "Zone 1 range of $240,600-$330,700 includes a 10% bonus target, so base tops out around $300K and is likely below his floor",
+        "Senior individual contributor role with no people management, so authority is limited",
+        "Oakland location with in-office days not stated"
+      ]
     },
     "district-of-columbia-government_chief-of-staff": {
       "title": "Chief of Staff",
@@ -31522,10 +31590,24 @@
       "posted_date": "2026-11-12",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "Santa Clara, CA"
+      "location": "Santa Clara, CA",
+      "rank_score": 30,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Director-level technical program leadership at a large public company in Santa Clara",
+        "Cross-functional matrixed program delivery, budgets, schedules and senior BU alignment match his TPM background"
+      ],
+      "gaps": [
+        "Posted base top is $237K, well below the $300K floor",
+        "Requires recognized subject-matter expertise in semiconductor advanced packaging and interconnect scaling, which he does not have",
+        "Travel 50% of the time; reports to BU management, not the C-suite"
+      ]
     },
     "cumming-group_director-project-management-k-12": {
       "title": "Director, Project Management (K-12)",
@@ -31799,10 +31881,24 @@
       "posted_date": "2026-11-12",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "United States"
+      "location": "United States",
+      "rank_score": 42,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP title leading a portfolio of strategic programs with governance and risk management",
+        "Remote role; digital transformation and program governance fit his PMO background"
+      ],
+      "gaps": [
+        "Posted range $140,242 - $227,894, far below the $300K base floor",
+        "Aerospace and defense client needing DOD compliance and C3PAO/CMMC audit knowledge he lacks",
+        "Anonymous recruiter posting; reporting line and company size not stated"
+      ]
     },
     "lincoln-financial_vp-it-ai-strategy-programs": {
       "title": "VP, IT AI Strategy & Programs",
@@ -31979,10 +32075,25 @@
       "posted_date": "2026-11-12",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "San Francisco, CA"
+      "location": "San Francisco, CA",
+      "rank_score": 71,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Reports directly to the Chief Strategy and Innovation Officer and owns the firmwide AI roadmap and execution model",
+        "Fits his GenAI adoption, AI governance, vendor negotiation and portfolio leadership; says candidates do not need to be engineers",
+        "Large public company, so Director level is acceptable; onsite in San Francisco"
+      ],
+      "gaps": [
+        "Requires 15+ years in financial services across multiple businesses; he has Ripple and Wells Fargo, but much less than that",
+        "Pay not posted",
+        "Large brokerage/bank environment (not his preferred sector) and requires experience leading very large enterprise-wide AI initiatives"
+      ]
     },
     "rivian-and-volkswagen-group-technologies_director-ai-powered-diagnostics-service": {
       "title": "Director, AI-Powered Diagnostics & Service",
@@ -32062,10 +32173,24 @@
       "posted_date": "2026-11-11",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "Mountain View, CA"
+      "location": "Mountain View, CA",
+      "rank_score": 50,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Leads a global technical customer org (TAMs, solutions) and sets its vision, strategy and operating model",
+        "Customer success, escalations and global implementation leadership map to his Ripple background"
+      ],
+      "gaps": [
+        "Bay Area base range $188,000 - $304,200 tops out barely above $300K, so base does not clearly clear the floor",
+        "Wants 6+ years of hands-on technical experience in software, network or service engineering, plus ad-tech depth",
+        "Reporting line not stated; likely sits under a GM or VP inside Microsoft Advertising"
+      ]
     },
     "rh_leader-customer-experience": {
       "title": "Leader, Customer Experience",
@@ -32243,10 +32368,24 @@
       "posted_date": "2026-11-11",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "Menlo Park, CA"
+      "location": "Menlo Park, CA",
+      "rank_score": 45,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Leads the global IT organization with a multi-year strategy, IT budget, cost optimization and vendor management",
+        "Public company, so Sr Director level is acceptable; works closely with executive leadership; range top $337,900"
+      ],
+      "gaps": [
+        "Requires deep regulated-IT expertise he lacks: SOX audits, hands-on ISO 27001, GxP validation, SAP ERP, MES, HPC; also owns cybersecurity operations",
+        "Life sciences public-company background preferred; it is a maintain-and-comply role more than a builder role",
+        "Reporting line not stated; range midpoint is below $300K"
+      ]
     },
     "4d-molecular-therapeutics_director-it-business-partner-r-d": {
       "title": "Director, IT Business Partner, R&D",
@@ -32858,10 +32997,25 @@
       "posted_date": "2026-11-12",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "source": "cli",
-      "location": "Mountain View, CA"
+      "location": "Mountain View, CA",
+      "rank_score": 60,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Builds a Customer Success practice from scratch, including onboarding, adoption, playbooks and AI-powered agentic product adoption",
+        "Mountain View base $262,000 - $355,000 can clear $300K; large public company so Director with a VP manager is acceptable",
+        "Large program transition (ProPartner launch) and partner implementation programs echo his Ripple global implementation work"
+      ],
+      "gaps": [
+        "Reports to the VP, Customer Success - Mid-Market, not the C-suite",
+        "Requires building reseller/channel programs (VARs, QSPs) and accounting/tax ecosystem fluency, which he does not have",
+        "Office days not stated; base range starts below $300K"
+      ]
     },
     "neara_director-customer-success": {
       "title": "Director, Customer Success",
@@ -34701,10 +34855,24 @@
       "posted_date": "2026-11-13",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "source": "cli",
-      "location": "South San Francisco, CA"
+      "location": "South San Francisco, CA",
+      "rank_score": 42,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Post-acquisition integration role connecting Aechelon with parent Shield AI, which uses his M&A integration experience",
+        "Cross-functional coordination and strategy communication are things he does well"
+      ],
+      "gaps": [
+        "Pay is $144,320-$216,480, far below his $300K base floor",
+        "Reports to the General Manager of an acquired subsidiary, not the C-suite",
+        "Mostly a communication and culture conduit that is explicitly not owning functions; little authority"
+      ]
     },
     "handspring_chief-of-staff": {
       "title": "Chief of Staff",
@@ -35002,7 +35170,7 @@
       "posted_date": "2026-11-04",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
       "source": "cli",
       "location": null
@@ -35404,6 +35572,239 @@
       "status": "expired",
       "portal": "builtin",
       "source": "websearch"
+    },
+    "wilderness-medical-staffing_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "Wilderness Medical Staffing",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f1de489e-e99e-4ceb-b059-d3212ecde485&ccId=19000101_000001&jobId=9201874404205_7&lang=en_US&utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-13",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "petersburg-city-public-schools_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "Petersburg City Public Schools",
+      "url": "https://www.applitrack.com/petersburg/onlineapp/jobpostings/view.asp?AppliTrackJobId=628&utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-13",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "meow_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "Meow",
+      "url": "https://jobs.ashbyhq.com/meow/c1187fe9-e997-43cd-acb1-dceb399d04cf?utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-12",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "zorrorx_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "ZorroRX",
+      "url": "https://jobs.gem.com/zorrorx/am9icG9zdDpOjLSpUd664DQMkoEAdiXb?utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-10",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "department-of-state-headquarters_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "Department of State Headquarters",
+      "url": "https://www.usajobs.gov/job/892137900?utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-06",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "federal-emergency-management-agency_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "Federal Emergency Management Agency",
+      "url": "https://www.usajobs.gov/job/892074000?utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-06",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "strive-charter-school_chief-operating-officer": {
+      "title": "Chief Operating Officer",
+      "company": "Strive Charter School",
+      "url": "https://www.comeet.com/jobs/strivecharterschool/BA.00A/chief-operating-officer/34.57F?utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-12",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "boston-scientific_vice-president-transformation-business-operations": {
+      "title": "Vice President, Transformation & Business Operations",
+      "company": "Boston Scientific",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-transformation-business-operations-at-boston-scientific-4486416972",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-06",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "lazard_ai-operations-head": {
+      "title": "AI Operations Head",
+      "company": "Lazard",
+      "url": "https://www.linkedin.com/jobs/view/ai-operations-head-at-lazard-4480175506",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-06",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "transcarent_vice-president-data-ai": {
+      "title": "Vice President, Data & AI",
+      "company": "Transcarent",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-data-ai-at-transcarent-4480743927",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-11",
+      "deadline": null,
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "rank_score": 44,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-13",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP-level role building a Data and AI platform operating model and getting AI from experimentation into production, close to his AI platform ops work",
+        "Internal platform as product, build-vs-buy decisions and cost efficiency match his internal dev platform and cloud cost work",
+        "High-growth company with an AI-powered product"
+      ],
+      "gaps": [
+        "Needs deep data engineering, ML platform and distributed-systems architecture leadership; he is not a data/ML engineer",
+        "No pay posted and no reporting line stated",
+        "Healthcare sector is outside his target sectors, and the location is listed only as California with work mode unstated"
+      ]
+    },
+    "jpmorganchase_artificial-intelligence-research-business-operations-lead": {
+      "title": "Artificial Intelligence Research, Business Operations Lead",
+      "company": "JPMorganChase",
+      "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-research-business-operations-lead-at-jpmorganchase-4469714354",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-06",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "bny_vice-president-production-services-infrastructure-support": {
+      "title": "Vice President, Production Services Infrastructure Support",
+      "company": "BNY",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-production-services-infrastructure-support-at-bny-4480124375",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-06",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "state-street_enterprise-transformation-program-delivery-program-manager-v-7aeb57": {
+      "title": "Enterprise Transformation (Program Delivery), Program Manager - VP",
+      "company": "State Street",
+      "url": "https://statestreet.phenompro.com/global/en/job/STSTGLOBALR801079EXTERNALENGLOBAL?utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-12",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "invictus-pro-talent_vp-of-engineering": {
+      "title": "VP of Engineering",
+      "company": "Invictus Pro Talent",
+      "url": "https://www.adzuna.com/details/5964445981?utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-13",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "dollar-shave-club_vp-digital-products-and-technology": {
+      "title": "VP, Digital Products and Technology",
+      "company": "Dollar Shave Club",
+      "url": "https://job-boards.greenhouse.io/dollarshaveclub/jobs/4728944006?utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-11",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "highlightta_director-customer-success": {
+      "title": "Director, Customer Success",
+      "company": "HighlightTA",
+      "url": "https://jobs.ashbyhq.com/HighlightTA/7e31cb7f-0f36-4c8f-afdb-63bac1843115?utm_source=freehire.me",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-11",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "openai_head-of-uk-ad-solutions": {
+      "title": "Head of UK, Ad Solutions",
+      "company": "OpenAI",
+      "url": "https://jobs.ashbyhq.com/openai/a3ee806c-74c3-4e51-a773-203555f885fe",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-13",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "target-ats",
+      "source": "cli",
+      "skip_reason": "Target company (OpenAI) but a sales/ad-solutions role in London: outside Casey's functions and location"
+    },
+    "openai_head-of-agency-emea-ad-solutions": {
+      "title": "Head of Agency, EMEA - Ad Solutions",
+      "company": "OpenAI",
+      "url": "https://jobs.ashbyhq.com/openai/bb514c6a-7df6-48e6-a6a6-ccec6669b981",
+      "first_seen": "2026-11-13",
+      "posted_date": "2026-11-13",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "target-ats",
+      "source": "cli",
+      "skip_reason": "Target company (OpenAI) but a sales/ad-solutions role in London: outside Casey's functions and location"
     }
   }
 }
