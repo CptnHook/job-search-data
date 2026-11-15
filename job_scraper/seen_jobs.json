@@ -15516,9 +15516,24 @@
       "posted_date": "2026-11-01",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 55,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-15",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "SVP-level professional services and delivery leadership in a target career lane at a large public company, base $393K-$487K well above floor",
+        "Heavy emphasis on AI-native delivery transformation and operating model redesign maps to his GenAI adoption and Ripple global implementation track record",
+        "San Francisco location within Bay Area"
+      ],
+      "gaps": [
+        "Requires 15+ years services leadership with quota attainment and growing a $250M+ portfolio; he has no bookings or revenue ownership",
+        "Requires 5+ years in the Salesforce ecosystem with direct P&L responsibility; he has neither",
+        "GM role owning utilization, bookings and revenue is sales/P&L heavy; reporting line not stated"
+      ]
     },
     "cboe-byx-exchange-inc_chief-customer-officer": {
       "title": "Chief Customer Officer",
@@ -15660,7 +15675,7 @@
       "posted_date": "2026-10-27",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "linkedin-search",
       "source": "cli"
     },
@@ -16164,9 +16179,24 @@
       "posted_date": "2026-10-31",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 39,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-15",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Builder role at a high-growth AI dev tooling startup: set strategy, build the team, ship first version",
+        "Turning forward-deployed/services work into repeatable product echoes his Ripple delivery standardization work",
+        "Remote US with 25% travel; US citizenship helps with clearance eligibility"
+      ],
+      "gaps": [
+        "Startup Head of title reporting to the SVP, Head of Product, not C-suite; fails career criteria",
+        "Requires hands-on depth in agentic developer tools, building products for developers, and P&L for a product line; he is not a developer-tooling product leader",
+        "Pay not posted"
+      ]
     },
     "axon_vice-president-mission-data-delivery": {
       "title": "Vice President, Mission Data Delivery",
@@ -17076,9 +17106,24 @@
       "posted_date": "2026-10-28",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 43,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-15",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Sr Director at a large public company qualifies; California base range $276K-$429K can clear $300K",
+        "0-to-1 builder mandate in AI-powered enterprise apps tied to customer success and adoption outcomes",
+        "San Jose location within Bay Area"
+      ],
+      "gaps": [
+        "Requires 15+ years in software engineering leading teams building complex AI-powered web apps, plus hands-on architecture depth; he cannot go deep on coding",
+        "Requires 5+ years leading engineering directors in product engineering; his management is eng ops/TPM, not product software teams",
+        "California base starts at $276K, below his floor at the low end; reporting line not stated"
+      ]
     },
     "spindle-ai-spindle-ai_director-of-technical-product-management-customer-availabili-c4a9c2": {
       "title": "Director of Technical Product Management, Customer Availability Products & Services (CAPS)",
@@ -17233,9 +17278,24 @@
       "posted_date": "2026-10-31",
       "deadline": null,
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "vc-boards-search",
-      "source": "cli"
+      "source": "cli",
+      "rank_score": 33,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-15",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Director at a large public company qualifies; AI enablement for GTM, CS and Support fits his AI adoption and governance and customer success background",
+        "Owns AI cost controls, governance and vendor build-vs-buy calls, matching his cost optimization and LLM vendor negotiation work",
+        "Remote US"
+      ],
+      "gaps": [
+        "Base $182K-$325K tops out only slightly above $300K; most of the range is below his floor",
+        "About 70% hands-on building: writing code, prototyping agents, designing evals; he cannot do hands-on coding",
+        "Requires production full-stack, ML and LLM engineering experience he does not have"
+      ]
     },
     "ping-identity_senior-director-site-reliability-engineering": {
       "title": "Senior Director, Site Reliability Engineering",
@@ -38736,6 +38796,347 @@
       "source": "ats-api",
       "location": "San Francisco, CA - US",
       "skip_reason": "Target company (Crusoe) but executive-assistant role, outside his functions"
+    },
+    "palomar-page_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "Palomar  Page",
+      "url": "https://startup.jobs/chief-of-staff-palomar-page-10366848?utm_source=freehire.me",
+      "first_seen": "2026-11-15",
+      "posted_date": "2026-11-15",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli",
+      "location": "San Diego, United States",
+      "skip_reason": "Low fit: Chief of Staff in San Diego, outside the Bay Area"
+    },
+    "zeta-charter-schools_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "Zeta Charter Schools",
+      "url": "https://zetaschools.org/careers?gh_jid=8204021003&utm_source=freehire.me",
+      "first_seen": "2026-11-15",
+      "posted_date": "2026-11-13",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli",
+      "location": "New York City, New York",
+      "skip_reason": "Low fit: charter-school Chief of Staff in New York City"
+    },
+    "per-scholas_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "Per Scholas",
+      "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4729413006?utm_source=freehire.me",
+      "first_seen": "2026-11-15",
+      "posted_date": "2026-11-13",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli",
+      "location": "United States",
+      "skip_reason": "Low fit: nonprofit Chief of Staff, education/workforce sector"
+    },
+    "trxnow_vp-of-client-success": {
+      "title": "VP of Client Success",
+      "company": "TrxNow",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/d404d58e7bae26b51ec53a3eb41efef2/jobs/356670?utm_source=freehire.me",
+      "first_seen": "2026-11-15",
+      "posted_date": "2026-11-15",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli",
+      "location": "Corporate Headquarters - Johnson City, TN 37604",
+      "skip_reason": "Low fit: VP Client Success in Johnson City, TN, onsite outside the Bay Area"
+    },
+    "damora-therapeutics_vice-president-program-leader": {
+      "title": "Vice President, Program Leader",
+      "company": "Damora Therapeutics",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-program-leader-at-damora-therapeutics-4487926113",
+      "first_seen": "2026-11-15",
+      "posted_date": "2026-11-09",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "location": "Waltham, MA",
+      "skip_reason": "Low fit: biotech drug program leader, outside his domain"
+    },
+    "uncommon-elite_general-manager": {
+      "title": "General Manager",
+      "company": "Uncommon Elite",
+      "url": "https://www.linkedin.com/jobs/view/general-manager-at-uncommon-elite-4491203372",
+      "first_seen": "2026-11-15",
+      "posted_date": "2026-11-14",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "location": "San Francisco Bay Area",
+      "skip_reason": "Low fit: General Manager at an unidentified small business, no tech/ops scope in listing"
+    },
+    "county-of-sonoma_deputy-chief-probation-officer": {
+      "title": "Deputy Chief Probation Officer",
+      "company": "County of Sonoma",
+      "url": "https://www.linkedin.com/jobs/view/deputy-chief-probation-officer-at-county-of-sonoma-4489400617",
+      "first_seen": "2026-11-15",
+      "posted_date": "2026-11-09",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "location": "Santa Rosa, CA",
+      "skip_reason": "Low fit: county probation role"
+    },
+    "npaworldwide_chief-operating-officer-coo-vh-11515": {
+      "title": "Chief Operating Officer (COO) (VH-11515)",
+      "company": "NPAworldwide",
+      "url": "https://www.linkedin.com/jobs/view/chief-operating-officer-coo-vh-11515-at-npaworldwide-4489419509",
+      "first_seen": "2026-11-15",
+      "posted_date": "2026-11-12",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "location": "Coon Rapids, MN",
+      "skip_reason": "Low fit: COO search in Coon Rapids, MN, outside the Bay Area"
+    },
+    "nvidia_director-real-estate-development": {
+      "title": "Director, Real Estate Development",
+      "company": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Manager--Real-Estate-Development_JR2017839",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "target-ats",
+      "source": "ats-api",
+      "location": "Taiwan, Taipei",
+      "skip_reason": "Target company (NVIDIA) but real-estate development role in Taipei, outside his functions",
+      "posted_note": "Posted 30+ Days Ago"
+    },
+    "nvidia_director-product-marketing-dsx": {
+      "title": "Director, Product Marketing DSX",
+      "company": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Product-Marketing-DSX_JR2029288",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "target-ats",
+      "source": "ats-api",
+      "location": "2 Locations",
+      "skip_reason": "Target company (NVIDIA) but product marketing role, outside his functions",
+      "posted_note": "Posted 5 Days Ago"
+    },
+    "nvidia_director-silicon-operations-production-planning": {
+      "title": "Director, Silicon Operations Production Planning",
+      "company": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Silicon-Operations-Production-Planning_JR2014505",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "ranked",
+      "portal": "target-ats",
+      "source": "ats-api",
+      "location": "US, CA, Santa Clara",
+      "posted_note": "Posted 15 Days Ago",
+      "rank_score": 34,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-15",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Fetched posting title is Director, Silicon Operations Production Planning (URL slug says Manager); Director at a large public company qualifies",
+        "Santa Clara, Bay Area commute; base range 216,000 to 339,250 USD tops out above 300K",
+        "Build-and-lead team mandate with exec-level trade-off recommendations fits his cross-functional delivery and exec alignment strengths"
+      ],
+      "gaps": [
+        "Requires 12+ years in semiconductor operations supply planning/supply chain; he has no semiconductor or supply chain background",
+        "Tooling (SAP APO, IBP, Windchill, advanced planning software) and advanced packaging/HBM/substrate domain not on resume",
+        "Base range low end of 216K and midpoint below his 350K ideal; reporting line unstated; applications accepted at least until Nov 3, 2026 (posting still live)"
+      ]
+    },
+    "nvidia_director-engineering-software-engineering-and-ai-inferencing-b57cfb": {
+      "title": "Director, Engineering – Software Engineering and AI Inferencing Platforms",
+      "company": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/Director--Engineering---Software-Engineering-and-AI-Inferencing-Platforms_JR2007530",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "ranked",
+      "portal": "target-ats",
+      "source": "ats-api",
+      "location": "2 Locations",
+      "posted_note": "Posted 30+ Days Ago",
+      "rank_score": 25,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-11-15",
+      "location_verdict": "FAIL",
+      "language_gate": "PASS",
+      "strengths": [
+        "Build and scale a new engineering org (builder mandate) with AI platform focus",
+        "CI/CD and engineering best-practice championing overlaps with his engineering operations background"
+      ],
+      "gaps": [
+        "Located in Hanoi or Ho Chi Minh City, Vietnam with no remote option; outside the US",
+        "Requires 15+ years of software engineering with hands-on depth in Spark, Kubernetes, CUDA, distributed systems; he is not a hands-on engineer",
+        "Pay not posted; role is line engineering management of large software teams, an entry-level area for him"
+      ]
+    },
+    "nvidia_apac-it-director": {
+      "title": "APAC IT Director",
+      "company": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/APAC-IT-Director_JR2022672",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "target-ats",
+      "source": "ats-api",
+      "location": "3 Locations",
+      "posted_note": "Posted 30+ Days Ago",
+      "rank_score": 34,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-15",
+      "location_verdict": "FAIL",
+      "language_gate": "FAIL",
+      "language_note": "Requires fluent verbal and written Mandarin Chinese",
+      "strengths": [
+        "Workforce/internal tech service delivery, vendor strategy and AI-first employee enablement align with his internal services and GenAI adoption work"
+      ],
+      "gaps": [
+        "Requires fluent Mandarin Chinese; he speaks English only",
+        "Located in Shanghai, Beijing or Shenzhen, China; outside the US",
+        "Wants 20+ years IT leadership plus deep ITSM/ServiceNow expertise; pay not posted"
+      ]
+    },
+    "nvidia_director-of-revenue-accounting": {
+      "title": "Director of Revenue Accounting",
+      "company": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director-of-Revenue-Accounting_JR2029312",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "target-ats",
+      "source": "ats-api",
+      "location": "US, CA, Santa Clara",
+      "skip_reason": "Target company (NVIDIA) but revenue accounting (finance) role, outside his functions",
+      "posted_note": "Posted Yesterday"
+    },
+    "nvidia_director-fsi-predictive-technology": {
+      "title": "Director, FSI Predictive Technology",
+      "company": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--FSI-Predictive-Technology_JR2026234",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "ranked",
+      "portal": "target-ats",
+      "source": "ats-api",
+      "location": "US, CA, Santa Clara",
+      "posted_note": "Posted 15 Days Ago",
+      "rank_score": 36,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-15",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Base range 320,000 to 488,750 USD, fully above his 300K floor; Santa Clara, Bay Area",
+        "Financial services focus connects to his Ripple payments/fintech and bank C-suite background",
+        "Heavy cross-functional alignment across engineering, data science, risk, product and customer engineering"
+      ],
+      "gaps": [
+        "Deeply technical fraud/ML architecture role requiring 15+ years software engineering and hands-on expertise in detection systems, ML, and real-time data pipelines; he works at architecture-conversation level only",
+        "No fraud, risk, or ML systems experience on resume; reads closer to a technical architect/strategist than an ops or delivery leader",
+        "Reporting line and team size unstated; applications accepted at least until Nov 3, 2026 (posting still live)"
+      ]
+    },
+    "corgi_vp-of-operations": {
+      "title": "VP of Operations",
+      "company": "Corgi",
+      "url": "https://www.ycombinator.com/companies/corgi-insurance/jobs/q7M4i6u-vp-of-operations",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch",
+      "source": "websearch",
+      "location": "San Francisco, CA",
+      "skip_reason": "Posted pay $180K-$250K, under the $300K base floor"
+    },
+    "dialpad_vp-program-management-office": {
+      "title": "VP, Program Management Office",
+      "company": "Dialpad",
+      "url": "https://resumegeni.com/jobs/vp-program-management-office-dialpad-c9e115a432",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "medium",
+      "status": "expired",
+      "portal": "websearch",
+      "source": "websearch",
+      "location": null,
+      "skip_reason": "Not on Dialpad's Greenhouse board (16 open roles) on 2026-11-15; aggregator copy only"
+    },
+    "datadog_vice-president-technical-solutions-operations": {
+      "title": "Vice President, Technical Solutions Operations",
+      "company": "Datadog",
+      "url": "https://findroles.com/jobs/1273955955-vice-president-technical-solutions-operations",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "medium",
+      "status": "expired",
+      "portal": "websearch",
+      "source": "websearch",
+      "location": null,
+      "skip_reason": "Not on Datadog's Greenhouse board on 2026-11-15; aggregator copy only"
+    },
+    "anaplan_vp-customer-success-operations": {
+      "title": "VP, Customer Success Operations",
+      "company": "Anaplan",
+      "url": "https://resumegeni.com/jobs/vp-customer-success-operations-anaplan-2122eb6534",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "medium",
+      "status": "expired",
+      "portal": "websearch",
+      "source": "websearch",
+      "location": null,
+      "skip_reason": "Not on Anaplan's Greenhouse board on 2026-11-15; aggregator copy only"
+    },
+    "semgrep_vice-president-customer-experience": {
+      "title": "Vice President, Customer Experience",
+      "company": "Semgrep",
+      "url": "https://hotfix.jobs/jobs/vice-president-customer-experience-at-semgrep-d85eaf73-ae27-486e-9bf6-153d3ad1ba35",
+      "first_seen": "2026-11-15",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "medium",
+      "status": "expired",
+      "portal": "websearch",
+      "source": "websearch",
+      "location": null,
+      "skip_reason": "Not on Semgrep's Ashby board on 2026-11-15; aggregator copy only"
     }
   }
 }
