@@ -1,0 +1,131 @@
+{
+ "url": "https://careers-powerschool.icims.com/jobs/53146/vice-president%2c-product-operations/job",
+ "board": null,
+ "files": {
+  "cv": "fde4c9f6658d22df784c65dc7e9a3e27614271c50f4ff7e9a15f4f87edccf1db",
+  "cover": "f3bbc5c9880f311c154ec0a06143660ba3f6cd4bb5653e328860156560e61a37"
+ },
+ "cvPath": "send/Casey_Caster_Resume.pdf",
+ "coverPath": "send/Casey_Caster_Cover_Letter.pdf",
+ "mode": "manual",
+ "manualReason": "PowerSchool applies through iCIMS, which needs you to sign in or create a candidate account.",
+ "answers": [
+  {
+   "key": "name",
+   "label": "Legal name",
+   "required": true,
+   "source": "identity.legal_full_name",
+   "value": "Casey Caster"
+  },
+  {
+   "key": "email",
+   "label": "Email",
+   "required": true,
+   "source": "contact.email",
+   "value": "casey.caster@gmail.com"
+  },
+  {
+   "key": "phone",
+   "label": "Phone (mobile, United States +1)",
+   "required": true,
+   "source": "contact.phone",
+   "value": "650-799-9926"
+  },
+  {
+   "key": "address",
+   "label": "City, state, postal code, country",
+   "required": true,
+   "source": "residence",
+   "value": "Pacifica, CA 94044, United States"
+  },
+  {
+   "key": "linkedin",
+   "label": "LinkedIn",
+   "required": false,
+   "source": "contact.linkedin_url",
+   "value": "https://www.linkedin.com/in/caster/"
+  },
+  {
+   "key": "resume",
+   "label": "Resume upload",
+   "required": true,
+   "source": "standard resume (original format, unchanged)",
+   "value": "cv"
+  },
+  {
+   "key": "cover",
+   "label": "Cover letter upload (if offered)",
+   "required": false,
+   "source": "cover letter (approved PDF)",
+   "value": "cover"
+  },
+  {
+   "key": "auth",
+   "label": "Legally authorized to work in the U.S.?",
+   "required": true,
+   "source": "eligibility.by_country.US.work_authorized",
+   "value": "Yes"
+  },
+  {
+   "key": "sponsor",
+   "label": "Now or in the future require sponsorship?",
+   "required": true,
+   "source": "eligibility.by_country.US.sponsorship_now and _future",
+   "value": "No"
+  },
+  {
+   "key": "prior",
+   "label": "Previously worked at PowerSchool?",
+   "required": true,
+   "source": "employment history (profile lists no PowerSchool role)",
+   "value": "No"
+  },
+  {
+   "key": "source",
+   "label": "How did you hear about us?",
+   "required": false,
+   "source": "found via job search",
+   "value": "LinkedIn job posting"
+  },
+  {
+   "key": "gender",
+   "label": "Gender / sex",
+   "required": false,
+   "source": "disclosure.sex (saved answer)",
+   "value": "Male",
+   "group": "eeo"
+  },
+  {
+   "key": "hispanic",
+   "label": "Hispanic or Latino?",
+   "required": false,
+   "source": "disclosure.ethnicity (saved answer)",
+   "value": "No",
+   "group": "eeo"
+  },
+  {
+   "key": "race",
+   "label": "Race",
+   "required": false,
+   "source": "disclosure.race (saved answer)",
+   "value": "White",
+   "group": "eeo"
+  },
+  {
+   "key": "veteran",
+   "label": "Veteran status",
+   "required": false,
+   "source": "disclosure.veteran_status (saved answer)",
+   "value": "I am not a protected veteran",
+   "group": "eeo"
+  },
+  {
+   "key": "disability",
+   "label": "Disability self-identification",
+   "required": false,
+   "source": "disclosure.disability_self_identification (saved answer)",
+   "value": "No, I do not have a disability and have not had one in the past",
+   "group": "eeo"
+  }
+ ]
+}
