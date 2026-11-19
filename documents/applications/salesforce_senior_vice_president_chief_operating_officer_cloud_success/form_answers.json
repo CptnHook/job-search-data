@@ -1,0 +1,142 @@
+{
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/SVP--COO---Cloud-Success_JR361292-1",
+  "board": null,
+  "files": {
+    "cv": "fde4c9f6658d22df784c65dc7e9a3e27614271c50f4ff7e9a15f4f87edccf1db",
+    "cover": "8ae0549a83f06fbfcdb925d11369b2ad2b150eee76f603efc186de2d8eb73f82"
+  },
+  "cvPath": "documents/applications/salesforce_senior_vice_president_chief_operating_officer_cloud_success/send/Casey_Caster_Resume.pdf",
+  "coverPath": "documents/applications/salesforce_senior_vice_president_chief_operating_officer_cloud_success/send/Casey_Caster_Cover_Letter.pdf",
+  "mode": "manual",
+  "manualReason": "Salesforce applies through Workday, which needs you to sign in or create a candidate account.",
+  "answers": [
+    {
+      "key": "name",
+      "label": "Legal name",
+      "value": "Casey Caster",
+      "source": "identity.legal_full_name",
+      "required": true
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "value": "casey.caster@gmail.com",
+      "source": "contact.email",
+      "required": true
+    },
+    {
+      "key": "phone",
+      "label": "Phone (mobile, United States +1)",
+      "value": "650-799-9926",
+      "source": "contact.phone",
+      "required": true
+    },
+    {
+      "key": "address",
+      "label": "City, state, postal code, country",
+      "value": "Pacifica, CA 94044, United States",
+      "source": "residence",
+      "required": true
+    },
+    {
+      "key": "linkedin",
+      "label": "LinkedIn",
+      "value": "https://www.linkedin.com/in/caster/",
+      "source": "contact.linkedin_url",
+      "required": false
+    },
+    {
+      "key": "resume",
+      "label": "Resume upload",
+      "value": "cv",
+      "source": "standard resume (original format, unchanged)",
+      "required": true
+    },
+    {
+      "key": "cover",
+      "label": "Cover letter upload (if offered)",
+      "value": "cover",
+      "source": "cover letter (approved PDF)",
+      "required": false
+    },
+    {
+      "key": "auth",
+      "label": "Legally authorized to work in the U.S.?",
+      "value": "Yes",
+      "source": "eligibility.by_country.US.work_authorized",
+      "required": true
+    },
+    {
+      "key": "sponsor",
+      "label": "Now or in the future require sponsorship?",
+      "value": "No",
+      "source": "eligibility.by_country.US.sponsorship_now and _future",
+      "required": true
+    },
+    {
+      "key": "prior",
+      "label": "Previously worked at Salesforce?",
+      "value": "No",
+      "source": "employment history (profile lists no Salesforce role)",
+      "required": true
+    },
+    {
+      "key": "notice",
+      "label": "Availability / start date, if asked",
+      "value": "4 weeks from an offer (free text: 2 weeks notice)",
+      "source": "preferences.availability_or_notice",
+      "required": false
+    },
+    {
+      "key": "source",
+      "label": "How did you hear about us?",
+      "value": "Salesforce careers site",
+      "source": "found via job search",
+      "required": false
+    },
+    {
+      "key": "gender",
+      "label": "Gender / sex",
+      "value": "Male",
+      "source": "disclosure.sex (saved answer)",
+      "required": false,
+      "group": "eeo"
+    },
+    {
+      "key": "hispanic",
+      "label": "Hispanic or Latino?",
+      "value": "No",
+      "source": "disclosure.ethnicity (saved answer)",
+      "required": false,
+      "group": "eeo"
+    },
+    {
+      "key": "race",
+      "label": "Race",
+      "value": "White",
+      "source": "disclosure.race (saved answer)",
+      "required": false,
+      "group": "eeo"
+    },
+    {
+      "key": "veteran",
+      "label": "Veteran status",
+      "value": "I am not a protected veteran",
+      "source": "disclosure.veteran_status (saved answer)",
+      "required": false,
+      "group": "eeo"
+    },
+    {
+      "key": "disability",
+      "label": "Disability self-identification",
+      "value": "No, I do not have a disability and have not had one in the past",
+      "source": "disclosure.disability_self_identification (saved answer)",
+      "required": false,
+      "group": "eeo"
+    }
+  ],
+  "leftBlank": [
+    "Desired salary, if asked: your call (posted base range is $352K-$473K; your goal is $350K+ base)",
+    "Work history fields: Workday makes you retype or parse the resume; check its parse"
+  ]
+}
