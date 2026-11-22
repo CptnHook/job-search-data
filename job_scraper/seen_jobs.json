@@ -54700,6 +54700,42 @@
       ],
       "duplicate_of": "red-is_vp-engineering-operations",
       "skip_reason": "Same posting as red-is_vp-engineering-operations (LinkedIn lists Redis as RED-IS); ranked 2026-11-20 at 80. This run's duplicate triage gave 74."
+    },
+    "beaver-run-rental-holdings-llc_vp-of-resort-operations": {
+      "title": "VP of Resort Operations",
+      "company": "BEAVER RUN RENTAL HOLDINGS LLC",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/92c9acce2f99a8c6f421f1b07ba07837/jobs/86166?utm_source=freehire.me",
+      "first_seen": "2026-11-22",
+      "posted_date": "2026-11-22",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "children-s-hospital_vp-enterprise-technology-services": {
+      "title": "VP, Enterprise Technology Services",
+      "company": "Children's Hospital",
+      "url": "https://www.adzuna.com/details/5974992432?utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-22",
+      "posted_date": "2026-11-22",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "repurpose-global_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "rePurpose Global",
+      "url": "https://jobs.lever.co/repurposeglobal/832d8818-805d-40ef-af98-573fb085da7f?utm_source=freehire.me",
+      "first_seen": "2026-11-22",
+      "posted_date": "2026-11-20",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
     }
   }
 }
