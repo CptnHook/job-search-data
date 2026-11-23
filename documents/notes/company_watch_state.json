@@ -1,7 +1,7 @@
 {
  "companies": {
   "abnormal-ai": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "7481102003",
@@ -34,6 +34,11 @@
      "url": "https://abnormal.ai/careers/jobs/7695994003?gh_jid=7695994003"
     },
     {
+     "id": "7730831003",
+     "title": "Sales Development Representative",
+     "url": "https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003"
+    },
+    {
      "id": "7733721003",
      "title": "Tech Lead Manager - Product Engineering (Identity Security)",
      "url": "https://abnormal.ai/careers/jobs/7733721003?gh_jid=7733721003"
@@ -42,6 +47,11 @@
      "id": "7741028003",
      "title": "Software Engineer II - Platform & Infrastructure",
      "url": "https://abnormal.ai/careers/jobs/7741028003?gh_jid=7741028003"
+    },
+    {
+     "id": "7774637003",
+     "title": "Software Engineer II - ADEX",
+     "url": "https://abnormal.ai/careers/jobs/7774637003?gh_jid=7774637003"
     },
     {
      "id": "7780528003",
@@ -62,11 +72,6 @@
      "id": "7806743003",
      "title": "Senior Software Engineer - Backend (ISPM)",
      "url": "https://abnormal.ai/careers/jobs/7806743003?gh_jid=7806743003"
-    },
-    {
-     "id": "7812768003",
-     "title": "Product Manager (Outbound) - Identity",
-     "url": "https://abnormal.ai/careers/jobs/7812768003?gh_jid=7812768003"
     },
     {
      "id": "7819619003",
@@ -102,11 +107,6 @@
      "id": "7963934003",
      "title": "Senior Customer Trust Analyst, EMEA",
      "url": "https://abnormal.ai/careers/jobs/7963934003?gh_jid=7963934003"
-    },
-    {
-     "id": "7974524003",
-     "title": "Product Manager (Outbound) - New Products",
-     "url": "https://abnormal.ai/careers/jobs/7974524003?gh_jid=7974524003"
     },
     {
      "id": "7989115003",
@@ -169,9 +169,9 @@
      "url": "https://abnormal.ai/careers/jobs/8002103003?gh_jid=8002103003"
     },
     {
-     "id": "8002941003",
-     "title": "Enterprise Majors Account Executive",
-     "url": "https://abnormal.ai/careers/jobs/8002941003?gh_jid=8002941003"
+     "id": "8002712003",
+     "title": "People Program Manager",
+     "url": "https://abnormal.ai/careers/jobs/8002712003?gh_jid=8002712003"
     },
     {
      "id": "8003007003",
@@ -192,11 +192,6 @@
      "id": "8009976003",
      "title": "Principal, Pricing & Packaging",
      "url": "https://abnormal.ai/careers/jobs/8009976003?gh_jid=8009976003"
-    },
-    {
-     "id": "8011780003",
-     "title": "Senior ServiceNow Platform Engineer",
-     "url": "https://abnormal.ai/careers/jobs/8011780003?gh_jid=8011780003"
     },
     {
      "id": "8011830003",
@@ -239,11 +234,6 @@
      "url": "https://abnormal.ai/careers/jobs/8016874003?gh_jid=8016874003"
     },
     {
-     "id": "8016881003",
-     "title": "Software Engineer II - Post Detection Enablement",
-     "url": "https://abnormal.ai/careers/jobs/8016881003?gh_jid=8016881003"
-    },
-    {
      "id": "8016898003",
      "title": "Customer Solutions Engineer, EMEA",
      "url": "https://abnormal.ai/careers/jobs/8016898003?gh_jid=8016898003"
@@ -259,11 +249,6 @@
      "url": "https://abnormal.ai/careers/jobs/8017045003?gh_jid=8017045003"
     },
     {
-     "id": "8017129003",
-     "title": "Account Executive, SLED (Sacramento only)",
-     "url": "https://abnormal.ai/careers/jobs/8017129003?gh_jid=8017129003"
-    },
-    {
      "id": "8019603003",
      "title": "Strategic Events Specialist, EMEA",
      "url": "https://abnormal.ai/careers/jobs/8019603003?gh_jid=8019603003"
@@ -272,11 +257,6 @@
      "id": "8019820003",
      "title": "Strategic Events Specialist, EMEA",
      "url": "https://abnormal.ai/careers/jobs/8019820003?gh_jid=8019820003"
-    },
-    {
-     "id": "8020418003",
-     "title": "Senior Director, GTM Finance",
-     "url": "https://abnormal.ai/careers/jobs/8020418003?gh_jid=8020418003"
     },
     {
      "id": "8027477003",
@@ -324,6 +304,11 @@
      "url": "https://abnormal.ai/careers/jobs/8037209003?gh_jid=8037209003"
     },
     {
+     "id": "8037221003",
+     "title": "Strategic Events Manager, APJ",
+     "url": "https://abnormal.ai/careers/jobs/8037221003?gh_jid=8037221003"
+    },
+    {
      "id": "8039070003",
      "title": "AI Security Sales Executive, North Central",
      "url": "https://abnormal.ai/careers/jobs/8039070003?gh_jid=8039070003"
@@ -365,7 +350,7 @@
     },
     {
      "id": "8106426003",
-     "title": "Senior Technical Product Marketing Manager",
+     "title": "Senior Technical Marketing Manager",
      "url": "https://abnormal.ai/careers/jobs/8106426003?gh_jid=8106426003"
     },
     {
@@ -399,11 +384,6 @@
      "url": "https://abnormal.ai/careers/jobs/8189857003?gh_jid=8189857003"
     },
     {
-     "id": "8195928003",
-     "title": "Senior Channel Account Manager",
-     "url": "https://abnormal.ai/careers/jobs/8195928003?gh_jid=8195928003"
-    },
-    {
      "id": "8196038003",
      "title": "Channel Enablement Manager",
      "url": "https://abnormal.ai/careers/jobs/8196038003?gh_jid=8196038003"
@@ -412,11 +392,6 @@
      "id": "8196054003",
      "title": "Data Strategy Operations Manager",
      "url": "https://abnormal.ai/careers/jobs/8196054003?gh_jid=8196054003"
-    },
-    {
-     "id": "8196352003",
-     "title": "Software Engineer I, Data Platforms",
-     "url": "https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003"
     },
     {
      "id": "8197230003",
@@ -442,26 +417,36 @@
      "id": "8203078003",
      "title": "Sales Development Representative, German Speaking",
      "url": "https://abnormal.ai/careers/jobs/8203078003?gh_jid=8203078003"
+    },
+    {
+     "id": "8207607003",
+     "title": "Integrated Marketing Manager, Global Programs",
+     "url": "https://abnormal.ai/careers/jobs/8207607003?gh_jid=8207607003"
+    },
+    {
+     "id": "8210392003",
+     "title": "Software Engineer 2 - ADEX",
+     "url": "https://abnormal.ai/careers/jobs/8210392003?gh_jid=8210392003"
     }
    ],
-   "jobsHash": "1ef84e534cd5fefe8bc92fb90f23845b6b16b52c2d60bd8059aaeb2cd102155e",
+   "jobsHash": "01c3ee362f9e1548a162e216417659297c06f915a42d2457a39c64ee6d4485c1",
    "pages": {
     "/": "79e2fe76393473761f02a8baebede0cfe05ef958bc324f064db18df75ffb4ffe",
-    "/blog": "f83184f7e858afa04c5edbb61457aacf815d6fd0024b57e3e7c61ef1e66bdff9",
-    "/newsroom": "b75d0cdb389fe5806218d185ed5018b3f0b80f02d7669ab553cfd662e353bc0d"
+    "/blog": "40a5e12e0c808fdba2223c319483d509e91ddceaa6d9a2566095514ea6bee6dd",
+    "/newsroom": "04d894dc83a02f5c9923caf26244a4dcf8223f76f16dfa70b666d622967a7c59"
    },
-   "siteHash": "c89da1441f66045ba88beb20faa2040064db7436c3cdd17eb8beb18b743c62d2"
+   "siteHash": "edaf23907eafc863cd773ac7927ea9ba7df83576ca8758881b75854f523e3891"
   },
   "aikido-security": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "pages": {
-    "/": "fdd5ecae98c569df203f0c97b10e2777abb82c7ee34273a35afff78c661767f5",
-    "/blog": "2a2d1073dda0a7ec57150050d9667463986530646849dd60b308c2d5827e0a72"
+    "/": "e3d9d0cc4ed734b93f6799db70836472ae61c6bd0477e0cac6c37eec9a2923a5",
+    "/blog": "2cf10ea9bbcac52d71a226e9caee2c39c8dab0fffc621f81b2c05e217723fd02"
    },
-   "siteHash": "0ac5254250b4f8b34b78ad0d283c557ce27485c665e35158e742742453e9c134"
+   "siteHash": "42d815e2a7ba6bb2bde9da7c3f3e34252114b1ffa00acd0ac0c448b1268d4a77"
   },
   "aiuc": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "12baf2c7-5ad3-406f-b875-f9d27691666c",
@@ -524,6 +509,11 @@
      "url": "https://jobs.ashbyhq.com/aiuc/8c004b8b-8bc7-4c2c-a846-0094aca44f91"
     },
     {
+     "id": "a1a845f7-d7b6-4de4-ba40-928d33f2338b",
+     "title": "Member of Founder's Office",
+     "url": "https://jobs.ashbyhq.com/aiuc/a1a845f7-d7b6-4de4-ba40-928d33f2338b"
+    },
+    {
      "id": "a20bbe1c-220f-427c-84fd-de46e3e7b7cd",
      "title": "Talent Partner - Technical",
      "url": "https://jobs.ashbyhq.com/aiuc/a20bbe1c-220f-427c-84fd-de46e3e7b7cd"
@@ -564,10 +554,10 @@
      "url": "https://jobs.ashbyhq.com/aiuc/f854dfc8-029e-4d5d-aad7-303959582c0a"
     }
    ],
-   "jobsHash": "d220eef3e6df9f7a0a686f3535ceed1d569fcaeddf1b3ce400a1e04f29f166fd"
+   "jobsHash": "a71e55f28b2a1724b174084a4d7b9103008556f17c9ad5e548d89d33494586a2"
   },
   "anthropic": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "4017331008",
@@ -638,16 +628,6 @@
      "id": "4669581008",
      "title": "Research Engineer, Discovery",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008"
-    },
-    {
-     "id": "4720576008",
-     "title": "TPU Performance Engineer",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008"
-    },
-    {
-     "id": "4741104008",
-     "title": "Engineering Manager, GPU (ML Accelerator)",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008"
     },
     {
      "id": "4887959008",
@@ -760,11 +740,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986288008"
     },
     {
-     "id": "4989155008",
-     "title": "Director, Technical Accounting - M&A",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989155008"
-    },
-    {
      "id": "4989788008",
      "title": "Technical Program Manager, Security",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989788008"
@@ -846,7 +821,7 @@
     },
     {
      "id": "5068570008",
-     "title": "Customer Success Manager, Industries",
+     "title": "AI Outcomes Manager, Industries",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068570008"
     },
     {
@@ -925,11 +900,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008"
     },
     {
-     "id": "5098092008",
-     "title": "Software Engineering Manager, Network Security",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098092008"
-    },
-    {
      "id": "5099753008",
      "title": "Manager, Forward Deployed Engineering",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008"
@@ -938,11 +908,6 @@
      "id": "5107890008",
      "title": "Data Center Controls Engineer",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5107890008"
-    },
-    {
-     "id": "5108111008",
-     "title": "Strategic Account Executive, Tech",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5108111008"
     },
     {
      "id": "5108695008",
@@ -1045,6 +1010,11 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5138289008"
     },
     {
+     "id": "5138549008",
+     "title": "Strategic Account Executive, Tech",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5138549008"
+    },
+    {
      "id": "5139910008",
      "title": "Staff+ Software Engineer, Observability",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5139910008"
@@ -1105,11 +1075,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5176036008"
     },
     {
-     "id": "5179891008",
-     "title": "Product Operations Manager, Embedded",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5179891008"
-    },
-    {
      "id": "5182605008",
      "title": "Data Scientist, Product",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5182605008"
@@ -1135,11 +1100,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008"
     },
     {
-     "id": "5184585008",
-     "title": "Data Science, Finance & Strategy",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5184585008"
-    },
-    {
      "id": "5192805008",
      "title": "Applied AI Architect, Commercial",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008"
@@ -1163,11 +1123,6 @@
      "id": "5196852008",
      "title": "Data Scientist, GTM",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196852008"
-    },
-    {
-     "id": "5197211008",
-     "title": "Data Science Tech Lead Manager, Model Experience",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197211008"
     },
     {
      "id": "5198074008",
@@ -1203,6 +1158,11 @@
      "id": "5205704008",
      "title": "Staff+ Software Engineer, Public Sector",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205704008"
+    },
+    {
+     "id": "5206870008",
+     "title": "Developer Relations, Platform",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5206870008"
     },
     {
      "id": "5209196008",
@@ -1270,16 +1230,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5237923008"
     },
     {
-     "id": "5238460008",
-     "title": "Data Operations Manager, Human Data",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5238460008"
-    },
-    {
-     "id": "5238637008",
-     "title": "Product Engineer, Computer Use",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5238637008"
-    },
-    {
      "id": "5239733008",
      "title": "Research Scientist, Life Sciences",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5239733008"
@@ -1293,6 +1243,11 @@
      "id": "5250052008",
      "title": "Staff Security Engineer, Risk Engineering",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5250052008"
+    },
+    {
+     "id": "5250091008",
+     "title": "Staff+ Software Engineer, GRC Platform",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5250091008"
     },
     {
      "id": "5251609008",
@@ -1360,11 +1315,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5283063008"
     },
     {
-     "id": "5285246008",
-     "title": "Research Engineer, Computer Use",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285246008"
-    },
-    {
      "id": "5285248008",
      "title": "Research Associate, Biology",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285248008"
@@ -1430,11 +1380,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301958008"
     },
     {
-     "id": "5305476008",
-     "title": "Threat Intel Manager, Model Exploitation & Fraud",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5305476008"
-    },
-    {
      "id": "5305631008",
      "title": "Threat Intel Manager, CBRN-E & Advanced Weapons",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5305631008"
@@ -1450,19 +1395,9 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5309917008"
     },
     {
-     "id": "5310731008",
-     "title": "Staff+ Software Engineer, Capacity Engineering",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5310731008"
-    },
-    {
      "id": "5311149008",
      "title": "Safeguards Enforcement Analyst, Integrity & Authenticity",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311149008"
-    },
-    {
-     "id": "5311463008",
-     "title": "Staff+ Application Security Engineer - M&A",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311463008"
     },
     {
      "id": "5311465008",
@@ -1505,11 +1440,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5342935008"
     },
     {
-     "id": "5344577008",
-     "title": "Field Marketing Lead, Public Sector",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5344577008"
-    },
-    {
      "id": "5350448008",
      "title": "Technical Recruiter",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5350448008"
@@ -1550,11 +1480,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358090008"
     },
     {
-     "id": "5358096008",
-     "title": "Product Finance & Strategy, Claude Platform, Forecasting & Rhythms",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358096008"
-    },
-    {
      "id": "5358098008",
      "title": "Finance & Strategy, Compute",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358098008"
@@ -1563,16 +1488,6 @@
      "id": "5358110008",
      "title": "Corporate Development Lead, Life Sciences",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358110008"
-    },
-    {
-     "id": "5358114008",
-     "title": "Treasury Director, Investments & Liquidity",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358114008"
-    },
-    {
-     "id": "5358122008",
-     "title": "Tax Director, Provision & Compliance",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358122008"
     },
     {
      "id": "5358138008",
@@ -1623,11 +1538,6 @@
      "id": "5368034008",
      "title": "Staff+ Software Engineer, Enterprise AI Products",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368034008"
-    },
-    {
-     "id": "5369181008",
-     "title": "Cloud Hyperscaler Readiness Lead",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369181008"
     },
     {
      "id": "5369710008",
@@ -1730,11 +1640,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008"
     },
     {
-     "id": "5385256008",
-     "title": "M&A Tax Director",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385256008"
-    },
-    {
      "id": "5385588008",
      "title": "AV Engineer, Builds and Design",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008"
@@ -1775,11 +1680,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386971008"
     },
     {
-     "id": "5387009008",
-     "title": "Director, US International Tax Planning",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387009008"
-    },
-    {
      "id": "5387083008",
      "title": "Staff Software Engineer, Infrastructure (Distributed Systems)",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387083008"
@@ -1790,9 +1690,9 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387564008"
     },
     {
-     "id": "5389773008",
-     "title": "Lead, Data Center Security Delivery (Construction to Operations)",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389773008"
+     "id": "5389305008",
+     "title": "Senior Product Engineer, Education",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389305008"
     },
     {
      "id": "5390754008",
@@ -1808,11 +1708,6 @@
      "id": "5390778008",
      "title": "Applied AI Architect, Industries",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390778008"
-    },
-    {
-     "id": "5390787008",
-     "title": "Applied AI Architect, Partnerships",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390787008"
     },
     {
      "id": "5390795008",
@@ -1838,11 +1733,6 @@
      "id": "5390952008",
      "title": "GTM Strategy & Operations, Frontier",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390952008"
-    },
-    {
-     "id": "5390956008",
-     "title": "GTM Strategy & Operations - AMER Enterprise Tech",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390956008"
     },
     {
      "id": "5390960008",
@@ -1935,11 +1825,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391257008"
     },
     {
-     "id": "5391301008",
-     "title": "Enterprise Account Executive, Materials & Industrial",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391301008"
-    },
-    {
      "id": "5391313008",
      "title": "Account Executive, Startups",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391313008"
@@ -1948,11 +1833,6 @@
      "id": "5391340008",
      "title": "Enterprise Account Executive - DNB",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391340008"
-    },
-    {
-     "id": "5391344008",
-     "title": "Sales Director, Enterprise",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391344008"
     },
     {
      "id": "5391356008",
@@ -1986,7 +1866,7 @@
     },
     {
      "id": "5391983008",
-     "title": "Community Engagement Manager, Data Centers (Texas)",
+     "title": "Community Engagement Manager, Data Centers (West Texas)",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391983008"
     },
     {
@@ -2038,11 +1918,6 @@
      "id": "5394948008",
      "title": "Staff+ Software Engineer, Platform Connectivity",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394948008"
-    },
-    {
-     "id": "5394993008",
-     "title": "Strategic Sourcing Business Partner, R&D Operations",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394993008"
     },
     {
      "id": "5395767008",
@@ -2130,11 +2005,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399225008"
     },
     {
-     "id": "5399379008",
-     "title": "Reporting and Controls Lead, Data Center Capacity Delivery",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399379008"
-    },
-    {
      "id": "5400138008",
      "title": "Account Executive, Startups",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400138008"
@@ -2180,11 +2050,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008"
     },
     {
-     "id": "5407938008",
-     "title": "Partnership Manager, AI for Science",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407938008"
-    },
-    {
      "id": "5409008008",
      "title": "Applied AI Architect, Strategic Enterprise Tech",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409008008"
@@ -2208,11 +2073,6 @@
      "id": "5410004008",
      "title": "Safeguards Enforcement Lead, User Well-Being",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410004008"
-    },
-    {
-     "id": "5410006008",
-     "title": "Safeguards Enforcement Analyst, Conventional Weapons",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410006008"
     },
     {
      "id": "5411267008",
@@ -2265,16 +2125,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413418008"
     },
     {
-     "id": "5414608008",
-     "title": "Sanctions Compliance Lead",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5414608008"
-    },
-    {
-     "id": "5415287008",
-     "title": "Executive Communications Writer",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415287008"
-    },
-    {
      "id": "5415461008",
      "title": "Scaled Growth Account Executive, AI Native",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415461008"
@@ -2295,11 +2145,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415822008"
     },
     {
-     "id": "5415864008",
-     "title": "Lead - Security Controls Assurance - SOX",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415864008"
-    },
-    {
      "id": "5416020008",
      "title": "Head of Regulated Industries, Customer Success",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416020008"
@@ -2310,19 +2155,9 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416026008"
     },
     {
-     "id": "5416696008",
-     "title": "Warehouse and Logistics Capability Manager",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416696008"
-    },
-    {
      "id": "5416829008",
      "title": "Business Systems Analyst, New Product Introduction",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416829008"
-    },
-    {
-     "id": "5416985008",
-     "title": "Warehouse and Logistics Manager - North America",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416985008"
     },
     {
      "id": "5417967008",
@@ -2350,11 +2185,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418748008"
     },
     {
-     "id": "5418858008",
-     "title": "Social Escalations Manager",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418858008"
-    },
-    {
      "id": "5418977008",
      "title": "Security Engineer, Offensive Security",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418977008"
@@ -2380,11 +2210,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5419869008"
     },
     {
-     "id": "5420245008",
-     "title": "Solutions Marketing Manager, Cybersecurity",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420245008"
-    },
-    {
      "id": "5421263008",
      "title": "Software Engineer, Tokens and Prompt Structures",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421263008"
@@ -2400,11 +2225,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421566008"
     },
     {
-     "id": "5422560008",
-     "title": "Senior Manager, M&A Finance Integration",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422560008"
-    },
-    {
      "id": "5422684008",
      "title": "Staff Software Engineer, Search",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422684008"
@@ -2413,6 +2233,11 @@
      "id": "5422950008",
      "title": "Security Technology Deployment Specialist",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422950008"
+    },
+    {
+     "id": "5422952008",
+     "title": "Protective Intelligence Analyst",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422952008"
     },
     {
      "id": "5423029008",
@@ -2460,13 +2285,8 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425680008"
     },
     {
-     "id": "5426613008",
-     "title": "Enterprise Account Executive, FSI",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426613008"
-    },
-    {
      "id": "5426617008",
-     "title": "Public Sector Sales Lead",
+     "title": "[Paris] Enterprise Account Executive, Public Sector",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426617008"
     },
     {
@@ -2495,6 +2315,11 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426933008"
     },
     {
+     "id": "5427025008",
+     "title": "Partner Success Lead",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427025008"
+    },
+    {
      "id": "5427309008",
      "title": "APAC Recruiting Coordinator",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427309008"
@@ -2513,11 +2338,6 @@
      "id": "5427893008",
      "title": "Supplier Security & Assurance, Security GRC",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427893008"
-    },
-    {
-     "id": "5427938008",
-     "title": "GTM Strategy & Operations, FDE",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427938008"
     },
     {
      "id": "5428014008",
@@ -2558,16 +2378,6 @@
      "id": "5430695008",
      "title": "Privacy Counsel",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430695008"
-    },
-    {
-     "id": "5430743008",
-     "title": "IP Counsel, Transactions",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430743008"
-    },
-    {
-     "id": "5431285008",
-     "title": "Program Manager, Safeguards Workforce Operations",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5431285008"
     },
     {
      "id": "5431583008",
@@ -2630,14 +2440,14 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433814008"
     },
     {
+     "id": "5433843008",
+     "title": "Finance & Strategy, Deal Strategy",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433843008"
+    },
+    {
      "id": "5433950008",
      "title": "Recruiter, Go-To-Market (GTM)",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433950008"
-    },
-    {
-     "id": "5434116008",
-     "title": "Partner Marketing Manager, GSI & SI",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434116008"
     },
     {
      "id": "5434145008",
@@ -2680,11 +2490,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008"
     },
     {
-     "id": "5436615008",
-     "title": "State and Local Affairs Lead, West",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436615008"
-    },
-    {
      "id": "5436684008",
      "title": "Staff + Sr. Software Engineer, Cloud Inference",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436684008"
@@ -2710,6 +2515,11 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008"
     },
     {
+     "id": "5437933008",
+     "title": "Finance & Strategy, Deal Strategy",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437933008"
+    },
+    {
      "id": "5438030008",
      "title": "Research Engineer / Performance Engineer, RL Distributed Systems",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438030008"
@@ -2730,11 +2540,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008"
     },
     {
-     "id": "5439355008",
-     "title": "Customer Marketing Manager, Special Projects",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439355008"
-    },
-    {
      "id": "5439391008",
      "title": "Technical Program Manager, Life Sciences",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439391008"
@@ -2750,11 +2555,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439524008"
     },
     {
-     "id": "5439526008",
-     "title": "IT Support Engineer",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439526008"
-    },
-    {
      "id": "5440427008",
      "title": "Software Engineer, Sandboxing",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440427008"
@@ -2768,11 +2568,6 @@
      "id": "5440477008",
      "title": "Staff + Software Security Engineer, Labs",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440477008"
-    },
-    {
-     "id": "5440535008",
-     "title": "Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440535008"
     },
     {
      "id": "5440636008",
@@ -2793,11 +2588,6 @@
      "id": "5440821008",
      "title": "Applied AI Engineer, Beneficial Deployments (Lab Automation)",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440821008"
-    },
-    {
-     "id": "5440855008",
-     "title": "Enterprise Account Executive, DNB",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440855008"
     },
     {
      "id": "5441387008",
@@ -2823,11 +2613,6 @@
      "id": "5441896008",
      "title": "Discovery Technical Operations Specialist",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441896008"
-    },
-    {
-     "id": "5441936008",
-     "title": "Director, Financial Reporting - Special Projects",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441936008"
     },
     {
      "id": "5442048008",
@@ -2860,24 +2645,9 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443871008"
     },
     {
-     "id": "5443875008",
-     "title": "Finance & Strategy Compute, Infrastructure",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443875008"
-    },
-    {
      "id": "5443882008",
      "title": "Applied AI Architect",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008"
-    },
-    {
-     "id": "5443900008",
-     "title": "US Public Sector Compliance, Security GRC",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443900008"
-    },
-    {
-     "id": "5443997008",
-     "title": "Technical Editor",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443997008"
     },
     {
      "id": "5444002008",
@@ -2938,11 +2708,6 @@
      "id": "5446029008",
      "title": "Manager of Applied AI Architecture, Startups",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446029008"
-    },
-    {
-     "id": "5446052008",
-     "title": "Director, Technical Accounting \u2013 Investments",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446052008"
     },
     {
      "id": "5446069008",
@@ -3020,11 +2785,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449831008"
     },
     {
-     "id": "5449880008",
-     "title": "Google Cloud GTM Partnerships Lead, EMEA",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449880008"
-    },
-    {
      "id": "5449885008",
      "title": "Recruiter, G&A (Policy)",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449885008"
@@ -3043,16 +2803,6 @@
      "id": "5450798008",
      "title": "Applied AI Architect",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008"
-    },
-    {
-     "id": "5451081008",
-     "title": "Policy Development, Technical AI Governance",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451081008"
-    },
-    {
-     "id": "5451134008",
-     "title": "Partner Marketing Lead, Resellers",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451134008"
     },
     {
      "id": "5451376008",
@@ -3078,21 +2828,6 @@
      "id": "5452691008",
      "title": "Community Engagement Manager, Data Centers (Louisiana)",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008"
-    },
-    {
-     "id": "5452699008",
-     "title": "Community Engagement Manager, Data Centers (Virginia & West Virginia)",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452699008"
-    },
-    {
-     "id": "5452909008",
-     "title": "Partner Account Manager, AI-Native/Boutique SI Partners",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452909008"
-    },
-    {
-     "id": "5452922008",
-     "title": "Community Engagement Manager, Data Centers (New York)",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452922008"
     },
     {
      "id": "5453262008",
@@ -3125,11 +2860,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453569008"
     },
     {
-     "id": "5453573008",
-     "title": "Policy Design Manager, Integrity and Authenticity",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453573008"
-    },
-    {
      "id": "5454142008",
      "title": "Manager, Sales Development, Enterprise",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454142008"
@@ -3148,11 +2878,6 @@
      "id": "5454474008",
      "title": "Data Center Energy Lead",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454474008"
-    },
-    {
-     "id": "5454518008",
-     "title": "GTM Programs Manager, GTM Initiatives",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454518008"
     },
     {
      "id": "5454535008",
@@ -3195,11 +2920,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455627008"
     },
     {
-     "id": "5455961008",
-     "title": "Applied AI Demo Engineer",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008"
-    },
-    {
      "id": "5456016008",
      "title": "Tabletop Exercise Lead, The Anthropic Institute",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456016008"
@@ -3210,29 +2930,14 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456018008"
     },
     {
-     "id": "5456039008",
-     "title": "Principal Engineer Capacity/Compute",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008"
-    },
-    {
-     "id": "5456405008",
-     "title": "Principal Engineer Capacity/Compute",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456405008"
-    },
-    {
-     "id": "5456406008",
-     "title": "Principal Engineer Capacity/Compute",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456406008"
+     "id": "5456315008",
+     "title": "Head of Community Relations, Compute",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456315008"
     },
     {
      "id": "5456453008",
      "title": "Staff+ Software Engineer, Memory & Search",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456453008"
-    },
-    {
-     "id": "5456481008",
-     "title": "Sales Manager, Enterprise Industries",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456481008"
     },
     {
      "id": "5456491008",
@@ -3370,11 +3075,6 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460837008"
     },
     {
-     "id": "5461024008",
-     "title": "Enterprise Account Executive - Semiconductors",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461024008"
-    },
-    {
      "id": "5461190008",
      "title": "Head of Enablement Experience & Innovation",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461190008"
@@ -3481,7 +3181,7 @@
     },
     {
      "id": "5464493008",
-     "title": "Tech Lead Manager, Core Apps Data Scientist",
+     "title": "Tech Lead Manager, Claude Code Data Scientist",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464493008"
     },
     {
@@ -3493,6 +3193,11 @@
      "id": "5464926008",
      "title": "Manager, Enterprise Sales - Pharma",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464926008"
+    },
+    {
+     "id": "5465637008",
+     "title": "Web Strategy Lead",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465637008"
     },
     {
      "id": "5465639008",
@@ -3550,6 +3255,11 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467690008"
     },
     {
+     "id": "5467893008",
+     "title": "Machine Learning Data Scientist, Forecasting Platform",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008"
+    },
+    {
      "id": "5468266008",
      "title": "Content Strategy Lead, Executive Programs",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468266008"
@@ -3563,11 +3273,6 @@
      "id": "5468374008",
      "title": "Data Center Power Generation and Microgrids Engineer",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468374008"
-    },
-    {
-     "id": "5468380008",
-     "title": "Data Center Substation, Protection & Automation Engineer",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468380008"
     },
     {
      "id": "5468392008",
@@ -3615,19 +3320,9 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469337008"
     },
     {
-     "id": "5469339008",
-     "title": "Energy Special Projects",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469339008"
-    },
-    {
      "id": "5469341008",
      "title": "Energy Supply Lead - Power Supply and PPA",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469341008"
-    },
-    {
-     "id": "5469367008",
-     "title": "Senior Data Center Pre-Construction and Capacity Delivery Manager, EMEA",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469367008"
     },
     {
      "id": "5469530008",
@@ -3638,11 +3333,6 @@
      "id": "5470528008",
      "title": "Product Marketing Manager, Knowledge Work - Enterprise",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470528008"
-    },
-    {
-     "id": "5470680008",
-     "title": "Recruiter, GTM - Singapore",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470680008"
     },
     {
      "id": "5470905008",
@@ -3730,9 +3420,14 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473862008"
     },
     {
-     "id": "5474544008",
-     "title": "Political Economist, Rule of Law",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474544008"
+     "id": "5473999008",
+     "title": "Partner Marketing Manager, Cloud Partners EMEA",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473999008"
+    },
+    {
+     "id": "5474013008",
+     "title": "Sales Director",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474013008"
     },
     {
      "id": "5474559008",
@@ -3763,11 +3458,6 @@
      "id": "5475240008",
      "title": "Recruiter, Applied AI",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475240008"
-    },
-    {
-     "id": "5475321008",
-     "title": "Brand Strategy Lead, Brand Architecture & Naming",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475321008"
     },
     {
      "id": "5475456008",
@@ -3803,6 +3493,11 @@
      "id": "5477379008",
      "title": "Staff+ Software Engineer, Safeguards Evals",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477379008"
+    },
+    {
+     "id": "5477416008",
+     "title": "Research Engineer, AI Monitoring",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477416008"
     },
     {
      "id": "5477464008",
@@ -3865,6 +3560,21 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5479890008"
     },
     {
+     "id": "5480875008",
+     "title": "Strategic Account Executive, Financial Services",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480875008"
+    },
+    {
+     "id": "5480893008",
+     "title": "Strategic Account Executive, HCLS",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480893008"
+    },
+    {
+     "id": "5480986008",
+     "title": "Manager, Applied AI Architect",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480986008"
+    },
+    {
      "id": "5481096008",
      "title": "Staff Software Engineer, Internal Products",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481096008"
@@ -3875,25 +3585,170 @@
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481396008"
     },
     {
-     "id": "5481671008",
-     "title": "GTM Narrative Lead",
-     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481671008"
+     "id": "5481842008",
+     "title": "GTM Strategy & Operations - Strategic Planning",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481842008"
     },
     {
      "id": "5481980008",
      "title": "Technical Program Manager, Life Sciences Research (Genetic Medicine)",
      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481980008"
+    },
+    {
+     "id": "5482207008",
+     "title": "Head of PMO, Workplace",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482207008"
+    },
+    {
+     "id": "5482310008",
+     "title": "Docs Lead, Platform",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482310008"
+    },
+    {
+     "id": "5482967008",
+     "title": "[Paris] Applied AI Architect, Industries",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482967008"
+    },
+    {
+     "id": "5483403008",
+     "title": "Finance Systems Production Support Lead",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483403008"
+    },
+    {
+     "id": "5483945008",
+     "title": "Applied AI Engineer, Commercial",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008"
+    },
+    {
+     "id": "5484035008",
+     "title": "Applied AI Architect, Beneficial Deployments (Non-Profits)",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484035008"
+    },
+    {
+     "id": "5484144008",
+     "title": "Staff+ Software Engineer, Deployment",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484144008"
+    },
+    {
+     "id": "5484171008",
+     "title": "Software Engineer, Datacenter Server Lifecycle",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484171008"
+    },
+    {
+     "id": "5484875008",
+     "title": "Enterprise Account Executive, Enterprise Account Executive, Hedge Funds & Quantitative Trading",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484875008"
+    },
+    {
+     "id": "5485188008",
+     "title": "Research Engineer, Beneficial Deployments",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008"
+    },
+    {
+     "id": "5485582008",
+     "title": "Compute Capacity Strategy & Operations",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485582008"
+    },
+    {
+     "id": "5485591008",
+     "title": "GTM Strategy & Operations Business Partner",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485591008"
+    },
+    {
+     "id": "5486380008",
+     "title": "Strategic Pursuits Lead, DACH",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486380008"
+    },
+    {
+     "id": "5486656008",
+     "title": "AWS Partnerships Lead",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486656008"
+    },
+    {
+     "id": "5486780008",
+     "title": "Applied AI Architect, Beneficial Deployment",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486780008"
+    },
+    {
+     "id": "5486907008",
+     "title": "Community Engagement Manager, Data Centres (Canada)",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486907008"
+    },
+    {
+     "id": "5489564008",
+     "title": "Corporate Network Engineer",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489564008"
+    },
+    {
+     "id": "5489567008",
+     "title": "Research Engineer, Finetuning",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489567008"
+    },
+    {
+     "id": "5490122008",
+     "title": "Engineering Manager, Privacy Infrastructure",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490122008"
+    },
+    {
+     "id": "5490492008",
+     "title": "Research Operations, External Artifacts",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490492008"
+    },
+    {
+     "id": "5490572008",
+     "title": "Strategic Account Executive, Hedge Funds",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490572008"
+    },
+    {
+     "id": "5490950008",
+     "title": "Commercial Counsel, GTM Strategic Alliances",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490950008"
+    },
+    {
+     "id": "5490974008",
+     "title": "Principal Engineer Capacity/Compute",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490974008"
+    },
+    {
+     "id": "5490976008",
+     "title": "Principal Engineer Capacity/Compute",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490976008"
+    },
+    {
+     "id": "5490978008",
+     "title": "Principal Engineer Capacity/Compute",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490978008"
+    },
+    {
+     "id": "5490979008",
+     "title": "Staff+ Software Engineer, Capacity Engineering",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490979008"
+    },
+    {
+     "id": "5491573008",
+     "title": "Program Manager, Cloud Partners",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491573008"
+    },
+    {
+     "id": "5491575008",
+     "title": "Campaign Manager",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491575008"
+    },
+    {
+     "id": "5491578008",
+     "title": "Head of Campaign Operations",
+     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491578008"
     }
    ],
-   "jobsHash": "beaeb250548a383797e97e04c69ad381dce0f9cb2b2b5a578d44a948333faa49",
+   "jobsHash": "3f86ded731946a7dc4318a95ad1fe8fabfd3fa4b6c1262bb613c5593e62445bf",
    "pages": {
-    "/": "0c305d5eaec9b3271c4fce813225332db9dcd24efb1ab74e40bae0bd7a5209be",
-    "/news": "e09d57f02699c1c992e4a5240bd93252c1f14b15fbde0c78b625863900e0c2b6"
+    "/": "a4f88ee50086f1158a0db88e645c4a79b7dbbd245b8d9dfef711c705875a8117",
+    "/news": "e88bffd9fc3d634b3c08f40e21b01fca1af7311b6fee4e5a57b046084d5d52c4"
    },
-   "siteHash": "56cf2e2c7b70a34c88ad81e3c7e1671d129896b0118e24254643ee923ddf5458"
+   "siteHash": "f254413921eabd58f5354798381d8b6af1c9839c1fb074bafe1f6ddde541f022"
   },
   "antithesis": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "08807dc1-1d8a-46f0-8238-329688082556",
@@ -3916,18 +3771,13 @@
      "url": "https://jobs.ashbyhq.com/antithesis/195efa60-30ee-4fff-bd4c-ba423c405e55"
     },
     {
-     "id": "21f751bc-f68b-4fe7-b4c5-ba3667ae1665",
-     "title": "Senior Account Executive",
-     "url": "https://jobs.ashbyhq.com/antithesis/21f751bc-f68b-4fe7-b4c5-ba3667ae1665"
-    },
-    {
      "id": "376e87a6-a4fe-4e2d-b636-b9fcfd6dad2f",
      "title": "Legal Counsel",
      "url": "https://jobs.ashbyhq.com/antithesis/376e87a6-a4fe-4e2d-b636-b9fcfd6dad2f"
     },
     {
      "id": "3b692497-7d5c-43a2-8065-a5fb06f1682e",
-     "title": "Accounting Operations Manager",
+     "title": "Manager, Accounting Operations",
      "url": "https://jobs.ashbyhq.com/antithesis/3b692497-7d5c-43a2-8065-a5fb06f1682e"
     },
     {
@@ -3956,9 +3806,9 @@
      "url": "https://jobs.ashbyhq.com/antithesis/59bf67f1-78d7-44aa-b328-e3979fb3398b"
     },
     {
-     "id": "6826e6a7-fe60-448b-852c-a7f67860ac90",
-     "title": "Billing & Revenue Ops Manager",
-     "url": "https://jobs.ashbyhq.com/antithesis/6826e6a7-fe60-448b-852c-a7f67860ac90"
+     "id": "664db60f-4282-4bcb-a534-83f89d1a5515",
+     "title": "Staff Infrastructure Engineer",
+     "url": "https://jobs.ashbyhq.com/antithesis/664db60f-4282-4bcb-a534-83f89d1a5515"
     },
     {
      "id": "707d8073-1b19-4278-aef5-32a02113691d",
@@ -3976,14 +3826,14 @@
      "url": "https://jobs.ashbyhq.com/antithesis/8b3e7045-a252-41bb-b4a6-b936cc5b886f"
     },
     {
-     "id": "914da3e5-43c0-4d97-93af-33213e584a13",
-     "title": "Applied AI Software Engineer",
-     "url": "https://jobs.ashbyhq.com/antithesis/914da3e5-43c0-4d97-93af-33213e584a13"
-    },
-    {
      "id": "a96f41e9-7e99-453b-acb4-24bdecada06b",
      "title": "Contracts Manager",
      "url": "https://jobs.ashbyhq.com/antithesis/a96f41e9-7e99-453b-acb4-24bdecada06b"
+    },
+    {
+     "id": "b9354389-4809-4fa3-9c7d-16dc0b2b2133",
+     "title": "Payroll & Accounts Payable Lead",
+     "url": "https://jobs.ashbyhq.com/antithesis/b9354389-4809-4fa3-9c7d-16dc0b2b2133"
     },
     {
      "id": "becf08a6-9f48-4ef3-9c8a-e37c466dccc6",
@@ -3991,9 +3841,9 @@
      "url": "https://jobs.ashbyhq.com/antithesis/becf08a6-9f48-4ef3-9c8a-e37c466dccc6"
     },
     {
-     "id": "c491d4a1-1b5e-4f67-aeb3-99617b3b3357",
-     "title": "Applied AI Software Engineer",
-     "url": "https://jobs.ashbyhq.com/antithesis/c491d4a1-1b5e-4f67-aeb3-99617b3b3357"
+     "id": "cf0ae8f8-2610-476d-843d-d213a68560ff",
+     "title": "Business Development Representative",
+     "url": "https://jobs.ashbyhq.com/antithesis/cf0ae8f8-2610-476d-843d-d213a68560ff"
     },
     {
      "id": "d1284f09-81ac-4013-8ca2-3d702fc85778",
@@ -4006,10 +3856,10 @@
      "url": "https://jobs.ashbyhq.com/antithesis/ec9dbcdf-17fd-4a0e-812a-33fc9eae1132"
     }
    ],
-   "jobsHash": "c235ab1a242907b5491d976bbe0600d1781f5d9b1ced95d1393a574044cb23cc"
+   "jobsHash": "4f3dff091904519275fa9ca20cc8bff4ba9736b1cae365d8bacf2853acb9674f"
   },
   "anysphere-cursor": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "01396f08-3acd-4e0c-9782-a6944fd2a957",
@@ -4037,19 +3887,9 @@
      "url": "https://jobs.ashbyhq.com/cursor/053a8b5a-32bc-4a08-8dad-b4fc20f2883c"
     },
     {
-     "id": "06675830-9b99-4347-8436-8110ca9c99a4",
-     "title": "Software Engineer, Research Tooling",
-     "url": "https://jobs.ashbyhq.com/cursor/06675830-9b99-4347-8436-8110ca9c99a4"
-    },
-    {
      "id": "0b0d2dbb-ae94-4df8-8e7b-bd4dcdb67943",
-     "title": "Strategic Partner Manager",
+     "title": "Strategic Technology Partner Manager",
      "url": "https://jobs.ashbyhq.com/cursor/0b0d2dbb-ae94-4df8-8e7b-bd4dcdb67943"
-    },
-    {
-     "id": "0b37a162-0bba-4627-8ec9-e497080abace",
-     "title": "Sales Development Leader - APJ",
-     "url": "https://jobs.ashbyhq.com/cursor/0b37a162-0bba-4627-8ec9-e497080abace"
     },
     {
      "id": "0e02e92d-3621-432f-b9e5-00472a563180",
@@ -4077,11 +3917,6 @@
      "url": "https://jobs.ashbyhq.com/cursor/18d5d868-a393-4a94-b65b-01c89eee26d2"
     },
     {
-     "id": "1d3a2047-4739-479b-914d-377046f0fd1a",
-     "title": "ISV / Technology Marketplace Partner Manager",
-     "url": "https://jobs.ashbyhq.com/cursor/1d3a2047-4739-479b-914d-377046f0fd1a"
-    },
-    {
      "id": "1f4f9aea-af74-49dc-9495-203c4c631379",
      "title": "Field Engineer, Public Sector",
      "url": "https://jobs.ashbyhq.com/cursor/1f4f9aea-af74-49dc-9495-203c4c631379"
@@ -4102,11 +3937,6 @@
      "url": "https://jobs.ashbyhq.com/cursor/220925c5-5eb3-467b-b4ff-31ec31df6a71"
     },
     {
-     "id": "236b6232-a98b-43c0-a0ed-d2b475b8e579",
-     "title": "Solutions Architect",
-     "url": "https://jobs.ashbyhq.com/cursor/236b6232-a98b-43c0-a0ed-d2b475b8e579"
-    },
-    {
      "id": "2575f103-bf9a-4fc4-91be-23bec1142e88",
      "title": "Field Engineer - ASEAN",
      "url": "https://jobs.ashbyhq.com/cursor/2575f103-bf9a-4fc4-91be-23bec1142e88"
@@ -4120,11 +3950,6 @@
      "id": "2bd4336d-ca2a-40c6-befc-6dc070a3109c",
      "title": "Strategic Enterprise Account Executive - Japan",
      "url": "https://jobs.ashbyhq.com/cursor/2bd4336d-ca2a-40c6-befc-6dc070a3109c"
-    },
-    {
-     "id": "2f568bb6-9a03-4f45-9392-0c62127011c6",
-     "title": "Technical Program Manager, Field",
-     "url": "https://jobs.ashbyhq.com/cursor/2f568bb6-9a03-4f45-9392-0c62127011c6"
     },
     {
      "id": "2f8e2126-bcd8-4297-9358-e15fdff4f9da",
@@ -4203,13 +4028,8 @@
     },
     {
      "id": "5aff7957-9655-4cc1-98d8-813e33aeb380",
-     "title": "Deal Desk Manager, APJ",
+     "title": "Head of Deal Desk, APJ",
      "url": "https://jobs.ashbyhq.com/cursor/5aff7957-9655-4cc1-98d8-813e33aeb380"
-    },
-    {
-     "id": "5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
-     "title": "Software Engineer, ML Platform",
-     "url": "https://jobs.ashbyhq.com/cursor/5b744208-cb2c-4c31-9217-e0cbbf8ad7af"
     },
     {
      "id": "5df283dc-d53e-4769-9b30-1190a06a9adc",
@@ -4225,6 +4045,11 @@
      "id": "60a3541f-f6b6-4da2-a168-40e867a51740",
      "title": "Field Engineer, Healthcare",
      "url": "https://jobs.ashbyhq.com/cursor/60a3541f-f6b6-4da2-a168-40e867a51740"
+    },
+    {
+     "id": "62dbe8b8-74d9-464e-b6f0-5370d79332bd",
+     "title": "Forward Deployed Engineering Partner Program Lead",
+     "url": "https://jobs.ashbyhq.com/cursor/62dbe8b8-74d9-464e-b6f0-5370d79332bd"
     },
     {
      "id": "65be8830-8f83-4420-baf3-5070fe19097d",
@@ -4282,34 +4107,14 @@
      "url": "https://jobs.ashbyhq.com/cursor/7678325b-cd6c-4cf6-97af-26ba37e615ab"
     },
     {
-     "id": "7a3714ab-8566-44c7-90e5-46a5c9f20e5f",
-     "title": "Product Education Engineer",
-     "url": "https://jobs.ashbyhq.com/cursor/7a3714ab-8566-44c7-90e5-46a5c9f20e5f"
-    },
-    {
      "id": "7b7362e4-d422-4c82-b536-6c0b40da177c",
      "title": "Account Executive, Commercial - ANZ",
      "url": "https://jobs.ashbyhq.com/cursor/7b7362e4-d422-4c82-b536-6c0b40da177c"
     },
     {
-     "id": "7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf",
-     "title": "Strategic Account Executive, Federal Sales \u2014 Civilian",
-     "url": "https://jobs.ashbyhq.com/cursor/7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf"
-    },
-    {
-     "id": "7fc92832-a196-460b-924c-ee1d93b20184",
-     "title": "Solutions Architect - Japan",
-     "url": "https://jobs.ashbyhq.com/cursor/7fc92832-a196-460b-924c-ee1d93b20184"
-    },
-    {
      "id": "86f0738c-613a-4e75-ae9f-1503d335512e",
      "title": "Strategic Account Executive, Enterprise - LATAM",
      "url": "https://jobs.ashbyhq.com/cursor/86f0738c-613a-4e75-ae9f-1503d335512e"
-    },
-    {
-     "id": "8759ece1-451e-4074-93dd-9d247a648ef7",
-     "title": "Solutions Architect, Central Europe",
-     "url": "https://jobs.ashbyhq.com/cursor/8759ece1-451e-4074-93dd-9d247a648ef7"
     },
     {
      "id": "8790d158-7bdc-43c0-bcb1-bbacb6e8f720",
@@ -4337,11 +4142,6 @@
      "url": "https://jobs.ashbyhq.com/cursor/8eb59c77-0463-46e7-a641-72a6e43d0df8"
     },
     {
-     "id": "95dbf92c-6593-4f2b-af1f-7deccf155750",
-     "title": "Support Operations Systems Lead",
-     "url": "https://jobs.ashbyhq.com/cursor/95dbf92c-6593-4f2b-af1f-7deccf155750"
-    },
-    {
      "id": "978087b5-59fa-442f-8b58-97950d7169f7",
      "title": "Field Marketing Manager, Healthcare / SLED",
      "url": "https://jobs.ashbyhq.com/cursor/978087b5-59fa-442f-8b58-97950d7169f7"
@@ -4355,6 +4155,11 @@
      "id": "9e81fd85-59cd-4138-8386-6ad768ed6dc1",
      "title": "Account Executive, Geo Enterprise - San Francisco",
      "url": "https://jobs.ashbyhq.com/cursor/9e81fd85-59cd-4138-8386-6ad768ed6dc1"
+    },
+    {
+     "id": "9f5d7596-501a-4934-9a25-daba53412e95",
+     "title": "Regional Director, Forward Deployed Engineering - Financial Services",
+     "url": "https://jobs.ashbyhq.com/cursor/9f5d7596-501a-4934-9a25-daba53412e95"
     },
     {
      "id": "a59371c8-cd50-48e3-9f21-4b79a6f0e3b2",
@@ -4387,11 +4192,6 @@
      "url": "https://jobs.ashbyhq.com/cursor/b958e1bd-9e49-48cd-a7f5-b42c63f527fa"
     },
     {
-     "id": "bdae07e2-54ad-4e66-a56e-e6442483f15b",
-     "title": "Solutions Architect - India",
-     "url": "https://jobs.ashbyhq.com/cursor/bdae07e2-54ad-4e66-a56e-e6442483f15b"
-    },
-    {
      "id": "bf428650-8744-4f97-81e2-0e5a20c5316c",
      "title": "Integrated Campaigns Manager, AMER",
      "url": "https://jobs.ashbyhq.com/cursor/bf428650-8744-4f97-81e2-0e5a20c5316c"
@@ -4400,11 +4200,6 @@
      "id": "bff67718-1dbf-4d66-bcef-8b68d93d716f",
      "title": "Account Executive - Commercial (Singapore)",
      "url": "https://jobs.ashbyhq.com/cursor/bff67718-1dbf-4d66-bcef-8b68d93d716f"
-    },
-    {
-     "id": "c1910b91-6b48-4faa-83ac-fd8025dd46e7",
-     "title": "Sr. Software Engineer, ML Platform",
-     "url": "https://jobs.ashbyhq.com/cursor/c1910b91-6b48-4faa-83ac-fd8025dd46e7"
     },
     {
      "id": "c30b1b69-518a-4fdd-a316-667380bcd608",
@@ -4482,14 +4277,19 @@
      "url": "https://jobs.ashbyhq.com/cursor/e7857cc6-cfe3-4e6e-aa23-9c48b09c4416"
     },
     {
-     "id": "e7fc78cd-a4b9-468e-b286-e20cf3728d45",
-     "title": "Solutions Architect - Western Europe",
-     "url": "https://jobs.ashbyhq.com/cursor/e7fc78cd-a4b9-468e-b286-e20cf3728d45"
+     "id": "e897c3f7-c261-4926-b81d-4eea7d964820",
+     "title": "Strategic Enterprise Account Executive - India",
+     "url": "https://jobs.ashbyhq.com/cursor/e897c3f7-c261-4926-b81d-4eea7d964820"
     },
     {
      "id": "eaae04b3-3212-4f41-bc1b-4c70424e74d0",
      "title": "Lifecycle Growth Manager",
      "url": "https://jobs.ashbyhq.com/cursor/eaae04b3-3212-4f41-bc1b-4c70424e74d0"
+    },
+    {
+     "id": "f1857f79-e079-40d8-9a93-05edb771809b",
+     "title": "Regional Director, AI Deployment, Federal",
+     "url": "https://jobs.ashbyhq.com/cursor/f1857f79-e079-40d8-9a93-05edb771809b"
     },
     {
      "id": "f602d5d4-7961-479b-894e-7e975e7bfe4e",
@@ -4507,7 +4307,7 @@
      "url": "https://jobs.ashbyhq.com/cursor/f7ec7811-a573-42fa-8ade-01e2d07681ef"
     }
    ],
-   "jobsHash": "0bd6cad0ad630409a363171437e69732e91786a65d0a30ee44c9b53f7761bff1",
+   "jobsHash": "d9707e78cf19bf902d4d9e221bcb06fcd70fd8d879461ed0a9e60f7ee4023040",
    "pages": {
     "/": "5a74ae579848372184bc37d791639e8d97cf8601537f504b83b9fc2ef880b841",
     "/blog": "d4ee0c553b7169b5b16f3d9589635a346701b166e5b1fbd2391876036e855bdb",
@@ -4516,7 +4316,7 @@
    "siteHash": "e0cbc8305656f8a699d498437aa86bbfeef9c37eceefb409533f5a491c0ae7b6"
   },
   "cognition": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "001a11ed-d7bb-4c78-a260-1d28c12bf61a",
@@ -4544,11 +4344,6 @@
      "url": "https://jobs.ashbyhq.com/cognition/03dc2f86-8811-4d33-a937-fe16dd26afcc"
     },
     {
-     "id": "05ded615-e35d-4e2f-bdda-f6defbdac3b7",
-     "title": "GTM Operations - Europe",
-     "url": "https://jobs.ashbyhq.com/cognition/05ded615-e35d-4e2f-bdda-f6defbdac3b7"
-    },
-    {
      "id": "09fa3cff-f57d-41dd-a56b-cb323c927ce6",
      "title": "Forward Deployed Engineer - LATAM",
      "url": "https://jobs.ashbyhq.com/cognition/09fa3cff-f57d-41dd-a56b-cb323c927ce6"
@@ -4565,7 +4360,7 @@
     },
     {
      "id": "118ac51d-3d39-4587-9054-ab4cd5844765",
-     "title": "Head of Internal Events",
+     "title": "Head of Global Events",
      "url": "https://jobs.ashbyhq.com/cognition/118ac51d-3d39-4587-9054-ab4cd5844765"
     },
     {
@@ -4624,8 +4419,13 @@
      "url": "https://jobs.ashbyhq.com/cognition/2449b650-6283-4c63-9537-4c34e76bafdd"
     },
     {
+     "id": "25c8eaad-1243-445e-9c9d-1c7176455a6c",
+     "title": "Campaigns / Webinars",
+     "url": "https://jobs.ashbyhq.com/cognition/25c8eaad-1243-445e-9c9d-1c7176455a6c"
+    },
+    {
      "id": "262e48e9-68b6-49bf-ab4e-76ea6cd7b41a",
-     "title": "Recruiting Sourcer - Europe",
+     "title": "Recruiting Sourcer - UK",
      "url": "https://jobs.ashbyhq.com/cognition/262e48e9-68b6-49bf-ab4e-76ea6cd7b41a"
     },
     {
@@ -4637,11 +4437,6 @@
      "id": "30555873-954d-455a-a5a7-e8e4c0d85713",
      "title": "Front Desk Coordinator",
      "url": "https://jobs.ashbyhq.com/cognition/30555873-954d-455a-a5a7-e8e4c0d85713"
-    },
-    {
-     "id": "31d6fdfd-4395-40a2-8ead-33c7ceb6d06b",
-     "title": "Onboarding Coordinator",
-     "url": "https://jobs.ashbyhq.com/cognition/31d6fdfd-4395-40a2-8ead-33c7ceb6d06b"
     },
     {
      "id": "3e287a98-b54f-4fe1-a804-32391dfc43fc",
@@ -4734,6 +4529,11 @@
      "url": "https://jobs.ashbyhq.com/cognition/5347448e-421f-4119-b65e-d20f4efe3e21"
     },
     {
+     "id": "54cf0de8-ec62-4abe-bbb5-1626648f7c2c",
+     "title": "Merch Manager",
+     "url": "https://jobs.ashbyhq.com/cognition/54cf0de8-ec62-4abe-bbb5-1626648f7c2c"
+    },
+    {
      "id": "55924ca2-ad7e-4f31-a634-8166aee3dfed",
      "title": "Sales Development Manager",
      "url": "https://jobs.ashbyhq.com/cognition/55924ca2-ad7e-4f31-a634-8166aee3dfed"
@@ -4742,11 +4542,6 @@
      "id": "57972dd9-b587-4808-8449-49a82f6043b5",
      "title": "IT Engineer",
      "url": "https://jobs.ashbyhq.com/cognition/57972dd9-b587-4808-8449-49a82f6043b5"
-    },
-    {
-     "id": "57e1e2a1-e0a0-4448-a278-8eed035d7428",
-     "title": "Research Engineer, Mid-Training",
-     "url": "https://jobs.ashbyhq.com/cognition/57e1e2a1-e0a0-4448-a278-8eed035d7428"
     },
     {
      "id": "589326d3-9dc0-447e-ae0c-972b808f831d",
@@ -4814,11 +4609,6 @@
      "url": "https://jobs.ashbyhq.com/cognition/72bdce85-f61f-4616-b061-c3dc4248dd9b"
     },
     {
-     "id": "72d3db28-07d3-4c28-b49f-1bdf6e8e0f10",
-     "title": "Research Engineer, Post-Training",
-     "url": "https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10"
-    },
-    {
      "id": "77e0ec33-5709-447d-ad64-8f210dd47b97",
      "title": "Country Leader - South Korea",
      "url": "https://jobs.ashbyhq.com/cognition/77e0ec33-5709-447d-ad64-8f210dd47b97"
@@ -4875,7 +4665,7 @@
     },
     {
      "id": "8a4be442-c0b2-4953-ba84-419bb3bdad66",
-     "title": "Recruiter - Europe",
+     "title": "Recruiter - UK",
      "url": "https://jobs.ashbyhq.com/cognition/8a4be442-c0b2-4953-ba84-419bb3bdad66"
     },
     {
@@ -4907,11 +4697,6 @@
      "id": "99ac30db-26d9-4cae-8b50-5a509dfb10a9",
      "title": "Account Director - APAC",
      "url": "https://jobs.ashbyhq.com/cognition/99ac30db-26d9-4cae-8b50-5a509dfb10a9"
-    },
-    {
-     "id": "9b77007b-02f8-4d25-8f46-fab3a06ea1c0",
-     "title": "Partner Director - US",
-     "url": "https://jobs.ashbyhq.com/cognition/9b77007b-02f8-4d25-8f46-fab3a06ea1c0"
     },
     {
      "id": "9ebb0dff-2cbf-42ba-bb4a-0256812a06e0",
@@ -5004,11 +4789,6 @@
      "url": "https://jobs.ashbyhq.com/cognition/ca278de0-e299-4f46-9bd9-b95aed6970c3"
     },
     {
-     "id": "ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
-     "title": "Applied AI Transformation Manager",
-     "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6"
-    },
-    {
      "id": "ce05fcaa-4f22-495f-bfd6-d858a1c37bcf",
      "title": "Head of Partnerships - Japan",
      "url": "https://jobs.ashbyhq.com/cognition/ce05fcaa-4f22-495f-bfd6-d858a1c37bcf"
@@ -5079,28 +4859,28 @@
      "url": "https://jobs.ashbyhq.com/cognition/f2e1096f-72c4-42c8-867e-51c2ebc296f9"
     }
    ],
-   "jobsHash": "8dbf0465fc29ce4767ad09ba3a5fb31d0ecc577c1943d77e8964e245a00c6fbb"
+   "jobsHash": "41412d830f7836ea181450922027e5e70aa0d8cee6d55de818f761f35b0fa646"
   },
   "cohere": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "pages": {
-    "/": "8a5b1c22d4655c1bac10d6910bb1aa27f51a36fdd0d754fa609bc59ed235f880",
-    "/blog": "a77809b74f7cedd53a533ffb140466bcaf09f0a7f1d2ac8402d79afe6c071aca",
-    "/news": "ca4dd92520cd996f5768e53f6235da689a75384ac044bbf44dbc626b3501f02c"
+    "/": "ba4aab5bb33a13f718a1d70d51cc3feaeea887a862d1e62a76071c6d561ffc32",
+    "/blog": "4c8480d31818d4de3cb580beb93cffb54c0fbbec85332778e9a9694d135cb693",
+    "/news": "e2c10775fb6857e5d50a9c39afa7c2afe2171b62feeb795993f565a1a98f7af4"
    },
-   "siteHash": "ef0f8957ba5dc16f5dc9a1286e7c249ce4d67e66511844f8a77185a1031c5889"
+   "siteHash": "3116d16f8e80fc5d838c0ac843a5d786e10e126d92e8e6f5b3ef2377e2d13a42"
   },
   "crusoe": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "pages": {
-    "/": "0e04aff93ddf08008dabff90eda6ff436d659ff698c53b39d900e45dd5336414",
-    "/blog": "da769382c1dfbd1574ef9e8902be53c6db0a1b52c9aba738f021bb1d17f08123",
-    "/newsroom": "ad65986b1cb536ebfe348377db2cae828c050349d91cc0f0329af1151deae1de"
+    "/": "223e0df2426ef8d12651220c59974ea7cfc647725a48982540986c3e3c6c3e08",
+    "/blog": "352d35a723195281b5920deedf318c1a849fe31aeb2812b7eb07fd558f916cee",
+    "/newsroom": "6df434fadef1d701b9f5e4b43bc16ddc38501a90614a57622143aa3e72c83ea6"
    },
-   "siteHash": "8dafe850760d7e1f444d95f591f665b70b9f0676c4f6649db8895ee6d898ecc2"
+   "siteHash": "0b73719438a276a58c2feb81c2f3647d0b1cd3597c1c1f389d05380d8c8887d4"
   },
   "david-ai": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "04943bcf-5496-4eb5-a515-d8c2e13cc539",
@@ -5128,6 +4908,11 @@
      "url": "https://jobs.ashbyhq.com/david-ai/1e62804a-ddad-4432-8796-7431aa47d0c3"
     },
     {
+     "id": "1e6f950e-9645-417d-b58d-2a843426a216",
+     "title": "Strategic Account Lead",
+     "url": "https://jobs.ashbyhq.com/david-ai/1e6f950e-9645-417d-b58d-2a843426a216"
+    },
+    {
      "id": "3990b1c0-9e15-4e82-af5a-f2afe86b4898",
      "title": "Audio Engineer",
      "url": "https://jobs.ashbyhq.com/david-ai/3990b1c0-9e15-4e82-af5a-f2afe86b4898"
@@ -5143,6 +4928,11 @@
      "url": "https://jobs.ashbyhq.com/david-ai/411e7a65-238a-4756-b427-a79d2e8f27b7"
     },
     {
+     "id": "560937a6-7bb0-4e0e-94bb-40f97ea2a9e3",
+     "title": "Head of GTM",
+     "url": "https://jobs.ashbyhq.com/david-ai/560937a6-7bb0-4e0e-94bb-40f97ea2a9e3"
+    },
+    {
      "id": "5d727f24-c97a-4344-9a7c-f2da5220f86e",
      "title": "Software Engineer, Product",
      "url": "https://jobs.ashbyhq.com/david-ai/5d727f24-c97a-4344-9a7c-f2da5220f86e"
@@ -5154,7 +4944,7 @@
     },
     {
      "id": "87dbd7fd-7245-42a5-9bff-20f9d8dbd4f9",
-     "title": "General Manager, Data Operations",
+     "title": "General Manager",
      "url": "https://jobs.ashbyhq.com/david-ai/87dbd7fd-7245-42a5-9bff-20f9d8dbd4f9"
     },
     {
@@ -5169,7 +4959,7 @@
     },
     {
      "id": "ca953bc6-1848-4bf1-91f5-5ba2ffca8032",
-     "title": "HR Business Partner",
+     "title": "People Partner",
      "url": "https://jobs.ashbyhq.com/david-ai/ca953bc6-1848-4bf1-91f5-5ba2ffca8032"
     },
     {
@@ -5193,15 +4983,20 @@
      "url": "https://jobs.ashbyhq.com/david-ai/d8b09347-58fe-4d7c-abb2-23f61a78f754"
     },
     {
+     "id": "e5b40bd5-0c89-4551-98e8-3bceea034147",
+     "title": "Head of Deployments",
+     "url": "https://jobs.ashbyhq.com/david-ai/e5b40bd5-0c89-4551-98e8-3bceea034147"
+    },
+    {
      "id": "fe349e47-2d67-4a9d-8370-38d837a32162",
-     "title": "General Manager, Marketplace",
+     "title": "Head of Marketplace",
      "url": "https://jobs.ashbyhq.com/david-ai/fe349e47-2d67-4a9d-8370-38d837a32162"
     }
    ],
-   "jobsHash": "7c5639cfa6084dec11489509ef0961364df2db989a191204dfad261851047115"
+   "jobsHash": "571ee80c66958f1438ef4a684b53a3fe89c38274f322d0abb3c6f480d96cdd91"
   },
   "fireworks-ai": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "00d6cb2a-96ed-4478-9200-826104a7d624",
@@ -5244,9 +5039,9 @@
      "url": "https://jobs.ashbyhq.com/fireworks/08c095a0-2f02-4078-938f-374394040b0e"
     },
     {
-     "id": "0c78aede-7c21-4d1e-88f1-f309deb9819e",
-     "title": "Member of Technical Staff, New Grad (BS/MS)",
-     "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e"
+     "id": "08eee4e8-212c-49b8-830f-e75c0e9b532f",
+     "title": "Enterprise Account Executive - NYC",
+     "url": "https://jobs.ashbyhq.com/fireworks/08eee4e8-212c-49b8-830f-e75c0e9b532f"
     },
     {
      "id": "0db73dd8-3ade-4da8-9a87-16ded8efe589",
@@ -5282,6 +5077,11 @@
      "id": "1fc5eb25-08ad-4c82-aaee-5b903b9ab0ea",
      "title": "AI Field Engineer, Singapore",
      "url": "https://jobs.ashbyhq.com/fireworks/1fc5eb25-08ad-4c82-aaee-5b903b9ab0ea"
+    },
+    {
+     "id": "2393546c-ef71-4054-8c75-4f16caeffc5b",
+     "title": "Executive Assistant",
+     "url": "https://jobs.ashbyhq.com/fireworks/2393546c-ef71-4054-8c75-4f16caeffc5b"
     },
     {
      "id": "25d6a340-ce1c-48dd-95bc-551f661912c3",
@@ -5417,6 +5217,11 @@
      "id": "69739e4f-1ca5-45db-8a70-4309d961c0b7",
      "title": "AI Field Engineer - Enterprise",
      "url": "https://jobs.ashbyhq.com/fireworks/69739e4f-1ca5-45db-8a70-4309d961c0b7"
+    },
+    {
+     "id": "6a5dfbe1-3038-497b-8b49-30106dc83c23",
+     "title": "Enterprise Account Executive- North East (US)",
+     "url": "https://jobs.ashbyhq.com/fireworks/6a5dfbe1-3038-497b-8b49-30106dc83c23"
     },
     {
      "id": "6dc65bd3-5df0-4f5a-9ede-6e062a2c74dd",
@@ -5569,6 +5374,11 @@
      "url": "https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef"
     },
     {
+     "id": "aea2ba8a-2500-4d6a-a4f6-4ae7fcb58c07",
+     "title": "Senior Equity Administrator",
+     "url": "https://jobs.ashbyhq.com/fireworks/aea2ba8a-2500-4d6a-a4f6-4ae7fcb58c07"
+    },
+    {
      "id": "b6366240-4106-4898-ac07-af0c266b78f2",
      "title": "Senior Account Executive, AI Native Team",
      "url": "https://jobs.ashbyhq.com/fireworks/b6366240-4106-4898-ac07-af0c266b78f2"
@@ -5577,6 +5387,11 @@
      "id": "b6ed8557-1fd1-4ffa-ac43-bdf52cb0ced9",
      "title": "Product Manager - Enterprise",
      "url": "https://jobs.ashbyhq.com/fireworks/b6ed8557-1fd1-4ffa-ac43-bdf52cb0ced9"
+    },
+    {
+     "id": "bcc113ba-7e08-44fa-9dd6-232b65a2941b",
+     "title": "Enterprise Account Executive - Mountain (US)",
+     "url": "https://jobs.ashbyhq.com/fireworks/bcc113ba-7e08-44fa-9dd6-232b65a2941b"
     },
     {
      "id": "bcf1530f-b720-4244-92c4-d3a1d68905f4",
@@ -5592,6 +5407,11 @@
      "id": "c4c13ed3-7600-441e-935a-a0da53d63c30",
      "title": "Head of GTM Field Strategy & Ops, EMEA",
      "url": "https://jobs.ashbyhq.com/fireworks/c4c13ed3-7600-441e-935a-a0da53d63c30"
+    },
+    {
+     "id": "c8558cf4-aecb-4d4b-9d9f-7ca2b1eb0e4e",
+     "title": "Enterprise Account Executive - Financial Services",
+     "url": "https://jobs.ashbyhq.com/fireworks/c8558cf4-aecb-4d4b-9d9f-7ca2b1eb0e4e"
     },
     {
      "id": "cca38fd5-9cbd-4cee-8fdb-d6e6d230b036",
@@ -5704,25 +5524,25 @@
      "url": "https://jobs.ashbyhq.com/fireworks/ff11ca2c-d95f-4802-8370-09c2cf394842"
     }
    ],
-   "jobsHash": "90b9a8ca960400dba6adfa6109b2260b036baa8cdc5c676d4c7343495cf1a97d",
+   "jobsHash": "0fb493b35b813cbd19de3f7c5cf4222c2721efc76d133414d128b6a82c4f7a7e",
    "pages": {
-    "/": "694403adb6fdde5a41ecd7cba93c2993e8cf06c170521acefa7051abab841b39",
-    "/blog": "294d70a94628cd450d65720ea0cc94ff303353ca29888131e96d5dc46ad765fe",
+    "/": "bd22c43570777b0a052030706ace45c400081be6e8a1ba4689a9201a94000ff0",
+    "/blog": "f37e991e12fe56d043272541f5f7a00d9340550bbfb9e67d58bb36099d75e301",
     "/news": "6d4ff1e837f04fa41538e6fe11b6d38b413f51d023236c12251e159910cab150"
    },
-   "siteHash": "da70add0ceab42b1da4aa708f93b125e1d78d90fce4d2fde75802fffadcea17a"
+   "siteHash": "39ebefde61218ada1d1865fd1b6864cc1c8b7ed857df0fc83e2423b59a261e52"
   },
   "fj0ls1x6zi9p7op0zbgv": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "pages": {
     "/": "d1498bbc09e4653d9b4f819e5fc0bf90d6c2a9f8232a04d7ce69614291617908",
-    "/blog": "b11398e343b68e754a2da8487725dcee0a6f1855f882d681de1549e0436cfb36",
-    "/news": "cd66374403ea5191da505391e66308d5edf664a8095f2e769068116354e71779"
+    "/blog": "543d8a3692f5fd1395a97949595acd93c656e78f122b9e46939f6888bb87e0a3",
+    "/news": "e3813ee7123789acfab881307f51296819c59edcd93ca2587142741c08fab4fe"
    },
-   "siteHash": "0167f28d8505431355e18265ed5d72447373bebf649d01d6c2cfcbe2f21e6851"
+   "siteHash": "cc9d6d7f33322e2447642a921562cc918aa515d20de702f9f383d4abe6e48523"
   },
   "incident-io": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "0e90b1f8-fda7-4ee0-b653-eca7c2e64310",
@@ -5770,6 +5590,11 @@
      "url": "https://jobs.ashbyhq.com/incident/3a21d807-bf09-4017-8be8-08b69006dfa0"
     },
     {
+     "id": "4120ebce-a25c-4a1e-9c09-9787d15afdef",
+     "title": "Senior Brand Designer (12 month FTC)",
+     "url": "https://jobs.ashbyhq.com/incident/4120ebce-a25c-4a1e-9c09-9787d15afdef"
+    },
+    {
      "id": "4e08c20c-cdea-4769-94b3-4060b5301cd6",
      "title": "Manager, Enterprise Solutions Engineering",
      "url": "https://jobs.ashbyhq.com/incident/4e08c20c-cdea-4769-94b3-4060b5301cd6"
@@ -5783,6 +5608,11 @@
      "id": "591f4ddb-70b4-4e13-bb49-1a1f9bd249da",
      "title": "Cloud Security Engineer",
      "url": "https://jobs.ashbyhq.com/incident/591f4ddb-70b4-4e13-bb49-1a1f9bd249da"
+    },
+    {
+     "id": "5c18978a-c2c7-4426-be0c-d5224bb894e8",
+     "title": "Enterprise Business Development Representative",
+     "url": "https://jobs.ashbyhq.com/incident/5c18978a-c2c7-4426-be0c-d5224bb894e8"
     },
     {
      "id": "6a99dfaa-b8f0-4eb3-ad88-2904d78d0cfa",
@@ -5805,6 +5635,11 @@
      "url": "https://jobs.ashbyhq.com/incident/75cba09a-99b8-41dd-bd36-e77f685e3868"
     },
     {
+     "id": "915da7c3-5bda-4b55-b468-f5e74b9c9381",
+     "title": "Enterprise Account Executive",
+     "url": "https://jobs.ashbyhq.com/incident/915da7c3-5bda-4b55-b468-f5e74b9c9381"
+    },
+    {
      "id": "91dcb767-ed52-4400-bd6b-0ce8158e90d0",
      "title": "VP of Customer Success",
      "url": "https://jobs.ashbyhq.com/incident/91dcb767-ed52-4400-bd6b-0ce8158e90d0"
@@ -5823,11 +5658,6 @@
      "id": "98029f7e-a460-4785-bc95-6cc813ff8d4b",
      "title": "Account Executive",
      "url": "https://jobs.ashbyhq.com/incident/98029f7e-a460-4785-bc95-6cc813ff8d4b"
-    },
-    {
-     "id": "b4a5d057-602c-40f7-90e3-f8322e1f2b0b",
-     "title": "Commercial Customer Success Manager",
-     "url": "https://jobs.ashbyhq.com/incident/b4a5d057-602c-40f7-90e3-f8322e1f2b0b"
     },
     {
      "id": "b4edacb2-1008-476f-9b96-d5c9f39b81a9",
@@ -5865,14 +5695,14 @@
      "url": "https://jobs.ashbyhq.com/incident/f10cd583-06b0-4b97-b328-f92d36c44e4b"
     },
     {
-     "id": "f1f52a17-c837-4847-9fa2-b2eb0b3f4af6",
-     "title": "Commercial Sales Manager",
-     "url": "https://jobs.ashbyhq.com/incident/f1f52a17-c837-4847-9fa2-b2eb0b3f4af6"
-    },
-    {
      "id": "f3914487-4dd6-4d4f-a949-7155af26fc06",
      "title": "Strategic Customer Success Manager",
      "url": "https://jobs.ashbyhq.com/incident/f3914487-4dd6-4d4f-a949-7155af26fc06"
+    },
+    {
+     "id": "f81924eb-02e1-4dc8-b70b-daab736d81e3",
+     "title": "Senior Brand Designer (12 month FTC)",
+     "url": "https://jobs.ashbyhq.com/incident/f81924eb-02e1-4dc8-b70b-daab736d81e3"
     },
     {
      "id": "f8bbd01f-a763-4a24-a0f5-f22f05420893",
@@ -5890,17 +5720,17 @@
      "url": "https://jobs.ashbyhq.com/incident/fe658242-8d5a-4ce3-8d2b-e72d5e45a8c7"
     }
    ],
-   "jobsHash": "4b19d24c8cd5d0634a203a32a578a819cabc00af6270d8da7050f7800788ffe0"
+   "jobsHash": "b8e63527fb5a6c9d931acffa68222b3f4db343ddd3d1e77c0738eb6e5a674524"
   },
   "nvidia": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "pages": {
-    "/": "be048d1f174558efe7740bb1da84c15dfe8bedaaf448c88f2b9cd70cca4765fe"
+    "/": "a5a5b1794a6b21d6f477419948cf4c0a1c26b257ccfd9c6ce6033b22ddd5bf4d"
    },
-   "siteHash": "70617066e37610e4d8c71d762d92ac6ceca366695147dc16f43437a9ab97a12a"
+   "siteHash": "ba0aa746c8b29b4241ffacc45e0dcbbd5cd7e957150a289a925d1797eec4838d"
   },
   "ode-with-anthropic": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "0bdc333d-4ea9-4c6c-9fb4-70647021bac1",
@@ -5933,14 +5763,14 @@
      "url": "https://jobs.ashbyhq.com/odewithanthropic/92c9f74b-17a1-49c6-848e-3ce568d705e0"
     },
     {
-     "id": "950a2e5a-3658-491c-8a98-3a546f0df9a6",
-     "title": "Head of Business Operations and Analytics",
-     "url": "https://jobs.ashbyhq.com/odewithanthropic/950a2e5a-3658-491c-8a98-3a546f0df9a6"
-    },
-    {
      "id": "9af307b0-6c4d-4896-93ae-6c2e08c40145",
      "title": "Office Manager (SF)",
      "url": "https://jobs.ashbyhq.com/odewithanthropic/9af307b0-6c4d-4896-93ae-6c2e08c40145"
+    },
+    {
+     "id": "a546a133-5856-4372-a960-f3632bec207f",
+     "title": "Member of Technical Staff (UAE)",
+     "url": "https://jobs.ashbyhq.com/odewithanthropic/a546a133-5856-4372-a960-f3632bec207f"
     },
     {
      "id": "b40acb15-d06d-43cf-a4e8-ba58125d194f",
@@ -5966,23 +5796,13 @@
      "id": "f6665898-bf45-4cda-9246-4be5033f2082",
      "title": "Associate Principal, AI Transformation",
      "url": "https://jobs.ashbyhq.com/odewithanthropic/f6665898-bf45-4cda-9246-4be5033f2082"
-    },
-    {
-     "id": "ffe6d8ad-63d0-45b4-ac51-8e0293254e10",
-     "title": "Principal, AI Transformation, Cyber",
-     "url": "https://jobs.ashbyhq.com/odewithanthropic/ffe6d8ad-63d0-45b4-ac51-8e0293254e10"
     }
    ],
-   "jobsHash": "745c9b5557d276c6fb32e2ac79005f123c529aa6399364e5fe9bbfc216c0a4c0"
+   "jobsHash": "73125fbe70e88fcaf6333bddb8ce7f4f297f74354d7b42862b60d94961a8d96b"
   },
   "okta": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
-    {
-     "id": "5772061",
-     "title": "Senior Software Engineer, Workflows (Fullstack Javascript Engineer)",
-     "url": "https://www.okta.com/company/careers/opportunity/5772061?gh_jid=5772061"
-    },
     {
      "id": "6629089",
      "title": "Sales Development Representative - Benelux",
@@ -6014,6 +5834,11 @@
      "url": "https://www.okta.com/company/careers/opportunity/7013572?gh_jid=7013572"
     },
     {
+     "id": "7013622",
+     "title": "Sales Development Representative, Central",
+     "url": "https://www.okta.com/company/careers/opportunity/7013622?gh_jid=7013622"
+    },
+    {
      "id": "7013646",
      "title": "Sales Development Representative, East",
      "url": "https://www.okta.com/company/careers/opportunity/7013646?gh_jid=7013646"
@@ -6035,7 +5860,7 @@
     },
     {
      "id": "7233187",
-     "title": "Staff Software Engineer, Identity Threat Protection",
+     "title": "Staff Software Engineer - Identity and Threat Protection",
      "url": "https://www.okta.com/company/careers/opportunity/7233187?gh_jid=7233187"
     },
     {
@@ -6100,7 +5925,7 @@
     },
     {
      "id": "7599312",
-     "title": "Senior Software Engineer",
+     "title": "Staff Software Engineer",
      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
     },
     {
@@ -6119,11 +5944,6 @@
      "url": "https://www.okta.com/company/careers/opportunity/7626222?gh_jid=7626222"
     },
     {
-     "id": "7658254",
-     "title": "Splunk Infrastructure Engineer",
-     "url": "https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254"
-    },
-    {
      "id": "7685798",
      "title": "Senior Technical Writer",
      "url": "https://www.okta.com/company/careers/opportunity/7685798?gh_jid=7685798"
@@ -6132,11 +5952,6 @@
      "id": "7703330",
      "title": "Staff Software Engineer, SDKs & Open Source",
      "url": "https://www.okta.com/company/careers/opportunity/7703330?gh_jid=7703330"
-    },
-    {
-     "id": "7727730",
-     "title": "Business Systems Analyst, ServiceNow",
-     "url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730"
     },
     {
      "id": "7741663",
@@ -6174,11 +5989,6 @@
      "url": "https://www.okta.com/company/careers/opportunity/7821050?gh_jid=7821050"
     },
     {
-     "id": "7821640",
-     "title": "Brand Art Director",
-     "url": "https://www.okta.com/company/careers/opportunity/7821640?gh_jid=7821640"
-    },
-    {
      "id": "7831189",
      "title": "Staff Software Engineer, Identity Administration (Full Stack)",
      "url": "https://www.okta.com/company/careers/opportunity/7831189?gh_jid=7831189"
@@ -6194,6 +6004,11 @@
      "url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955"
     },
     {
+     "id": "7858260",
+     "title": "Localization Coordinator",
+     "url": "https://www.okta.com/company/careers/opportunity/7858260?gh_jid=7858260"
+    },
+    {
      "id": "7860180",
      "title": "Sales Strategy & Operations Manager, ANZ",
      "url": "https://www.okta.com/company/careers/opportunity/7860180?gh_jid=7860180"
@@ -6202,11 +6017,6 @@
      "id": "7882676",
      "title": "Software Architect, Java Backend",
      "url": "https://www.okta.com/company/careers/opportunity/7882676?gh_jid=7882676"
-    },
-    {
-     "id": "7892783",
-     "title": "Staff Software Engineer",
-     "url": "https://www.okta.com/company/careers/opportunity/7892783?gh_jid=7892783"
     },
     {
      "id": "7893046",
@@ -6239,9 +6049,14 @@
      "url": "https://www.okta.com/company/careers/opportunity/7941715?gh_jid=7941715"
     },
     {
-     "id": "7977080",
-     "title": "Manager, Site Reliability Engineering",
-     "url": "https://www.okta.com/company/careers/opportunity/7977080?gh_jid=7977080"
+     "id": "7960157",
+     "title": "People Operations Specialist",
+     "url": "https://www.okta.com/company/careers/opportunity/7960157?gh_jid=7960157"
+    },
+    {
+     "id": "7963271",
+     "title": "Senior Site Reliability Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271"
     },
     {
      "id": "7982838",
@@ -6289,14 +6104,14 @@
      "url": "https://www.okta.com/company/careers/opportunity/8022189?gh_jid=8022189"
     },
     {
-     "id": "8022237",
-     "title": "Director, Product Management - Integrations",
-     "url": "https://www.okta.com/company/careers/opportunity/8022237?gh_jid=8022237"
-    },
-    {
      "id": "8022482",
      "title": "Senior Product Manager - UI Platform",
      "url": "https://www.okta.com/company/careers/opportunity/8022482?gh_jid=8022482"
+    },
+    {
+     "id": "8022979",
+     "title": "Senior Product Designer",
+     "url": "https://www.okta.com/company/careers/opportunity/8022979?gh_jid=8022979"
     },
     {
      "id": "8036390",
@@ -6339,19 +6154,14 @@
      "url": "https://www.okta.com/company/careers/opportunity/8041857?gh_jid=8041857"
     },
     {
-     "id": "8045905",
-     "title": "Principal Software Engineer in Test",
-     "url": "https://www.okta.com/company/careers/opportunity/8045905?gh_jid=8045905"
-    },
-    {
      "id": "8050798",
      "title": "Director, Corporate Counsel - Privacy",
      "url": "https://www.okta.com/company/careers/opportunity/8050798?gh_jid=8050798"
     },
     {
-     "id": "8053763",
-     "title": "Staff Software Engineer-Salesforce",
-     "url": "https://www.okta.com/company/careers/opportunity/8053763?gh_jid=8053763"
+     "id": "8051063",
+     "title": "Solutions Engineer, Okta(Enterprise)",
+     "url": "https://www.okta.com/company/careers/opportunity/8051063?gh_jid=8051063"
     },
     {
      "id": "8054427",
@@ -6364,14 +6174,14 @@
      "url": "https://www.okta.com/company/careers/opportunity/8056315?gh_jid=8056315"
     },
     {
-     "id": "8059294",
-     "title": "Enterprise Account Executive - Auth0",
-     "url": "https://www.okta.com/company/careers/opportunity/8059294?gh_jid=8059294"
-    },
-    {
      "id": "8069707",
      "title": "Senior Software Engineer in Test, Federal Classified",
      "url": "https://www.okta.com/company/careers/opportunity/8069707?gh_jid=8069707"
+    },
+    {
+     "id": "8071442",
+     "title": "Staff Site Reliability Engineer - IDaaS",
+     "url": "https://www.okta.com/company/careers/opportunity/8071442?gh_jid=8071442"
     },
     {
      "id": "8071448",
@@ -6382,6 +6192,16 @@
      "id": "8071502",
      "title": "Staff Software Engineer",
      "url": "https://www.okta.com/company/careers/opportunity/8071502?gh_jid=8071502"
+    },
+    {
+     "id": "8071508",
+     "title": "Principal Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8071508?gh_jid=8071508"
+    },
+    {
+     "id": "8072515",
+     "title": "Senior Product Manager - Auth0",
+     "url": "https://www.okta.com/company/careers/opportunity/8072515?gh_jid=8072515"
     },
     {
      "id": "8073062",
@@ -6397,6 +6217,11 @@
      "id": "8074824",
      "title": "People Technology Delivery Lead",
      "url": "https://www.okta.com/company/careers/opportunity/8074824?gh_jid=8074824"
+    },
+    {
+     "id": "8079016",
+     "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
+     "url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
     {
      "id": "8080906",
@@ -6459,24 +6284,9 @@
      "url": "https://www.okta.com/company/careers/opportunity/8102369?gh_jid=8102369"
     },
     {
-     "id": "8102892",
-     "title": "Staff Software Engineer, macOS",
-     "url": "https://www.okta.com/company/careers/opportunity/8102892?gh_jid=8102892"
-    },
-    {
      "id": "8107083",
      "title": "Engineering Manager, Okta Identity Governance",
      "url": "https://www.okta.com/company/careers/opportunity/8107083?gh_jid=8107083"
-    },
-    {
-     "id": "8109371",
-     "title": "Senior Experiences Art Director",
-     "url": "https://www.okta.com/company/careers/opportunity/8109371?gh_jid=8109371"
-    },
-    {
-     "id": "8110717",
-     "title": "Commercial Renewals Manager",
-     "url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
     },
     {
      "id": "8110864",
@@ -6519,19 +6329,9 @@
      "url": "https://www.okta.com/company/careers/opportunity/8128431?gh_jid=8128431"
     },
     {
-     "id": "8128435",
-     "title": "Senior Software Engineer - Fullstack",
-     "url": "https://www.okta.com/company/careers/opportunity/8128435?gh_jid=8128435"
-    },
-    {
      "id": "8129579",
      "title": "Field Marketing Specialist",
      "url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579"
-    },
-    {
-     "id": "8132163",
-     "title": "Senior Data Engineer",
-     "url": "https://www.okta.com/company/careers/opportunity/8132163?gh_jid=8132163"
     },
     {
      "id": "8132596",
@@ -6549,19 +6349,9 @@
      "url": "https://www.okta.com/company/careers/opportunity/8137951?gh_jid=8137951"
     },
     {
-     "id": "8138328",
-     "title": "Senior Solutions Engineer, Okta (Strategic Accounts - Midwest)",
-     "url": "https://www.okta.com/company/careers/opportunity/8138328?gh_jid=8138328"
-    },
-    {
      "id": "8138453",
      "title": "Sr. Manager, Marketing Analytics",
      "url": "https://www.okta.com/company/careers/opportunity/8138453?gh_jid=8138453"
-    },
-    {
-     "id": "8139694",
-     "title": "Principal Software Engineer \u2013 Developer Platform (Auth0)",
-     "url": "https://www.okta.com/company/careers/opportunity/8139694?gh_jid=8139694"
     },
     {
      "id": "8139696",
@@ -6574,14 +6364,9 @@
      "url": "https://www.okta.com/company/careers/opportunity/8139707?gh_jid=8139707"
     },
     {
-     "id": "8139717",
-     "title": "ISV Ecosystem Growth Manager",
-     "url": "https://www.okta.com/company/careers/opportunity/8139717?gh_jid=8139717"
-    },
-    {
-     "id": "8141274",
-     "title": "Staff Data Analyst, People Analytics",
-     "url": "https://www.okta.com/company/careers/opportunity/8141274?gh_jid=8141274"
+     "id": "8143141",
+     "title": "Senior Software Engineer in Test",
+     "url": "https://www.okta.com/company/careers/opportunity/8143141?gh_jid=8143141"
     },
     {
      "id": "8154916",
@@ -6624,19 +6409,14 @@
      "url": "https://www.okta.com/company/careers/opportunity/8160475?gh_jid=8160475"
     },
     {
+     "id": "8161278",
+     "title": "Staff Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278"
+    },
+    {
      "id": "8162877",
      "title": "Staff Product Marketing Manager, Okta Device Access",
      "url": "https://www.okta.com/company/careers/opportunity/8162877?gh_jid=8162877"
-    },
-    {
-     "id": "8164066",
-     "title": "Senior Product Manager, Product Platform",
-     "url": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066"
-    },
-    {
-     "id": "8167464",
-     "title": "Customer Success Executive",
-     "url": "https://www.okta.com/company/careers/opportunity/8167464?gh_jid=8167464"
     },
     {
      "id": "8168822",
@@ -6664,6 +6444,11 @@
      "url": "https://www.okta.com/company/careers/opportunity/8176095?gh_jid=8176095"
     },
     {
+     "id": "8176587",
+     "title": "Director, Solutions Engineering, EMEA CEE",
+     "url": "https://www.okta.com/company/careers/opportunity/8176587?gh_jid=8176587"
+    },
+    {
      "id": "8178030",
      "title": "Regional Sales Manager, Enterprise",
      "url": "https://www.okta.com/company/careers/opportunity/8178030?gh_jid=8178030"
@@ -6674,11 +6459,6 @@
      "url": "https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826"
     },
     {
-     "id": "8186789",
-     "title": "Senior Software Engineer, PAM",
-     "url": "https://www.okta.com/company/careers/opportunity/8186789?gh_jid=8186789"
-    },
-    {
      "id": "8186804",
      "title": "Senior Software Engineer, Fullstack",
      "url": "https://www.okta.com/company/careers/opportunity/8186804?gh_jid=8186804"
@@ -6687,11 +6467,6 @@
      "id": "8189383",
      "title": "Regional Sales Manager, SLED",
      "url": "https://www.okta.com/company/careers/opportunity/8189383?gh_jid=8189383"
-    },
-    {
-     "id": "8190028",
-     "title": "Staff DevSecOps Engineer (TS/SCI)",
-     "url": "https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028"
     },
     {
      "id": "8193328",
@@ -6719,11 +6494,6 @@
      "url": "https://www.okta.com/company/careers/opportunity/8201507?gh_jid=8201507"
     },
     {
-     "id": "8201589",
-     "title": "Senior Developer Support Engineer - Builder Experience (BX)",
-     "url": "https://www.okta.com/company/careers/opportunity/8201589?gh_jid=8201589"
-    },
-    {
      "id": "8203481",
      "title": "Senior Software Engineer - Fullstack",
      "url": "https://www.okta.com/company/careers/opportunity/8203481?gh_jid=8203481"
@@ -6734,29 +6504,14 @@
      "url": "https://www.okta.com/company/careers/opportunity/8203628?gh_jid=8203628"
     },
     {
-     "id": "8204750",
-     "title": "Senior Product Acceleration Specialist - Auth0",
-     "url": "https://www.okta.com/company/careers/opportunity/8204750?gh_jid=8204750"
-    },
-    {
      "id": "8204938",
      "title": "Marketing Analytics Manager",
      "url": "https://www.okta.com/company/careers/opportunity/8204938?gh_jid=8204938"
     },
     {
-     "id": "8208359",
-     "title": "Staff Machine Learning Engineer, SecureAI",
-     "url": "https://www.okta.com/company/careers/opportunity/8208359?gh_jid=8208359"
-    },
-    {
      "id": "8208369",
      "title": "Staff Frontend Engineer, SecureAI",
      "url": "https://www.okta.com/company/careers/opportunity/8208369?gh_jid=8208369"
-    },
-    {
-     "id": "8208377",
-     "title": "Principal Machine Learning Engineer, SecureAI",
-     "url": "https://www.okta.com/company/careers/opportunity/8208377?gh_jid=8208377"
     },
     {
      "id": "8208381",
@@ -6794,11 +6549,6 @@
      "url": "https://www.okta.com/company/careers/opportunity/8211380?gh_jid=8211380"
     },
     {
-     "id": "8211926",
-     "title": "Senior Software Engineer, Agent Gateway",
-     "url": "https://www.okta.com/company/careers/opportunity/8211926?gh_jid=8211926"
-    },
-    {
      "id": "8212358",
      "title": "Senior Software Engineer - Core Infrastructure",
      "url": "https://www.okta.com/company/careers/opportunity/8212358?gh_jid=8212358"
@@ -6834,13 +6584,8 @@
      "url": "https://www.okta.com/company/careers/opportunity/8220634?gh_jid=8220634"
     },
     {
-     "id": "8220655",
-     "title": "Staff Software Engineer",
-     "url": "https://www.okta.com/company/careers/opportunity/8220655?gh_jid=8220655"
-    },
-    {
      "id": "8220791",
-     "title": "Director of Partner Product Marketing",
+     "title": "Senior Director, Global Partner Marketing",
      "url": "https://www.okta.com/company/careers/opportunity/8220791?gh_jid=8220791"
     },
     {
@@ -6867,11 +6612,6 @@
      "id": "8229910",
      "title": "Principal UI Software Engineer",
      "url": "https://www.okta.com/company/careers/opportunity/8229910?gh_jid=8229910"
-    },
-    {
-     "id": "8230163",
-     "title": "Engineering Manager, Okta Access Gateway",
-     "url": "https://www.okta.com/company/careers/opportunity/8230163?gh_jid=8230163"
     },
     {
      "id": "8230852",
@@ -6914,24 +6654,19 @@
      "url": "https://www.okta.com/company/careers/opportunity/8237524?gh_jid=8237524"
     },
     {
-     "id": "8237681",
-     "title": "Staff Software Engineer, MacOS",
-     "url": "https://www.okta.com/company/careers/opportunity/8237681?gh_jid=8237681"
+     "id": "8237676",
+     "title": "Senior Software Engineer - Client SDK Team",
+     "url": "https://www.okta.com/company/careers/opportunity/8237676?gh_jid=8237676"
     },
     {
      "id": "8237695",
-     "title": "Senior Software Engineer",
+     "title": "Senior Software Engineer, Developer Experience (CI/CD & Release Engineering)",
      "url": "https://www.okta.com/company/careers/opportunity/8237695?gh_jid=8237695"
     },
     {
-     "id": "8238157",
-     "title": "Sr. Manager, Strategic Sourcing \u2013 Technology",
-     "url": "https://www.okta.com/company/careers/opportunity/8238157?gh_jid=8238157"
-    },
-    {
-     "id": "8238198",
-     "title": "Demand Signals Specialist, GrowthX",
-     "url": "https://www.okta.com/company/careers/opportunity/8238198?gh_jid=8238198"
+     "id": "8239380",
+     "title": "Senior Software Engineer, Data Platform",
+     "url": "https://www.okta.com/company/careers/opportunity/8239380?gh_jid=8239380"
     },
     {
      "id": "8239382",
@@ -6944,29 +6679,14 @@
      "url": "https://www.okta.com/company/careers/opportunity/8239421?gh_jid=8239421"
     },
     {
-     "id": "8239845",
-     "title": "Sr. Manager, Strategic Sourcing \u2013 Technology",
-     "url": "https://www.okta.com/company/careers/opportunity/8239845?gh_jid=8239845"
-    },
-    {
      "id": "8240389",
      "title": "Enterprise Account Executive (Large Enterprise), Auth0",
      "url": "https://www.okta.com/company/careers/opportunity/8240389?gh_jid=8240389"
     },
     {
-     "id": "8241679",
-     "title": "Senior Software Engineer, Security Engineering (Auth0)",
-     "url": "https://www.okta.com/company/careers/opportunity/8241679?gh_jid=8241679"
-    },
-    {
      "id": "8242227",
      "title": "Staff FullStack Engineer",
      "url": "https://www.okta.com/company/careers/opportunity/8242227?gh_jid=8242227"
-    },
-    {
-     "id": "8242257",
-     "title": "Senior Provisioning Analyst",
-     "url": "https://www.okta.com/company/careers/opportunity/8242257?gh_jid=8242257"
     },
     {
      "id": "8242296",
@@ -6989,9 +6709,9 @@
      "url": "https://www.okta.com/company/careers/opportunity/8242386?gh_jid=8242386"
     },
     {
-     "id": "8242557",
-     "title": "Senior Software engineer - Advanced Threat Protection",
-     "url": "https://www.okta.com/company/careers/opportunity/8242557?gh_jid=8242557"
+     "id": "8242443",
+     "title": "Senior Software Engineer - Advanced Threat Protection",
+     "url": "https://www.okta.com/company/careers/opportunity/8242443?gh_jid=8242443"
     },
     {
      "id": "8242975",
@@ -7035,7 +6755,7 @@
     },
     {
      "id": "8245298",
-     "title": "Global Partner Program Operations Manager",
+     "title": "Partner Program Manager, APJ",
      "url": "https://www.okta.com/company/careers/opportunity/8245298?gh_jid=8245298"
     },
     {
@@ -7064,6 +6784,11 @@
      "url": "https://www.okta.com/company/careers/opportunity/8248830?gh_jid=8248830"
     },
     {
+     "id": "8249918",
+     "title": "Senior Product Manager, Okta for AI Agents",
+     "url": "https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918"
+    },
+    {
      "id": "8250518",
      "title": "Senior Technical Writer",
      "url": "https://www.okta.com/company/careers/opportunity/8250518?gh_jid=8250518"
@@ -7079,9 +6804,24 @@
      "url": "https://www.okta.com/company/careers/opportunity/8256688?gh_jid=8256688"
     },
     {
+     "id": "8257554",
+     "title": "Senior AI Analyst, People Digital Solutions",
+     "url": "https://www.okta.com/company/careers/opportunity/8257554?gh_jid=8257554"
+    },
+    {
+     "id": "8258366",
+     "title": "Senior Solutions Engineer, UK&I",
+     "url": "https://www.okta.com/company/careers/opportunity/8258366?gh_jid=8258366"
+    },
+    {
      "id": "8258402",
      "title": "Product Acceleration Specialist",
      "url": "https://www.okta.com/company/careers/opportunity/8258402?gh_jid=8258402"
+    },
+    {
+     "id": "8258803",
+     "title": "Staff Software Engineer, Platform & Infrastructure",
+     "url": "https://www.okta.com/company/careers/opportunity/8258803?gh_jid=8258803"
     },
     {
      "id": "8259188",
@@ -7134,6 +6874,11 @@
      "url": "https://www.okta.com/company/careers/opportunity/8265281?gh_jid=8265281"
     },
     {
+     "id": "8266577",
+     "title": "Staff Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8266577?gh_jid=8266577"
+    },
+    {
      "id": "8267278",
      "title": "Digital Solutions Manager (Recruiting Tech & Learning Platforms)",
      "url": "https://www.okta.com/company/careers/opportunity/8267278?gh_jid=8267278"
@@ -7154,21 +6899,6 @@
      "url": "https://www.okta.com/company/careers/opportunity/8269057?gh_jid=8269057"
     },
     {
-     "id": "8275271",
-     "title": "Director, M&A People Strategy & Integration",
-     "url": "https://www.okta.com/company/careers/opportunity/8275271?gh_jid=8275271"
-    },
-    {
-     "id": "8275286",
-     "title": "Director, M&A People Strategy & Integration",
-     "url": "https://www.okta.com/company/careers/opportunity/8275286?gh_jid=8275286"
-    },
-    {
-     "id": "8275287",
-     "title": "Director, M&A People Strategy & Integration",
-     "url": "https://www.okta.com/company/careers/opportunity/8275287?gh_jid=8275287"
-    },
-    {
      "id": "8278594",
      "title": "Sr. Category Manager, Technology Sourcing",
      "url": "https://www.okta.com/company/careers/opportunity/8278594?gh_jid=8278594"
@@ -7177,11 +6907,6 @@
      "id": "8281124",
      "title": "Staff Product Security Engineer, Offensive Security",
      "url": "https://www.okta.com/company/careers/opportunity/8281124?gh_jid=8281124"
-    },
-    {
-     "id": "8281409",
-     "title": "Senior Software Engineer, Observability (Auth0)",
-     "url": "https://www.okta.com/company/careers/opportunity/8281409?gh_jid=8281409"
     },
     {
      "id": "8281740",
@@ -7204,29 +6929,19 @@
      "url": "https://www.okta.com/company/careers/opportunity/8282012?gh_jid=8282012"
     },
     {
-     "id": "8283646",
-     "title": "Regional Alliances Manager - Distribution & Emerging Partners (ANZ)",
-     "url": "https://www.okta.com/company/careers/opportunity/8283646?gh_jid=8283646"
+     "id": "8282692",
+     "title": "Director, People Business Partner \u2013 AMER Field Sales",
+     "url": "https://www.okta.com/company/careers/opportunity/8282692?gh_jid=8282692"
+    },
+    {
+     "id": "8282705",
+     "title": "Director, People Business Partner \u2013 AMER Field Sales",
+     "url": "https://www.okta.com/company/careers/opportunity/8282705?gh_jid=8282705"
     },
     {
      "id": "8284216",
      "title": "Nonprofit GTM Strategy Manager",
      "url": "https://www.okta.com/company/careers/opportunity/8284216?gh_jid=8284216"
-    },
-    {
-     "id": "8284930",
-     "title": "Technical Account Manager - Auth0",
-     "url": "https://www.okta.com/company/careers/opportunity/8284930?gh_jid=8284930"
-    },
-    {
-     "id": "8285002",
-     "title": "Enterprise Account Executive",
-     "url": "https://www.okta.com/company/careers/opportunity/8285002?gh_jid=8285002"
-    },
-    {
-     "id": "8285012",
-     "title": "Senior Emerging Account Executive",
-     "url": "https://www.okta.com/company/careers/opportunity/8285012?gh_jid=8285012"
     },
     {
      "id": "8286405",
@@ -7279,19 +6994,9 @@
      "url": "https://www.okta.com/company/careers/opportunity/8288478?gh_jid=8288478"
     },
     {
-     "id": "8288480",
-     "title": "Enterprise Account Executive, Auth0",
-     "url": "https://www.okta.com/company/careers/opportunity/8288480?gh_jid=8288480"
-    },
-    {
      "id": "8288553",
      "title": "Strategic Regional Sales Manager, Okta",
      "url": "https://www.okta.com/company/careers/opportunity/8288553?gh_jid=8288553"
-    },
-    {
-     "id": "8289127",
-     "title": "Okta Account Executive- New Business",
-     "url": "https://www.okta.com/company/careers/opportunity/8289127?gh_jid=8289127"
     },
     {
      "id": "8289576",
@@ -7317,11 +7022,6 @@
      "id": "8289604",
      "title": "Strategic Account Executive",
      "url": "https://www.okta.com/company/careers/opportunity/8289604?gh_jid=8289604"
-    },
-    {
-     "id": "8289693",
-     "title": "Senior Technical Consultant, Okta",
-     "url": "https://www.okta.com/company/careers/opportunity/8289693?gh_jid=8289693"
     },
     {
      "id": "8289745",
@@ -7354,16 +7054,6 @@
      "url": "https://www.okta.com/company/careers/opportunity/8289910?gh_jid=8289910"
     },
     {
-     "id": "8289915",
-     "title": "Strategic Account Executive, Auth0",
-     "url": "https://www.okta.com/company/careers/opportunity/8289915?gh_jid=8289915"
-    },
-    {
-     "id": "8292594",
-     "title": "Auth0 Account Executive- New Business",
-     "url": "https://www.okta.com/company/careers/opportunity/8292594?gh_jid=8292594"
-    },
-    {
      "id": "8292623",
      "title": "Auth0 Account Executive- New Business",
      "url": "https://www.okta.com/company/careers/opportunity/8292623?gh_jid=8292623"
@@ -7387,16 +7077,6 @@
      "id": "8299819",
      "title": "Enterprise Regional Sales Manager - Indonesia",
      "url": "https://www.okta.com/company/careers/opportunity/8299819?gh_jid=8299819"
-    },
-    {
-     "id": "8299845",
-     "title": "Staff, Third Party Risk Management",
-     "url": "https://www.okta.com/company/careers/opportunity/8299845?gh_jid=8299845"
-    },
-    {
-     "id": "8299852",
-     "title": "Staff Security Risk Analyst",
-     "url": "https://www.okta.com/company/careers/opportunity/8299852?gh_jid=8299852"
     },
     {
      "id": "8300291",
@@ -7437,16 +7117,6 @@
      "id": "8304288",
      "title": "Senior Data Analyst (Auth0)",
      "url": "https://www.okta.com/company/careers/opportunity/8304288?gh_jid=8304288"
-    },
-    {
-     "id": "8304868",
-     "title": "Sales Development Representative (Singapore)",
-     "url": "https://www.okta.com/company/careers/opportunity/8304868?gh_jid=8304868"
-    },
-    {
-     "id": "8305257",
-     "title": "Senior Regional Alliances Manager",
-     "url": "https://www.okta.com/company/careers/opportunity/8305257?gh_jid=8305257"
     },
     {
      "id": "8305423",
@@ -7539,16 +7209,6 @@
      "url": "https://www.okta.com/company/careers/opportunity/8325962?gh_jid=8325962"
     },
     {
-     "id": "8326116",
-     "title": "Staff Product Designer - UI Platform",
-     "url": "https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116"
-    },
-    {
-     "id": "8326941",
-     "title": "Senior Technical Account Manager",
-     "url": "https://www.okta.com/company/careers/opportunity/8326941?gh_jid=8326941"
-    },
-    {
      "id": "8328599",
      "title": "Technical Platform Administrator, Enablement Systems",
      "url": "https://www.okta.com/company/careers/opportunity/8328599?gh_jid=8328599"
@@ -7562,6 +7222,11 @@
      "id": "8331195",
      "title": "Strategic Account Executive, Auth0",
      "url": "https://www.okta.com/company/careers/opportunity/8331195?gh_jid=8331195"
+    },
+    {
+     "id": "8331368",
+     "title": "People Partner Specialist",
+     "url": "https://www.okta.com/company/careers/opportunity/8331368?gh_jid=8331368"
     },
     {
      "id": "8332521",
@@ -7627,6 +7292,11 @@
      "id": "8336721",
      "title": "Business Development Representative -France",
      "url": "https://www.okta.com/company/careers/opportunity/8336721?gh_jid=8336721"
+    },
+    {
+     "id": "8336985",
+     "title": "Executive Assistant",
+     "url": "https://www.okta.com/company/careers/opportunity/8336985?gh_jid=8336985"
     },
     {
      "id": "8345577",
@@ -7704,14 +7374,24 @@
      "url": "https://www.okta.com/company/careers/opportunity/8351641?gh_jid=8351641"
     },
     {
+     "id": "8352082",
+     "title": "Associate Customer Success Manager, APAC",
+     "url": "https://www.okta.com/company/careers/opportunity/8352082?gh_jid=8352082"
+    },
+    {
      "id": "8353207",
      "title": "Senior Manager, Site Reliability Engineering",
      "url": "https://www.okta.com/company/careers/opportunity/8353207?gh_jid=8353207"
     },
     {
      "id": "8354795",
-     "title": "Regional Sales Manager, Enterprise",
+     "title": "Enterprise Account Executive, West",
      "url": "https://www.okta.com/company/careers/opportunity/8354795?gh_jid=8354795"
+    },
+    {
+     "id": "8354829",
+     "title": "Benefits Operations Specialist",
+     "url": "https://www.okta.com/company/careers/opportunity/8354829?gh_jid=8354829"
     },
     {
      "id": "8355883",
@@ -7734,14 +7414,44 @@
      "url": "https://www.okta.com/company/careers/opportunity/8358096?gh_jid=8358096"
     },
     {
+     "id": "8358102",
+     "title": "Principal Software Engineer - Backend, Identity Threat Protection",
+     "url": "https://www.okta.com/company/careers/opportunity/8358102?gh_jid=8358102"
+    },
+    {
      "id": "8358353",
      "title": "Senior Software Engineer - Full Stack Developer",
      "url": "https://www.okta.com/company/careers/opportunity/8358353?gh_jid=8358353"
     },
     {
+     "id": "8359838",
+     "title": "Senior Software Engineer in Test",
+     "url": "https://www.okta.com/company/careers/opportunity/8359838?gh_jid=8359838"
+    },
+    {
      "id": "8359853",
      "title": "Senior Full-Stack Engineer, Builder Platform",
      "url": "https://www.okta.com/company/careers/opportunity/8359853?gh_jid=8359853"
+    },
+    {
+     "id": "8359861",
+     "title": "Senior Software Engineer in Test",
+     "url": "https://www.okta.com/company/careers/opportunity/8359861?gh_jid=8359861"
+    },
+    {
+     "id": "8359871",
+     "title": "Staff Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8359871?gh_jid=8359871"
+    },
+    {
+     "id": "8360107",
+     "title": "Senior Engineer, Core Service Interfaces (Auth0)",
+     "url": "https://www.okta.com/company/careers/opportunity/8360107?gh_jid=8360107"
+    },
+    {
+     "id": "8367424",
+     "title": "Senior Corporate Account Executive",
+     "url": "https://www.okta.com/company/careers/opportunity/8367424?gh_jid=8367424"
     },
     {
      "id": "8373834",
@@ -7754,19 +7464,59 @@
      "url": "https://www.okta.com/company/careers/opportunity/8374832?gh_jid=8374832"
     },
     {
+     "id": "8377182",
+     "title": "Demo Engineering Developer",
+     "url": "https://www.okta.com/company/careers/opportunity/8377182?gh_jid=8377182"
+    },
+    {
+     "id": "8378013",
+     "title": "Engineering Manager",
+     "url": "https://www.okta.com/company/careers/opportunity/8378013?gh_jid=8378013"
+    },
+    {
+     "id": "8382952",
+     "title": "Senior Software Engineer - Core Identity (Auth0)",
+     "url": "https://www.okta.com/company/careers/opportunity/8382952?gh_jid=8382952"
+    },
+    {
      "id": "8383373",
      "title": "Director, Product Security, PSIRT",
      "url": "https://www.okta.com/company/careers/opportunity/8383373?gh_jid=8383373"
     },
     {
-     "id": "8384384",
-     "title": "Staff Software Engineer - Privileged Access Management (PAM)",
-     "url": "https://www.okta.com/company/careers/opportunity/8384384?gh_jid=8384384"
+     "id": "8384001",
+     "title": "Senior Software Engineer, Data Platform",
+     "url": "https://www.okta.com/company/careers/opportunity/8384001?gh_jid=8384001"
+    },
+    {
+     "id": "8384022",
+     "title": "Staff Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8384022?gh_jid=8384022"
+    },
+    {
+     "id": "8384032",
+     "title": "Senior Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8384032?gh_jid=8384032"
     },
     {
      "id": "8385349",
      "title": "Sales Development Representative - UKI",
      "url": "https://www.okta.com/company/careers/opportunity/8385349?gh_jid=8385349"
+    },
+    {
+     "id": "8385692",
+     "title": "Staff Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8385692?gh_jid=8385692"
+    },
+    {
+     "id": "8385706",
+     "title": "Staff Site Reliability Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8385706?gh_jid=8385706"
+    },
+    {
+     "id": "8385710",
+     "title": "Staff Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8385710?gh_jid=8385710"
     },
     {
      "id": "8385852",
@@ -7777,26 +7527,176 @@
      "id": "8385863",
      "title": "Senior SMB Customer Account Executive (East)",
      "url": "https://www.okta.com/company/careers/opportunity/8385863?gh_jid=8385863"
+    },
+    {
+     "id": "8385940",
+     "title": "SMB Customer, Senior Sales Manager",
+     "url": "https://www.okta.com/company/careers/opportunity/8385940?gh_jid=8385940"
+    },
+    {
+     "id": "8395428",
+     "title": "Engineering Manager",
+     "url": "https://www.okta.com/company/careers/opportunity/8395428?gh_jid=8395428"
+    },
+    {
+     "id": "8395735",
+     "title": "Senior Software Engineer, Identity Threat Protection",
+     "url": "https://www.okta.com/company/careers/opportunity/8395735?gh_jid=8395735"
+    },
+    {
+     "id": "8396146",
+     "title": "Staff Software Engineer - Privileged Access Management (PAM)",
+     "url": "https://www.okta.com/company/careers/opportunity/8396146?gh_jid=8396146"
+    },
+    {
+     "id": "8396674",
+     "title": "Senior Software Engineer (Frontend) - MFA, Assurance, Policies and Hybrid Access",
+     "url": "https://www.okta.com/company/careers/opportunity/8396674?gh_jid=8396674"
+    },
+    {
+     "id": "8396676",
+     "title": "Staff Software Engineer - Okta Identity Governance",
+     "url": "https://www.okta.com/company/careers/opportunity/8396676?gh_jid=8396676"
+    },
+    {
+     "id": "8396710",
+     "title": "Staff Software Engineer in Test",
+     "url": "https://www.okta.com/company/careers/opportunity/8396710?gh_jid=8396710"
+    },
+    {
+     "id": "8396722",
+     "title": "Senior Software Development Engineer in Test - Okta Identity Governance",
+     "url": "https://www.okta.com/company/careers/opportunity/8396722?gh_jid=8396722"
+    },
+    {
+     "id": "8396726",
+     "title": "Senior Software Development Engineer in Test - Okta Identity Governance",
+     "url": "https://www.okta.com/company/careers/opportunity/8396726?gh_jid=8396726"
+    },
+    {
+     "id": "8396761",
+     "title": "Senior Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8396761?gh_jid=8396761"
+    },
+    {
+     "id": "8397952",
+     "title": "Strategic Account Executive",
+     "url": "https://www.okta.com/company/careers/opportunity/8397952?gh_jid=8397952"
+    },
+    {
+     "id": "8397964",
+     "title": "Technical Enablement Business Partner",
+     "url": "https://www.okta.com/company/careers/opportunity/8397964?gh_jid=8397964"
+    },
+    {
+     "id": "8398418",
+     "title": "Regional Sales Manager (Bay Area)",
+     "url": "https://www.okta.com/company/careers/opportunity/8398418?gh_jid=8398418"
+    },
+    {
+     "id": "8398497",
+     "title": "Staff Fullstack Engineer, Okta Secures AI",
+     "url": "https://www.okta.com/company/careers/opportunity/8398497?gh_jid=8398497"
+    },
+    {
+     "id": "8401259",
+     "title": "Senior SMB New Business Account Executive (West)",
+     "url": "https://www.okta.com/company/careers/opportunity/8401259?gh_jid=8401259"
+    },
+    {
+     "id": "8401324",
+     "title": "Senior SMB New Business Account Executive (East/Central)",
+     "url": "https://www.okta.com/company/careers/opportunity/8401324?gh_jid=8401324"
+    },
+    {
+     "id": "8401378",
+     "title": "Technical Enablement Business Partner",
+     "url": "https://www.okta.com/company/careers/opportunity/8401378?gh_jid=8401378"
+    },
+    {
+     "id": "8403496",
+     "title": "Manager, Enterprise Influencer Relations",
+     "url": "https://www.okta.com/company/careers/opportunity/8403496?gh_jid=8403496"
+    },
+    {
+     "id": "8403862",
+     "title": "Staff Site Reliability Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8403862?gh_jid=8403862"
+    },
+    {
+     "id": "8404551",
+     "title": "Senior Software Engineer",
+     "url": "https://www.okta.com/company/careers/opportunity/8404551?gh_jid=8404551"
+    },
+    {
+     "id": "8404658",
+     "title": "Senior Software Engineer, Acquisitions and Activation (Auth0)",
+     "url": "https://www.okta.com/company/careers/opportunity/8404658?gh_jid=8404658"
+    },
+    {
+     "id": "8404661",
+     "title": "Staff Software Engineer in Test - Okta Secures AI Team",
+     "url": "https://www.okta.com/company/careers/opportunity/8404661?gh_jid=8404661"
+    },
+    {
+     "id": "8404911",
+     "title": "SMB Customer Account Executive",
+     "url": "https://www.okta.com/company/careers/opportunity/8404911?gh_jid=8404911"
+    },
+    {
+     "id": "8404912",
+     "title": "SMB New Business Account Executive",
+     "url": "https://www.okta.com/company/careers/opportunity/8404912?gh_jid=8404912"
+    },
+    {
+     "id": "8405211",
+     "title": "People Operations Specialist (Payroll & Compensation )",
+     "url": "https://www.okta.com/company/careers/opportunity/8405211?gh_jid=8405211"
+    },
+    {
+     "id": "8405220",
+     "title": "Staff Product Manager - Finance (RTR)",
+     "url": "https://www.okta.com/company/careers/opportunity/8405220?gh_jid=8405220"
+    },
+    {
+     "id": "8406342",
+     "title": "Director, People Business Partner \u2013 AMER Field Sales",
+     "url": "https://www.okta.com/company/careers/opportunity/8406342?gh_jid=8406342"
+    },
+    {
+     "id": "8406600",
+     "title": "Staff Product Marketing Manager - Comp Intel",
+     "url": "https://www.okta.com/company/careers/opportunity/8406600?gh_jid=8406600"
     }
    ],
-   "jobsHash": "425155aa85ceb166ab18a79deca18bf0dc4c5ea84283b87b5ba47f572c9bcced",
+   "jobsHash": "1666f9a9870e197eed644f362f761a834965956f8ab2753f0f27eda6c54deeb9",
    "pages": {
-    "/": "0d7d28cb2aa8053bbeb23797ea3f1434c371d1ee4101066e5dd17ebbb960f0a9",
-    "/blog": "4029e19e78274992837f0f8cd3e21914b806ec2e58e0beb1537f03d7ead6a61a",
-    "/news": "be0be714aa4ea126d5ced9c63917e78f2e11f5fe46d14ab5d9e91e5e059d55fd"
+    "/": "41811e083f7b79a622894a205a6465b741b600f5f969cac283c02192e1cebeb2",
+    "/blog": "05b792630757d8adda6155ea8c93b1f4552fa04626846b4c02f395603828b790",
+    "/news": "496137dbf9a48ecc1721811638f3b0911eccb2046909caf3a5d055dbeb67228e"
    },
-   "siteHash": "ebc29ab24c133ce279d701a5a7b2ae36d0aa1b33dbb20c484f05031fa8a2a761"
+   "siteHash": "dd29304c65c16b68bc1e171f68f0a0f44fe584c64dc7633a484875f279c51b1a"
   },
   "openai": {
-   "checkedAt": "2026-11-16T01:44:12+00:00"
+   "checkedAt": "2026-11-23T01:44:12+00:00",
+   "pages": {
+    "/": "e6ac696731f26057ad864466067e99f69329daa929a39445d704df1cfdf3795e",
+    "/news": "a1f105f52cd424f6432faa6e72de8bf50396c58042e5c143925f820ee41096a2"
+   },
+   "siteHash": "1ba062a291727ef4622db5c5a14dc91771ca71d24a42d34bcf3d4409d4e436ee"
   },
   "perplexity": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "0190699f-010b-44f2-8399-278899fef018",
      "title": "Member of Technical Staff (Machine Learning Engineer, Search)",
      "url": "https://jobs.ashbyhq.com/Perplexity/0190699f-010b-44f2-8399-278899fef018"
+    },
+    {
+     "id": "01f7cf03-44dd-47a8-a9b9-bdd7050fcac0",
+     "title": "Founding Account Executive, EMEA",
+     "url": "https://jobs.ashbyhq.com/Perplexity/01f7cf03-44dd-47a8-a9b9-bdd7050fcac0"
     },
     {
      "id": "043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
@@ -7840,7 +7740,7 @@
     },
     {
      "id": "0ddf1b9a-9875-445c-a78f-f033d023a34a",
-     "title": "Head of Marketing Operations",
+     "title": "Head of Pipeline Operations",
      "url": "https://jobs.ashbyhq.com/Perplexity/0ddf1b9a-9875-445c-a78f-f033d023a34a"
     },
     {
@@ -7864,6 +7764,16 @@
      "url": "https://jobs.ashbyhq.com/Perplexity/14a45e74-9cde-4622-8172-1b6968810802"
     },
     {
+     "id": "15829848-2f10-4130-9409-415bafe0a028",
+     "title": "Enterprise Account Executive, Legal",
+     "url": "https://jobs.ashbyhq.com/Perplexity/15829848-2f10-4130-9409-415bafe0a028"
+    },
+    {
+     "id": "179dfb70-1190-4e92-9f9a-a63218d36ca4",
+     "title": "Regional Sales Director, Legal",
+     "url": "https://jobs.ashbyhq.com/Perplexity/179dfb70-1190-4e92-9f9a-a63218d36ca4"
+    },
+    {
      "id": "182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
      "title": "Product Manager, SMB Growth",
      "url": "https://jobs.ashbyhq.com/Perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13"
@@ -7875,7 +7785,7 @@
     },
     {
      "id": "190962f1-a955-4690-8025-6943dcbf063c",
-     "title": "Member of Technical Staff (Site Reliability Engineer, Crawler)",
+     "title": "Member of Technical Staff (Site Reliability Engineer, Search Crawler)",
      "url": "https://jobs.ashbyhq.com/Perplexity/190962f1-a955-4690-8025-6943dcbf063c"
     },
     {
@@ -7919,6 +7829,11 @@
      "url": "https://jobs.ashbyhq.com/Perplexity/2c6ae16b-d03e-4e33-9d32-362c5388e956"
     },
     {
+     "id": "2cfb391c-eaa4-4a97-83da-18ca275d50a5",
+     "title": "Enterprise Account Executive, Financial Services",
+     "url": "https://jobs.ashbyhq.com/Perplexity/2cfb391c-eaa4-4a97-83da-18ca275d50a5"
+    },
+    {
      "id": "2d510148-8cce-4b67-be25-5784106bbff4",
      "title": "IT Engineer",
      "url": "https://jobs.ashbyhq.com/Perplexity/2d510148-8cce-4b67-be25-5784106bbff4"
@@ -7937,6 +7852,11 @@
      "id": "32a36cae-ad73-4198-9354-a72b141ff055",
      "title": "Member of Technical Staff (Secure Intelligence Institute)",
      "url": "https://jobs.ashbyhq.com/Perplexity/32a36cae-ad73-4198-9354-a72b141ff055"
+    },
+    {
+     "id": "35eb74aa-63e6-485a-a1da-061d4004ab50",
+     "title": "Senior Art Director",
+     "url": "https://jobs.ashbyhq.com/Perplexity/35eb74aa-63e6-485a-a1da-061d4004ab50"
     },
     {
      "id": "375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
@@ -8024,6 +7944,11 @@
      "url": "https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8"
     },
     {
+     "id": "4c316774-abea-47d9-b681-5fdc005e4229",
+     "title": "Member of Technical Staff (Enterprise Security Engineer)",
+     "url": "https://jobs.ashbyhq.com/Perplexity/4c316774-abea-47d9-b681-5fdc005e4229"
+    },
+    {
      "id": "4d8f7e23-8c80-4bd8-ad27-3f40cf17197b",
      "title": "Director of Events and Experiences",
      "url": "https://jobs.ashbyhq.com/Perplexity/4d8f7e23-8c80-4bd8-ad27-3f40cf17197b"
@@ -8037,6 +7962,11 @@
      "id": "5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1",
      "title": "Payroll Analyst",
      "url": "https://jobs.ashbyhq.com/Perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1"
+    },
+    {
+     "id": "5149f625-1c76-4ca1-b076-7b81ed23c758",
+     "title": "Member of Technical Staff (Cybersecurity Solutions Architect)",
+     "url": "https://jobs.ashbyhq.com/Perplexity/5149f625-1c76-4ca1-b076-7b81ed23c758"
     },
     {
      "id": "5551fd7b-9ede-460e-9b38-4328c476a521",
@@ -8164,14 +8094,29 @@
      "url": "https://jobs.ashbyhq.com/Perplexity/7ae341c4-411e-468c-bc26-bbdd8e55d388"
     },
     {
+     "id": "7f3dc848-6e0b-4ad1-85bc-d24a30179b74",
+     "title": "Member of Technical Staff (Index, Search Crawler)",
+     "url": "https://jobs.ashbyhq.com/Perplexity/7f3dc848-6e0b-4ad1-85bc-d24a30179b74"
+    },
+    {
      "id": "7f880194-7276-4b46-8a50-58b48da8882e",
      "title": "Product Manager, AI Capabilities",
      "url": "https://jobs.ashbyhq.com/Perplexity/7f880194-7276-4b46-8a50-58b48da8882e"
     },
     {
+     "id": "849874fd-ccb4-4d7e-8551-29c5a418e2c7",
+     "title": "Member of Technical Staff (Perplexity Frontier Research)",
+     "url": "https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7"
+    },
+    {
      "id": "859604e1-9ada-4833-97b3-51fe185b6ff7",
      "title": "Engineering Manager (Security)",
      "url": "https://jobs.ashbyhq.com/Perplexity/859604e1-9ada-4833-97b3-51fe185b6ff7"
+    },
+    {
+     "id": "87344412-2db9-42e9-919b-cf18872be670",
+     "title": "Research & Development Site Lead (London)",
+     "url": "https://jobs.ashbyhq.com/Perplexity/87344412-2db9-42e9-919b-cf18872be670"
     },
     {
      "id": "883bd78f-c9cd-4ae5-afbf-b21f16f06a6f",
@@ -8310,7 +8255,7 @@
     },
     {
      "id": "ba95ea8c-9aad-4152-925c-df08d6a90c0f",
-     "title": "Procurement Lead",
+     "title": "Strategic Sourcing Lead",
      "url": "https://jobs.ashbyhq.com/Perplexity/ba95ea8c-9aad-4152-925c-df08d6a90c0f"
     },
     {
@@ -8330,13 +8275,13 @@
     },
     {
      "id": "c20486f5-1e9c-436c-ba67-dc69842c221c",
-     "title": "Member of Technical Staff (Search Crawler Analyst)",
+     "title": "Member of Technical Staff (Analyst, Search Crawler)",
      "url": "https://jobs.ashbyhq.com/Perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c"
     },
     {
-     "id": "c6c857f3-c0db-4d93-aeed-638b9f9d4eb6",
-     "title": "Engineering Site Lead",
-     "url": "https://jobs.ashbyhq.com/Perplexity/c6c857f3-c0db-4d93-aeed-638b9f9d4eb6"
+     "id": "d291c382-7252-45e5-8b47-ecec5d6be157",
+     "title": "Engineering Manager (Agent Verticals)",
+     "url": "https://jobs.ashbyhq.com/Perplexity/d291c382-7252-45e5-8b47-ecec5d6be157"
     },
     {
      "id": "d38e4b28-6ced-46b0-bb58-37ba49776e77",
@@ -8394,6 +8339,11 @@
      "url": "https://jobs.ashbyhq.com/Perplexity/e0e8188a-9c92-4795-82a5-7384f1b25bc7"
     },
     {
+     "id": "e148b984-eafe-48fa-a679-78a55d371f37",
+     "title": "Enterprise Account Manager",
+     "url": "https://jobs.ashbyhq.com/Perplexity/e148b984-eafe-48fa-a679-78a55d371f37"
+    },
+    {
      "id": "e4777627-ff8f-4257-8612-3a016bb58592",
      "title": "Member of Technical Staff (AI Inference Engineer)",
      "url": "https://jobs.ashbyhq.com/Perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
@@ -8415,7 +8365,7 @@
     },
     {
      "id": "ea87532c-69a0-497d-9cf3-04cc2a6c6410",
-     "title": "Member of Technical Staff (Software Engineer, Integrations)",
+     "title": "Member of Technical Staff (Software Engineer, Agent Verticals)",
      "url": "https://jobs.ashbyhq.com/Perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410"
     },
     {
@@ -8445,7 +8395,7 @@
     },
     {
      "id": "f32bb0d4-fb91-4fa6-8d7d-bd1a70ce2836",
-     "title": "Member of Technical Staff (Web Access Engineer, Crawler)",
+     "title": "Member of Technical Staff (Web Access Engineer, Search Crawler)",
      "url": "https://jobs.ashbyhq.com/Perplexity/f32bb0d4-fb91-4fa6-8d7d-bd1a70ce2836"
     },
     {
@@ -8467,11 +8417,6 @@
      "id": "f45ba174-7e99-4743-9d19-6e4d3e196458",
      "title": "Member of Technical Staff (Software Engineer, Acceleration)",
      "url": "https://jobs.ashbyhq.com/Perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458"
-    },
-    {
-     "id": "f4d81f6b-958c-4bc0-a9aa-9850c3508ca9",
-     "title": "Strategic Finance Lead - AI",
-     "url": "https://jobs.ashbyhq.com/Perplexity/f4d81f6b-958c-4bc0-a9aa-9850c3508ca9"
     },
     {
      "id": "fb1815de-07d9-4933-8746-979dbcb00870",
@@ -8499,13 +8444,13 @@
      "url": "https://jobs.ashbyhq.com/Perplexity/ffa25e26-9675-4ab1-bc98-325675879e1d"
     }
    ],
-   "jobsHash": "f316fd1b7dafca754d7b418c0de4108049cc62f0a4acf59e60fcc806a4d8eb59"
+   "jobsHash": "9f871e25317f122a58ecb43781903269779b2df6da190833ead8e9b7686ed594"
   },
   "prometheus": {
-   "checkedAt": "2026-11-16T01:44:12+00:00"
+   "checkedAt": "2026-11-23T01:44:12+00:00"
   },
   "replit": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "0170f630-f7c9-4471-8d2f-8c55fb184206",
@@ -8563,6 +8508,11 @@
      "url": "https://jobs.ashbyhq.com/replit/4b290489-9ce6-45f9-bbc8-e1baa4bd8b6f"
     },
     {
+     "id": "4bba56f9-cf14-4140-83dd-eba1dea196e5",
+     "title": "Senior Manager, Demand Generation",
+     "url": "https://jobs.ashbyhq.com/replit/4bba56f9-cf14-4140-83dd-eba1dea196e5"
+    },
+    {
      "id": "4e64e46f-f69d-4454-89b6-bd27302a464d",
      "title": "Support Engineer I (NYC, Weekend Shift)",
      "url": "https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d"
@@ -8586,6 +8536,11 @@
      "id": "659a8e1e-69ba-44c0-a632-96665051a3e8",
      "title": "Senior Software Engineer, Compute Platform",
      "url": "https://jobs.ashbyhq.com/replit/659a8e1e-69ba-44c0-a632-96665051a3e8"
+    },
+    {
+     "id": "7257790d-069f-4803-877f-d1d60f60cd5b",
+     "title": "Head of Creative",
+     "url": "https://jobs.ashbyhq.com/replit/7257790d-069f-4803-877f-d1d60f60cd5b"
     },
     {
      "id": "72866fb1-d377-4d3e-9851-f3d705449190",
@@ -8618,9 +8573,9 @@
      "url": "https://jobs.ashbyhq.com/replit/88119b4c-3782-455b-a6fa-b002210c714b"
     },
     {
-     "id": "9394684e-814c-4a3c-b5ed-19612e4331bc",
-     "title": "Head of Marketing Strategy & Operations",
-     "url": "https://jobs.ashbyhq.com/replit/9394684e-814c-4a3c-b5ed-19612e4331bc"
+     "id": "8b638123-4596-4eba-b240-cf526392a20d",
+     "title": "Program Manager, Office of the CEO (PMO)",
+     "url": "https://jobs.ashbyhq.com/replit/8b638123-4596-4eba-b240-cf526392a20d"
     },
     {
      "id": "951e0ebb-a957-45fa-8763-d56ba46750b4",
@@ -8633,9 +8588,19 @@
      "url": "https://jobs.ashbyhq.com/replit/9a56d0ac-db44-4dc1-b960-2364557bf4c8"
     },
     {
+     "id": "9b211cc2-dcb2-4902-b84f-a5a2d5d0705f",
+     "title": "Business Operations Analyst",
+     "url": "https://jobs.ashbyhq.com/replit/9b211cc2-dcb2-4902-b84f-a5a2d5d0705f"
+    },
+    {
      "id": "a8aa0921-38e1-4015-bb95-a08b090e218e",
      "title": "Chief of Staff, Office of the President",
      "url": "https://jobs.ashbyhq.com/replit/a8aa0921-38e1-4015-bb95-a08b090e218e"
+    },
+    {
+     "id": "b7f12834-78d2-424d-bf83-0c942815fbf7",
+     "title": "Staff Software Engineer, Enterprise",
+     "url": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7"
     },
     {
      "id": "de941de4-b0f2-4de8-a018-af667c67f33e",
@@ -8653,21 +8618,41 @@
      "url": "https://jobs.ashbyhq.com/replit/df7b6d30-9da1-4ace-8121-17c2aa55aa6f"
     },
     {
+     "id": "e3d91c87-8f27-46eb-8666-0d6c1564797a",
+     "title": "Administrative Assistant",
+     "url": "https://jobs.ashbyhq.com/replit/e3d91c87-8f27-46eb-8666-0d6c1564797a"
+    },
+    {
+     "id": "f32821e3-8b65-4565-b12f-3a2f3e399fb9",
+     "title": "Forward Deployed Engineer (UK)",
+     "url": "https://jobs.ashbyhq.com/replit/f32821e3-8b65-4565-b12f-3a2f3e399fb9"
+    },
+    {
+     "id": "f4254bd9-e155-4294-8239-6c2033e37136",
+     "title": "Japan PSE",
+     "url": "https://jobs.ashbyhq.com/replit/f4254bd9-e155-4294-8239-6c2033e37136"
+    },
+    {
      "id": "f98605a1-36d2-4b2f-b9be-f66064a02645",
      "title": "Staff Software Engineer, Replit Cloud",
      "url": "https://jobs.ashbyhq.com/replit/f98605a1-36d2-4b2f-b9be-f66064a02645"
+    },
+    {
+     "id": "fa9ee306-7e2b-4d94-87d1-0db292102f03",
+     "title": "Senior / Staff Software Engineer, Connectors Platform",
+     "url": "https://jobs.ashbyhq.com/replit/fa9ee306-7e2b-4d94-87d1-0db292102f03"
     }
    ],
-   "jobsHash": "65cbf2d492a1c9e0e4c66a111d670b54dc4b2ee3759e9065ddddd92b8ab4c04d",
+   "jobsHash": "559af6b18cc6df459149a3ad1fd530fdcc63d8104e28f9cdce1d72b67787fcf5",
    "pages": {
     "/": "69e06340927384e10286f796536531af8822187c32c7bd38530f5ec263108713",
-    "/blog": "7831c86f177d2d985f02fcd25bafb8b11d0c228aadd3bb22467bcc7ff379732c",
-    "/news": "b17fa9cdf52db066adf09cd2b5a41e63fd79723ca6358ad6bb5b1445406a550b"
+    "/blog": "12e8a93824d8117752b2f3c55a2a6ca4dd628579525918672b603d55c20b39d5",
+    "/news": "bae479b5dbb921178217199655d7681c479ac8254464192a5322b99d1379b600"
    },
-   "siteHash": "4b99d433145674a8424ab72656708158fa0569120b4c64b2405a573e7dc3a290"
+   "siteHash": "9ed271c4763452efc594d8e18a4400e4970623ba849ce0eec882a175ca9c90ba"
   },
   "serval": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "049d164a-2eb0-4d60-8246-4734acdd63a4",
@@ -8676,8 +8661,13 @@
     },
     {
      "id": "0ba1342d-9714-4653-a2bd-bb1cccb89ad1",
-     "title": "Sales Manager, Mid-Market - East",
+     "title": "Sales Manager, Mid-Market",
      "url": "https://jobs.ashbyhq.com/Serval/0ba1342d-9714-4653-a2bd-bb1cccb89ad1"
+    },
+    {
+     "id": "14da4187-b91a-4410-88cd-e067b2b1aebd",
+     "title": "Recruiting Events Manager",
+     "url": "https://jobs.ashbyhq.com/Serval/14da4187-b91a-4410-88cd-e067b2b1aebd"
     },
     {
      "id": "1bd5af52-3231-40a5-9e05-6665da225046",
@@ -8845,6 +8835,11 @@
      "url": "https://jobs.ashbyhq.com/Serval/91274bc2-d730-40b3-b52b-32ccfe602416"
     },
     {
+     "id": "974fee4c-14e3-4e54-8cf1-933fe6730202",
+     "title": "Sales Manager, Majors - East",
+     "url": "https://jobs.ashbyhq.com/Serval/974fee4c-14e3-4e54-8cf1-933fe6730202"
+    },
+    {
      "id": "9784591b-28ba-415d-838a-0d167d0dd62f",
      "title": "Emerging Talent Recruiter",
      "url": "https://jobs.ashbyhq.com/Serval/9784591b-28ba-415d-838a-0d167d0dd62f"
@@ -8925,11 +8920,6 @@
      "url": "https://jobs.ashbyhq.com/Serval/c98b5c56-48fc-4da7-9f3f-577bd1aa7aec"
     },
     {
-     "id": "cb30bd63-ec9b-4888-9f9e-8aff52c3947c",
-     "title": "Sales Manager, Mid-Market - Central",
-     "url": "https://jobs.ashbyhq.com/Serval/cb30bd63-ec9b-4888-9f9e-8aff52c3947c"
-    },
-    {
      "id": "cd10722e-19f2-4691-b4fd-5df64670681f",
      "title": "Security Engineer, Corporate",
      "url": "https://jobs.ashbyhq.com/Serval/cd10722e-19f2-4691-b4fd-5df64670681f"
@@ -8945,11 +8935,6 @@
      "url": "https://jobs.ashbyhq.com/Serval/ce9fd975-957b-42e2-9837-75fd87b4333a"
     },
     {
-     "id": "d2ce9ef2-2a1b-4fe3-811c-7a282e0004b4",
-     "title": "Revenue Strategy & Operations Lead",
-     "url": "https://jobs.ashbyhq.com/Serval/d2ce9ef2-2a1b-4fe3-811c-7a282e0004b4"
-    },
-    {
      "id": "d7fb089c-db8a-4877-a5f3-73a09e67f54b",
      "title": "Software Engineer Intern",
      "url": "https://jobs.ashbyhq.com/Serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b"
@@ -8963,6 +8948,11 @@
      "id": "dd399b0a-f312-424b-9b48-f48c331c6fb8",
      "title": "Technical Recruiter",
      "url": "https://jobs.ashbyhq.com/Serval/dd399b0a-f312-424b-9b48-f48c331c6fb8"
+    },
+    {
+     "id": "de820487-815c-48ae-90a5-3b5890d02b37",
+     "title": "Demand Generation Lead",
+     "url": "https://jobs.ashbyhq.com/Serval/de820487-815c-48ae-90a5-3b5890d02b37"
     },
     {
      "id": "dedc8cf0-cbf5-4335-ae46-c3e8e6de9c8d",
@@ -9003,17 +8993,12 @@
      "id": "f92f599e-cae0-49f9-aa03-5b2672e35134",
      "title": "Regional VP - Strat",
      "url": "https://jobs.ashbyhq.com/Serval/f92f599e-cae0-49f9-aa03-5b2672e35134"
-    },
-    {
-     "id": "fd68ad29-e809-4547-a975-bcc548c6e2c7",
-     "title": "Head of Field Marketing, Strategic",
-     "url": "https://jobs.ashbyhq.com/Serval/fd68ad29-e809-4547-a975-bcc548c6e2c7"
     }
    ],
-   "jobsHash": "b9508cfccda02bafcc6c839eb0057bd0257b408dbcc7e5576f51946f8ebda273"
+   "jobsHash": "e9f1d13e8879652a4f3125ebcd5380a4a9376abe40419d9dd12972ed80dd7fac"
   },
   "temporal": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "011bf96a-0e14-4b61-9fb9-b19ef6705a71",
@@ -9026,18 +9011,18 @@
      "url": "https://jobs.ashbyhq.com/temporal/01e59346-2cf2-4123-8df1-c8a486eced72"
     },
     {
-     "id": "053cfe55-570a-425f-b44e-e64b2c9b28f9",
-     "title": "Senior Platform Architect - West",
-     "url": "https://jobs.ashbyhq.com/temporal/053cfe55-570a-425f-b44e-e64b2c9b28f9"
-    },
-    {
      "id": "05507d71-51c9-455c-80b4-2da9699a0e77",
      "title": "Staff Software Engineer, Traffic",
      "url": "https://jobs.ashbyhq.com/temporal/05507d71-51c9-455c-80b4-2da9699a0e77"
     },
     {
+     "id": "078ba14f-be2f-4c48-b173-2d635c2cebf6",
+     "title": "Manager, Business Development, APJ",
+     "url": "https://jobs.ashbyhq.com/temporal/078ba14f-be2f-4c48-b173-2d635c2cebf6"
+    },
+    {
      "id": "0b03268c-92ba-4092-9eec-05eb16e41b95",
-     "title": "Staff Solutions Architect, Majors (US)",
+     "title": "Staff Solutions Architect, Majors",
      "url": "https://jobs.ashbyhq.com/temporal/0b03268c-92ba-4092-9eec-05eb16e41b95"
     },
     {
@@ -9047,7 +9032,7 @@
     },
     {
      "id": "1879fe3e-27d1-4d37-8a33-e2cd96422866",
-     "title": "Manager, Developer Advocacy (APJ)",
+     "title": "Manager, Developer Advocacy, APJ",
      "url": "https://jobs.ashbyhq.com/temporal/1879fe3e-27d1-4d37-8a33-e2cd96422866"
     },
     {
@@ -9059,6 +9044,11 @@
      "id": "1aa528e5-5076-4d98-8b07-92444c692ade",
      "title": "Business Development Representative",
      "url": "https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade"
+    },
+    {
+     "id": "1de07f39-3c58-4303-bd38-8759baf64750",
+     "title": "Account Executive, Growth (Scale)",
+     "url": "https://jobs.ashbyhq.com/temporal/1de07f39-3c58-4303-bd38-8759baf64750"
     },
     {
      "id": "1e0c3405-1d30-408e-92b0-bc4885e8921e",
@@ -9081,19 +9071,19 @@
      "url": "https://jobs.ashbyhq.com/temporal/255057fe-6618-4d6a-8b80-090ce34b7228"
     },
     {
-     "id": "25568018-4545-448c-acef-1ac481e67d5d",
-     "title": "Director, Global Developer Success",
-     "url": "https://jobs.ashbyhq.com/temporal/25568018-4545-448c-acef-1ac481e67d5d"
-    },
-    {
      "id": "25ab987b-b07e-424b-8ce9-eb10de739a7f",
      "title": "Staff Software Engineer, Infrastructure Foundations",
      "url": "https://jobs.ashbyhq.com/temporal/25ab987b-b07e-424b-8ce9-eb10de739a7f"
     },
     {
      "id": "27c50970-e919-4803-9acc-e1ebc854f3f7",
-     "title": "Senior Manager, Developer Advocacy (NAMER)",
+     "title": "Senior Manager, Developer Advocacy, NAMER",
      "url": "https://jobs.ashbyhq.com/temporal/27c50970-e919-4803-9acc-e1ebc854f3f7"
+    },
+    {
+     "id": "2826eeb7-ea72-4115-914a-73bf7bd98142",
+     "title": "Staff Solutions Architect, Digital Native",
+     "url": "https://jobs.ashbyhq.com/temporal/2826eeb7-ea72-4115-914a-73bf7bd98142"
     },
     {
      "id": "2a2a29fa-3701-4f0d-a262-aeb8bc68e0c3",
@@ -9102,7 +9092,7 @@
     },
     {
      "id": "2a3ce02e-d4db-4798-ba15-3ea6f6bc951e",
-     "title": "GTM Enablement Manager, Field Training & Readiness - Atlanta",
+     "title": "GTM Enablement Manager, Field Training & Readiness",
      "url": "https://jobs.ashbyhq.com/temporal/2a3ce02e-d4db-4798-ba15-3ea6f6bc951e"
     },
     {
@@ -9126,18 +9116,28 @@
      "url": "https://jobs.ashbyhq.com/temporal/41c539a1-6ba5-41ad-925d-f2f2579b2acf"
     },
     {
+     "id": "4e305388-425a-4f44-9c33-41af5d5d8d67",
+     "title": "Recruiting Coordinator",
+     "url": "https://jobs.ashbyhq.com/temporal/4e305388-425a-4f44-9c33-41af5d5d8d67"
+    },
+    {
      "id": "4ee99986-77ad-4113-8058-891d5cc7284a",
-     "title": "Staff Software Engineer, AI Foundations (AI Agent Optimization)",
+     "title": "Staff Software Engineer, AI Foundations (Agent Optimization)",
      "url": "https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a"
     },
     {
+     "id": "4fb93fe2-4784-4ef9-89bd-eee7d737b2dc",
+     "title": "Senior Solutions Architect, Commercial",
+     "url": "https://jobs.ashbyhq.com/temporal/4fb93fe2-4784-4ef9-89bd-eee7d737b2dc"
+    },
+    {
      "id": "5858d6cf-1445-4a03-b057-a9c8526f6d48",
-     "title": "Senior Account Executive, Majors - West",
+     "title": "Senior Account Executive, Majors",
      "url": "https://jobs.ashbyhq.com/temporal/5858d6cf-1445-4a03-b057-a9c8526f6d48"
     },
     {
      "id": "59a58e6a-d082-4b85-98f6-8dd069e26ae4",
-     "title": "Sales Manager (India)",
+     "title": "Sales Manager, APJ",
      "url": "https://jobs.ashbyhq.com/temporal/59a58e6a-d082-4b85-98f6-8dd069e26ae4"
     },
     {
@@ -9156,6 +9156,11 @@
      "url": "https://jobs.ashbyhq.com/temporal/5d4ee2f8-8ff0-4271-9292-c78df24735aa"
     },
     {
+     "id": "6b0416b1-50f7-45ad-af1b-5e49826bd446",
+     "title": "Business Development Representative, APJ",
+     "url": "https://jobs.ashbyhq.com/temporal/6b0416b1-50f7-45ad-af1b-5e49826bd446"
+    },
+    {
      "id": "6fd7a6ed-c023-4620-9b37-76936178aab5",
      "title": "Senior Accountant",
      "url": "https://jobs.ashbyhq.com/temporal/6fd7a6ed-c023-4620-9b37-76936178aab5"
@@ -9164,11 +9169,6 @@
      "id": "722643dc-6e1f-44e1-8a68-96c00d03ea11",
      "title": "Sales Director, Commercial",
      "url": "https://jobs.ashbyhq.com/temporal/722643dc-6e1f-44e1-8a68-96c00d03ea11"
-    },
-    {
-     "id": "72335b25-fe67-4801-8514-27fb19aba49c",
-     "title": "Staff AI-Native Product Designer, Product - Nexus",
-     "url": "https://jobs.ashbyhq.com/temporal/72335b25-fe67-4801-8514-27fb19aba49c"
     },
     {
      "id": "73279908-77f8-4488-8151-4c40f49a230d",
@@ -9186,18 +9186,13 @@
      "url": "https://jobs.ashbyhq.com/temporal/7592248c-719a-485c-a1a9-9285f99ed56b"
     },
     {
-     "id": "777523d1-0f57-410d-888c-c21f85c623ea",
-     "title": "Enterprise Account Executive, New Logo",
-     "url": "https://jobs.ashbyhq.com/temporal/777523d1-0f57-410d-888c-c21f85c623ea"
-    },
-    {
      "id": "7a1e439c-c349-4cd4-8490-6e22a62005bf",
-     "title": "Senior Professional Services Engineer (US)",
+     "title": "Senior Professional Services Engineer",
      "url": "https://jobs.ashbyhq.com/temporal/7a1e439c-c349-4cd4-8490-6e22a62005bf"
     },
     {
      "id": "7a8a7ed9-b569-450a-a649-a80db834a8f3",
-     "title": "Senior Account Executive, New Logo - Chicago",
+     "title": "Senior Account Executive, New Logo",
      "url": "https://jobs.ashbyhq.com/temporal/7a8a7ed9-b569-450a-a649-a80db834a8f3"
     },
     {
@@ -9211,13 +9206,18 @@
      "url": "https://jobs.ashbyhq.com/temporal/81cc8698-59f8-418a-85fd-1fc154b33ee4"
     },
     {
+     "id": "848e27dc-9f47-40ea-8608-172885a8a1d9",
+     "title": "Senior Startup Marketing Manager, Demand Generation",
+     "url": "https://jobs.ashbyhq.com/temporal/848e27dc-9f47-40ea-8608-172885a8a1d9"
+    },
+    {
      "id": "84e898c9-621a-445f-80a2-43819d4d3a0e",
-     "title": "Staff Developer Advocate, Enterprise - EMEA",
+     "title": "Staff Developer Advocate, Enterprise, EMEA",
      "url": "https://jobs.ashbyhq.com/temporal/84e898c9-621a-445f-80a2-43819d4d3a0e"
     },
     {
      "id": "86db065f-0f55-4985-b0f1-ce6a5e75f622",
-     "title": "Senior Software Engineer - Builder Platform",
+     "title": "Senior Software Engineer, Builder Platform",
      "url": "https://jobs.ashbyhq.com/temporal/86db065f-0f55-4985-b0f1-ce6a5e75f622"
     },
     {
@@ -9232,7 +9232,7 @@
     },
     {
      "id": "8d36eacb-61cf-466d-ba9a-d5849d3312eb",
-     "title": "Senior Account Executive, New Logo (France)",
+     "title": "Senior Account Executive, New Logo",
      "url": "https://jobs.ashbyhq.com/temporal/8d36eacb-61cf-466d-ba9a-d5849d3312eb"
     },
     {
@@ -9242,13 +9242,18 @@
     },
     {
      "id": "915faccb-5bf1-4a1c-9a2d-ccad28fd48f7",
-     "title": "Senior Developer Success Engineer - West",
+     "title": "Senior Developer Success Engineer",
      "url": "https://jobs.ashbyhq.com/temporal/915faccb-5bf1-4a1c-9a2d-ccad28fd48f7"
     },
     {
      "id": "99b2768c-0ce0-425b-84a4-de0fa400c18b",
      "title": "Business Development Representative, EMEA",
      "url": "https://jobs.ashbyhq.com/temporal/99b2768c-0ce0-425b-84a4-de0fa400c18b"
+    },
+    {
+     "id": "9fdeb012-fe33-4ef7-8ea3-6e76b0ebfdd4",
+     "title": "Staff Solutions Architect, Enterprise",
+     "url": "https://jobs.ashbyhq.com/temporal/9fdeb012-fe33-4ef7-8ea3-6e76b0ebfdd4"
     },
     {
      "id": "a04c4545-b34e-40d4-b1ac-17f17976e93e",
@@ -9262,17 +9267,22 @@
     },
     {
      "id": "a1e22a53-a8c2-410d-9385-814a488dd6c1",
-     "title": "Staff Software Engineer - Builder Platform",
+     "title": "Staff Software Engineer, Builder Platform",
      "url": "https://jobs.ashbyhq.com/temporal/a1e22a53-a8c2-410d-9385-814a488dd6c1"
     },
     {
+     "id": "a339af3a-0911-4f3e-b6ef-f5d362fc821a",
+     "title": "Senior Software Engineer, IAM",
+     "url": "https://jobs.ashbyhq.com/temporal/a339af3a-0911-4f3e-b6ef-f5d362fc821a"
+    },
+    {
      "id": "a476712a-932c-480b-96c5-30fa321a73c2",
-     "title": "Senior Account Executive, Growth DACH",
+     "title": "Senior Account Executive, Growth",
      "url": "https://jobs.ashbyhq.com/temporal/a476712a-932c-480b-96c5-30fa321a73c2"
     },
     {
      "id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
-     "title": "Senior Developer Success Engineer - East",
+     "title": "Senior Developer Success Engineer",
      "url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
     },
     {
@@ -9286,6 +9296,11 @@
      "url": "https://jobs.ashbyhq.com/temporal/a6db83c0-46c3-415c-8161-621a77781d38"
     },
     {
+     "id": "af8d1e25-14b1-476d-a079-0d72cc5fdcd8",
+     "title": "Senior Software Engineer, Reliability",
+     "url": "https://jobs.ashbyhq.com/temporal/af8d1e25-14b1-476d-a079-0d72cc5fdcd8"
+    },
+    {
      "id": "b23916a6-2696-4283-8504-2094c0708401",
      "title": "ASEAN Partnerships Manager",
      "url": "https://jobs.ashbyhq.com/temporal/b23916a6-2696-4283-8504-2094c0708401"
@@ -9296,9 +9311,9 @@
      "url": "https://jobs.ashbyhq.com/temporal/b3ba030c-dcbb-4131-9edb-90a8e03849e8"
     },
     {
-     "id": "b656400a-bc30-4fc3-a117-b803ef42634f",
-     "title": "Senior Engineering Manager, Test Systems & Tooling",
-     "url": "https://jobs.ashbyhq.com/temporal/b656400a-bc30-4fc3-a117-b803ef42634f"
+     "id": "b734b636-e3fc-45ac-8eb9-e34d7d4812ad",
+     "title": "Executive Assistant, Marketing",
+     "url": "https://jobs.ashbyhq.com/temporal/b734b636-e3fc-45ac-8eb9-e34d7d4812ad"
     },
     {
      "id": "b8e8ea05-cb08-4d30-9c5e-63339611719c",
@@ -9307,7 +9322,7 @@
     },
     {
      "id": "c07bba44-5506-4b5b-a0e0-5367a18afe29",
-     "title": "Staff Solutions Architect, Banking (US)",
+     "title": "Staff Solutions Architect, Banking",
      "url": "https://jobs.ashbyhq.com/temporal/c07bba44-5506-4b5b-a0e0-5367a18afe29"
     },
     {
@@ -9317,7 +9332,7 @@
     },
     {
      "id": "c3995b2d-785e-4b05-b350-b7f3a8ae84e4",
-     "title": "Senior Developer Success Engineer - Singapore",
+     "title": "Senior Developer Success Engineer, APJ",
      "url": "https://jobs.ashbyhq.com/temporal/c3995b2d-785e-4b05-b350-b7f3a8ae84e4"
     },
     {
@@ -9331,13 +9346,18 @@
      "url": "https://jobs.ashbyhq.com/temporal/ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d"
     },
     {
+     "id": "ceb3ae3d-3a72-4067-b13d-44350a143195",
+     "title": "Staff Software Engineer, Cloud Data Storage",
+     "url": "https://jobs.ashbyhq.com/temporal/ceb3ae3d-3a72-4067-b13d-44350a143195"
+    },
+    {
      "id": "cf6a0473-3609-4509-aa72-1d7cfae3d3f3",
      "title": "Director of Product, Product Led Growth",
      "url": "https://jobs.ashbyhq.com/temporal/cf6a0473-3609-4509-aa72-1d7cfae3d3f3"
     },
     {
      "id": "cfc85072-6669-4671-afd4-e860f7072668",
-     "title": "Staff Software Engineer, Compute (Temporal Cloud)",
+     "title": "Staff Software Engineer, Compute",
      "url": "https://jobs.ashbyhq.com/temporal/cfc85072-6669-4671-afd4-e860f7072668"
     },
     {
@@ -9347,7 +9367,7 @@
     },
     {
      "id": "d9b9d44f-0a87-4237-b101-360052373643",
-     "title": "Senior Solutions Architect - Singapore",
+     "title": "Senior Solutions Architect, APJ",
      "url": "https://jobs.ashbyhq.com/temporal/d9b9d44f-0a87-4237-b101-360052373643"
     },
     {
@@ -9357,7 +9377,7 @@
     },
     {
      "id": "db6c81bf-1af3-4792-9473-1a8ee4518a06",
-     "title": "Staff Solutions Architect, Banking (India)",
+     "title": "Staff Solutions Architect, Banking",
      "url": "https://jobs.ashbyhq.com/temporal/db6c81bf-1af3-4792-9473-1a8ee4518a06"
     },
     {
@@ -9366,8 +9386,13 @@
      "url": "https://jobs.ashbyhq.com/temporal/dc4021c5-b1d0-49a8-8342-6c68969192b5"
     },
     {
+     "id": "dd862627-1663-414d-9820-3f05bfbd9a8a",
+     "title": "Staff Enterprise Security Engineer",
+     "url": "https://jobs.ashbyhq.com/temporal/dd862627-1663-414d-9820-3f05bfbd9a8a"
+    },
+    {
      "id": "de4ea341-0921-4ab0-878e-bf936021118d",
-     "title": "Staff Solutions Architect, New Logo (US)",
+     "title": "Staff Solutions Architect, New Logo",
      "url": "https://jobs.ashbyhq.com/temporal/de4ea341-0921-4ab0-878e-bf936021118d"
     },
     {
@@ -9377,7 +9402,7 @@
     },
     {
      "id": "dfa01032-82b4-443f-bfdc-1a20bd976b9c",
-     "title": "Senior Staff Software Engineer - Builder Platform",
+     "title": "Senior Staff Software Engineer, Builder Platform",
      "url": "https://jobs.ashbyhq.com/temporal/dfa01032-82b4-443f-bfdc-1a20bd976b9c"
     },
     {
@@ -9397,12 +9422,12 @@
     },
     {
      "id": "e58534db-58ed-47c4-8467-ed2d7913e6ac",
-     "title": "Senior Account Executive, Growth France",
+     "title": "Senior Account Executive, Growth",
      "url": "https://jobs.ashbyhq.com/temporal/e58534db-58ed-47c4-8467-ed2d7913e6ac"
     },
     {
      "id": "e75ff82a-19e2-470e-ac4b-49f0a87acd76",
-     "title": "Senior Platform Architect - UK",
+     "title": "Senior Platform Architect, EMEA",
      "url": "https://jobs.ashbyhq.com/temporal/e75ff82a-19e2-470e-ac4b-49f0a87acd76"
     },
     {
@@ -9432,14 +9457,14 @@
     },
     {
      "id": "ff415b01-7753-4d32-a0f8-2a530caf0151",
-     "title": "Manager, Developer Advocacy (EMEA)",
+     "title": "Manager, Developer Advocacy, EMEA",
      "url": "https://jobs.ashbyhq.com/temporal/ff415b01-7753-4d32-a0f8-2a530caf0151"
     }
    ],
-   "jobsHash": "5d6e67f96e61ae6ea1dbcf4ad2b338683ffe5757261bc37a3f7191b17cae8012"
+   "jobsHash": "a19c595d86ec883b1235ccd6f17cef40ec3d6d6e3035360b7e17f4cceb3d6ff4"
   },
   "vanta": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "021cca9c-f937-4d97-8be7-bc83af8307be",
@@ -9457,19 +9482,9 @@
      "url": "https://jobs.ashbyhq.com/vanta/0ab177a8-3ea8-4b91-9a55-bfef435b0cfc"
     },
     {
-     "id": "0c4ff8a3-c916-467b-b3e2-053f009f3ba4",
-     "title": "Sales Manager, Early Stage",
-     "url": "https://jobs.ashbyhq.com/vanta/0c4ff8a3-c916-467b-b3e2-053f009f3ba4"
-    },
-    {
      "id": "0ccbb65f-f675-410a-ae54-1d34575f228a",
      "title": "Software Engineer, Integrations Platform, Vanta For Government (V4G)",
      "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a"
-    },
-    {
-     "id": "0e154a57-fc33-4cf7-95cc-0aa30e0bde90",
-     "title": "Senior Product Designer, Agent Experience",
-     "url": "https://jobs.ashbyhq.com/vanta/0e154a57-fc33-4cf7-95cc-0aa30e0bde90"
     },
     {
      "id": "0eb769bf-5444-491b-8721-2fc579ca4932",
@@ -9480,6 +9495,11 @@
      "id": "0fab2072-8863-42ec-b00d-de367b90d937",
      "title": "Senior Data Analyst, Strategic Finance",
      "url": "https://jobs.ashbyhq.com/vanta/0fab2072-8863-42ec-b00d-de367b90d937"
+    },
+    {
+     "id": "10098ac6-b0c1-4ba6-9903-6c5ebe85fe1e",
+     "title": "Business Development Representative [French Fluency]",
+     "url": "https://jobs.ashbyhq.com/vanta/10098ac6-b0c1-4ba6-9903-6c5ebe85fe1e"
     },
     {
      "id": "102dbbdc-882a-4bcf-bf69-ec9fe9351a29",
@@ -9493,7 +9513,7 @@
     },
     {
      "id": "1513e1ac-5dca-4acb-a99d-8b5461115651",
-     "title": "Senior Fullstack Software Engineer, GRC",
+     "title": "Senior Software Engineer, Frameworks Experience",
      "url": "https://jobs.ashbyhq.com/vanta/1513e1ac-5dca-4acb-a99d-8b5461115651"
     },
     {
@@ -9515,11 +9535,6 @@
      "id": "1df5ae9f-4bd2-4f9c-a4e3-55c2970a6383",
      "title": "Account Executive, Early Stage - UK&I",
      "url": "https://jobs.ashbyhq.com/vanta/1df5ae9f-4bd2-4f9c-a4e3-55c2970a6383"
-    },
-    {
-     "id": "1fb75eb1-739a-4394-9f9b-ca684a61dfd3",
-     "title": "Senior Software Engineer, AI Product",
-     "url": "https://jobs.ashbyhq.com/vanta/1fb75eb1-739a-4394-9f9b-ca684a61dfd3"
     },
     {
      "id": "20d2c9aa-19da-4370-9378-491312f6f98a",
@@ -9558,7 +9573,7 @@
     },
     {
      "id": "470689af-bbce-4c96-818e-408bf4a6c8e5",
-     "title": "Backend Senior Software Engineer, Identity",
+     "title": "Senior Software Engineer, Identity",
      "url": "https://jobs.ashbyhq.com/vanta/470689af-bbce-4c96-818e-408bf4a6c8e5"
     },
     {
@@ -9592,16 +9607,6 @@
      "url": "https://jobs.ashbyhq.com/vanta/55f57c1b-7a4b-4fb3-80c7-75f296085de2"
     },
     {
-     "id": "581791d7-c63d-45fe-b6a7-f2d8f6532af7",
-     "title": "Software Engineer, AI Product (Canada)",
-     "url": "https://jobs.ashbyhq.com/vanta/581791d7-c63d-45fe-b6a7-f2d8f6532af7"
-    },
-    {
-     "id": "6d2a60a8-7daf-4482-ab9a-6b87516548d0",
-     "title": "Senior Software Engineer, AI Platform",
-     "url": "https://jobs.ashbyhq.com/vanta/6d2a60a8-7daf-4482-ab9a-6b87516548d0"
-    },
-    {
      "id": "70a8c96d-ab5d-4e3e-9ff3-7f45a3147be4",
      "title": "GRC Pre-Sales Consultant / Solutions Engineer \u2013 EMEA",
      "url": "https://jobs.ashbyhq.com/vanta/70a8c96d-ab5d-4e3e-9ff3-7f45a3147be4"
@@ -9620,11 +9625,6 @@
      "id": "7d5ac715-c4ba-45d5-a390-665a93f618cd",
      "title": "Business Development Representative, DACH",
      "url": "https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd"
-    },
-    {
-     "id": "7d9922bb-2d0e-4833-bc4e-df65dc57d232",
-     "title": "Staff Product Designer, Activation",
-     "url": "https://jobs.ashbyhq.com/vanta/7d9922bb-2d0e-4833-bc4e-df65dc57d232"
     },
     {
      "id": "7e3cdfbc-9a72-49e4-8fb6-e8f59364af6d",
@@ -9652,6 +9652,11 @@
      "url": "https://jobs.ashbyhq.com/vanta/91c73485-5d0c-4272-9643-401ebcfff9d1"
     },
     {
+     "id": "94ffa2d9-5d03-4b5d-8952-d421e080cbd2",
+     "title": "Senior Revenue Enablement Manager, EMEA",
+     "url": "https://jobs.ashbyhq.com/vanta/94ffa2d9-5d03-4b5d-8952-d421e080cbd2"
+    },
+    {
      "id": "99412127-8d8d-4d25-9393-73e4c17deef4",
      "title": "Head of Enterprise Sales, EMEA",
      "url": "https://jobs.ashbyhq.com/vanta/99412127-8d8d-4d25-9393-73e4c17deef4"
@@ -9677,21 +9682,6 @@
      "url": "https://jobs.ashbyhq.com/vanta/a44edb8b-d519-497d-81b9-451fad4753af"
     },
     {
-     "id": "adcc38ca-79e9-4788-893d-bcdf03db10b2",
-     "title": "Senior Fullstack Software Engineer, GRC",
-     "url": "https://jobs.ashbyhq.com/vanta/adcc38ca-79e9-4788-893d-bcdf03db10b2"
-    },
-    {
-     "id": "b01ad813-3dd3-4603-ab81-75b14772b43b",
-     "title": "Senior Software Engineer, Vanta for Government",
-     "url": "https://jobs.ashbyhq.com/vanta/b01ad813-3dd3-4603-ab81-75b14772b43b"
-    },
-    {
-     "id": "b5c4b58a-0b6b-40a2-b0de-328e4f943060",
-     "title": "Senior Software Engineer, Evaluation Engine",
-     "url": "https://jobs.ashbyhq.com/vanta/b5c4b58a-0b6b-40a2-b0de-328e4f943060"
-    },
-    {
      "id": "b604e8b8-a311-4848-9940-9ba77a67410c",
      "title": "Senior Director of Design",
      "url": "https://jobs.ashbyhq.com/vanta/b604e8b8-a311-4848-9940-9ba77a67410c"
@@ -9715,11 +9705,6 @@
      "id": "bcdcc8fc-a277-43c3-98f5-2b0e536f28b2",
      "title": "Senior Software Engineer, AI Developer Experience",
      "url": "https://jobs.ashbyhq.com/vanta/bcdcc8fc-a277-43c3-98f5-2b0e536f28b2"
-    },
-    {
-     "id": "c27d1d10-9bab-484b-af98-1071c6834d77",
-     "title": "Director, Vanta for Government Partnerships",
-     "url": "https://jobs.ashbyhq.com/vanta/c27d1d10-9bab-484b-af98-1071c6834d77"
     },
     {
      "id": "c3a34fb5-02e4-430e-83d2-b096363901aa",
@@ -9792,16 +9777,6 @@
      "url": "https://jobs.ashbyhq.com/vanta/ecdf2c04-47a5-4360-a664-4341b9b355ce"
     },
     {
-     "id": "ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4",
-     "title": "Sales Development Representative, Enterprise",
-     "url": "https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4"
-    },
-    {
-     "id": "ed632c31-2a66-4c91-8d29-f450bbd4de67",
-     "title": "Senior Fullstack Software Engineer, Authoring Experience",
-     "url": "https://jobs.ashbyhq.com/vanta/ed632c31-2a66-4c91-8d29-f450bbd4de67"
-    },
-    {
      "id": "ee1f63bd-c72e-4e71-9011-b9b4560dbfe7",
      "title": "Engineering Manager, Customer Trust - Canada",
      "url": "https://jobs.ashbyhq.com/vanta/ee1f63bd-c72e-4e71-9011-b9b4560dbfe7"
@@ -9832,25 +9807,20 @@
      "url": "https://jobs.ashbyhq.com/vanta/faab91ff-2dc5-4223-a7c6-9ed21d16f011"
     },
     {
-     "id": "fedc71ba-ef1d-454c-9536-ce87333a23c7",
-     "title": "Senior II Fullstack Software Engineer, GRC",
-     "url": "https://jobs.ashbyhq.com/vanta/fedc71ba-ef1d-454c-9536-ce87333a23c7"
-    },
-    {
      "id": "ffc75064-fbdc-4cd1-bf0e-a4ace20dce81",
      "title": "Account Executive, Early Stage",
      "url": "https://jobs.ashbyhq.com/vanta/ffc75064-fbdc-4cd1-bf0e-a4ace20dce81"
     }
    ],
-   "jobsHash": "32b9fc8c9ee94d6197de08b1f85f46b2ae47729c5e613e84869255c68e3fc570",
+   "jobsHash": "1bf5efe33d4f273a2dff1498e6aed289b2c4b6508ff38a69cd8dfaa4c418ce0b",
    "pages": {
-    "/": "ed6aa5a21cde0d0c9e76c5dc574045f70ca8a32e4a4ea5921e9e9da09d969eae",
-    "/blog": "8b6bfddae03e2cda9dd08947e88d2dcd5aec593b7bf9781891f0808cbce2145b"
+    "/": "0ed825366201152eaec8017bc7d5d0c48a507995ee477f6e4311dc41641605a7",
+    "/blog": "99e2200725c08c2c384584320601eab05cd6ef7d923ca6d0869d1ff4fb95387b"
    },
-   "siteHash": "7cf375321765f241733016015516904784045e90370fa540768251d7b41b09b1"
+   "siteHash": "5133d1acc7118997e2d62c4f15a265b57640023f3638dbdd48f4b19219db70df"
   },
   "vercel": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "5039945004",
@@ -9904,7 +9874,7 @@
     },
     {
      "id": "5732855004",
-     "title": "Site Engineer",
+     "title": "Software Engineer, Website",
      "url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004"
     },
     {
@@ -9953,24 +9923,9 @@
      "url": "https://job-boards.greenhouse.io/vercel/jobs/5841911004"
     },
     {
-     "id": "5844601004",
-     "title": "Partner Lead, EMEA",
-     "url": "https://job-boards.greenhouse.io/vercel/jobs/5844601004"
-    },
-    {
      "id": "5855000004",
      "title": "Strategic Finance Manager, Product",
      "url": "https://job-boards.greenhouse.io/vercel/jobs/5855000004"
-    },
-    {
-     "id": "5979111004",
-     "title": "Head of Field Engineering Operations",
-     "url": "https://job-boards.greenhouse.io/vercel/jobs/5979111004"
-    },
-    {
-     "id": "5995789004",
-     "title": "Senior Manager, Solutions Architecture",
-     "url": "https://job-boards.greenhouse.io/vercel/jobs/5995789004"
     },
     {
      "id": "5999792004",
@@ -10068,6 +10023,11 @@
      "url": "https://job-boards.greenhouse.io/vercel/jobs/6122437004"
     },
     {
+     "id": "6122619004",
+     "title": "Senior Integrated Campaigns Manager",
+     "url": "https://job-boards.greenhouse.io/vercel/jobs/6122619004"
+    },
+    {
      "id": "6123443004",
      "title": "Commercial Account Executive, Install Base",
      "url": "https://job-boards.greenhouse.io/vercel/jobs/6123443004"
@@ -10088,11 +10048,6 @@
      "url": "https://job-boards.greenhouse.io/vercel/jobs/6137983004"
     },
     {
-     "id": "6140055004",
-     "title": "Engineering Manager - Next.js",
-     "url": "https://job-boards.greenhouse.io/vercel/jobs/6140055004"
-    },
-    {
      "id": "6142959004",
      "title": "Senior Deal Desk Analyst",
      "url": "https://job-boards.greenhouse.io/vercel/jobs/6142959004"
@@ -10103,9 +10058,9 @@
      "url": "https://job-boards.greenhouse.io/vercel/jobs/6147956004"
     },
     {
-     "id": "6183272004",
-     "title": "FP&A Manager, Product",
-     "url": "https://job-boards.greenhouse.io/vercel/jobs/6183272004"
+     "id": "6150691004",
+     "title": "Software Engineer, Runtimes",
+     "url": "https://job-boards.greenhouse.io/vercel/jobs/6150691004"
     },
     {
      "id": "6188894004",
@@ -10198,11 +10153,6 @@
      "url": "https://job-boards.greenhouse.io/vercel/jobs/6222271004"
     },
     {
-     "id": "6225825004",
-     "title": "GTM Engineer",
-     "url": "https://job-boards.greenhouse.io/vercel/jobs/6225825004"
-    },
-    {
      "id": "6228301004",
      "title": "Product Manager, Storage",
      "url": "https://job-boards.greenhouse.io/vercel/jobs/6228301004"
@@ -10281,18 +10231,38 @@
      "id": "6248603004",
      "title": "Manager, Startup Sales - Install Base",
      "url": "https://job-boards.greenhouse.io/vercel/jobs/6248603004"
+    },
+    {
+     "id": "6262094004",
+     "title": "Field Marketing Manager, Enterprise",
+     "url": "https://job-boards.greenhouse.io/vercel/jobs/6262094004"
+    },
+    {
+     "id": "6262657004",
+     "title": "Senior Strategic Sourcing Manager - Engineering",
+     "url": "https://job-boards.greenhouse.io/vercel/jobs/6262657004"
+    },
+    {
+     "id": "6264524004",
+     "title": "Software Engineer, Vercel Agent",
+     "url": "https://job-boards.greenhouse.io/vercel/jobs/6264524004"
+    },
+    {
+     "id": "6268187004",
+     "title": "Director, Partner Marketing",
+     "url": "https://job-boards.greenhouse.io/vercel/jobs/6268187004"
     }
    ],
-   "jobsHash": "be8ea0dba0b9abfaaa3ab7cc25c9bf95c4c1842a1d9aa35461e03e5541faa864",
+   "jobsHash": "049a6aee9fa688e8474f18491d76a990ab5d55a507a57bc7e9cba7958409d9e2",
    "pages": {
     "/": "bdbd1f22e00f5bed4572d2a413e0c332c5147c649b059df1768a424f8c0643c6",
-    "/blog": "460a50c0837e4c831a724a3d12d79f1daf427f64932d8b0e197158637241df2e",
+    "/blog": "1b4e0722dcd528fb90d58e0bb676bce0172ebc4c639784d3cea130d6cdb5fc9a",
     "/news": "2b18449d81e8e7a400458b566fee20ce709804d91fac5e7707837feb6f5082ad"
    },
-   "siteHash": "0e4a1931af810df070bb947b84c75bcba5dd3c316a43f11514e2e6a7928eccc5"
+   "siteHash": "f0fb0c8d856c81677df8090504a13350c8498290e97d52a74a37e79aac0f6022"
   },
   "wiz-google-cloud": {
-   "checkedAt": "2026-11-16T01:44:12+00:00",
+   "checkedAt": "2026-11-23T01:44:12+00:00",
    "jobs": [
     {
      "id": "4004237006",
@@ -10375,14 +10345,14 @@
      "url": "https://www.wiz.io/careers/job/4621534006/:title?gh_jid=4621534006"
     },
     {
+     "id": "4621708006",
+     "title": "Brand Designer Lead",
+     "url": "https://www.wiz.io/careers/job/4621708006/:title?gh_jid=4621708006"
+    },
+    {
      "id": "4625139006",
      "title": "Threat Intelligence Researcher (Cloud)",
      "url": "https://www.wiz.io/careers/job/4625139006/:title?gh_jid=4625139006"
-    },
-    {
-     "id": "4645081006",
-     "title": "Pentest Product Associate",
-     "url": "https://www.wiz.io/careers/job/4645081006/:title?gh_jid=4645081006"
     },
     {
      "id": "4650468006",
@@ -10398,6 +10368,11 @@
      "id": "4658917006",
      "title": "Threat Intelligence Researcher (Cloud)",
      "url": "https://www.wiz.io/careers/job/4658917006/:title?gh_jid=4658917006"
+    },
+    {
+     "id": "4663668006",
+     "title": "Enterprise Account Executive",
+     "url": "https://www.wiz.io/careers/job/4663668006/:title?gh_jid=4663668006"
     },
     {
      "id": "4665302006",
@@ -10453,11 +10428,6 @@
      "id": "4685271006",
      "title": "Mid-Enterprise Account Executive - West India",
      "url": "https://www.wiz.io/careers/job/4685271006/:title?gh_jid=4685271006"
-    },
-    {
-     "id": "4688850006",
-     "title": "Technical Account Manager (Mid-Atlantic)",
-     "url": "https://www.wiz.io/careers/job/4688850006/:title?gh_jid=4688850006"
     },
     {
      "id": "4690243006",
@@ -10528,11 +10498,6 @@
      "id": "4700380006",
      "title": "Regional Director, Sales - North India",
      "url": "https://www.wiz.io/careers/job/4700380006/:title?gh_jid=4700380006"
-    },
-    {
-     "id": "4700382006",
-     "title": "Manager, Field Marketing",
-     "url": "https://www.wiz.io/careers/job/4700382006/:title?gh_jid=4700382006"
     },
     {
      "id": "4700523006",
@@ -10620,19 +10585,19 @@
      "url": "https://www.wiz.io/careers/job/4709064006/:title?gh_jid=4709064006"
     },
     {
-     "id": "4710815006",
-     "title": "Renewals Manager",
-     "url": "https://www.wiz.io/careers/job/4710815006/:title?gh_jid=4710815006"
+     "id": "4709330006",
+     "title": "Manager, Solutions Support Engineering - S\u00e3o Paulo",
+     "url": "https://www.wiz.io/careers/job/4709330006/:title?gh_jid=4709330006"
+    },
+    {
+     "id": "4710117006",
+     "title": "Solutions Support Engineer, S\u00e3o Paulo (SP), Brazil",
+     "url": "https://www.wiz.io/careers/job/4710117006/:title?gh_jid=4710117006"
     },
     {
      "id": "4710823006",
      "title": "Product Marketing Manager",
      "url": "https://www.wiz.io/careers/job/4710823006/:title?gh_jid=4710823006"
-    },
-    {
-     "id": "4710830006",
-     "title": "Technical Account Manager, ANZ",
-     "url": "https://www.wiz.io/careers/job/4710830006/:title?gh_jid=4710830006"
     },
     {
      "id": "4711762006",
@@ -10660,19 +10625,14 @@
      "url": "https://www.wiz.io/careers/job/4712673006/:title?gh_jid=4712673006"
     },
     {
-     "id": "4713219006",
-     "title": "Strategy & Operations Program Manager, Global Technical Enablement",
-     "url": "https://www.wiz.io/careers/job/4713219006/:title?gh_jid=4713219006"
-    },
-    {
      "id": "4714932006",
      "title": "Senior Solutions Support Engineer",
      "url": "https://www.wiz.io/careers/job/4714932006/:title?gh_jid=4714932006"
     },
     {
-     "id": "4714936006",
-     "title": "Mid-Enterprise Account Executive",
-     "url": "https://www.wiz.io/careers/job/4714936006/:title?gh_jid=4714936006"
+     "id": "4715501006",
+     "title": "Senior Escalation Engineer",
+     "url": "https://www.wiz.io/careers/job/4715501006/:title?gh_jid=4715501006"
     },
     {
      "id": "4717023006",
@@ -10683,11 +10643,6 @@
      "id": "4717024006",
      "title": "Partner Solutions Architect - MSP",
      "url": "https://www.wiz.io/careers/job/4717024006/:title?gh_jid=4717024006"
-    },
-    {
-     "id": "4717386006",
-     "title": "Business Development Representative",
-     "url": "https://www.wiz.io/careers/job/4717386006/:title?gh_jid=4717386006"
     },
     {
      "id": "4717735006",
@@ -10705,29 +10660,14 @@
      "url": "https://www.wiz.io/careers/job/4718528006/:title?gh_jid=4718528006"
     },
     {
-     "id": "4718673006",
-     "title": "Senior Analyst, GTM Systems & Tools (Customer Engineering)",
-     "url": "https://www.wiz.io/careers/job/4718673006/:title?gh_jid=4718673006"
-    },
-    {
      "id": "4718860006",
      "title": "Mid-Enterprise Account Executive, Brazil",
      "url": "https://www.wiz.io/careers/job/4718860006/:title?gh_jid=4718860006"
     },
     {
-     "id": "4718925006",
-     "title": "Security Operations Specialist",
-     "url": "https://www.wiz.io/careers/job/4718925006/:title?gh_jid=4718925006"
-    },
-    {
      "id": "4719324006",
      "title": "Senior Solutions Engineer, Sydney",
      "url": "https://www.wiz.io/careers/job/4719324006/:title?gh_jid=4719324006"
-    },
-    {
-     "id": "4719352006",
-     "title": "Director, Revenue Enablement",
-     "url": "https://www.wiz.io/careers/job/4719352006/:title?gh_jid=4719352006"
     },
     {
      "id": "4719423006",
@@ -10746,7 +10686,7 @@
     },
     {
      "id": "4720621006",
-     "title": "Business Partner, Marketing Operations",
+     "title": "Marketing Operations Specialist",
      "url": "https://www.wiz.io/careers/job/4720621006/:title?gh_jid=4720621006"
     },
     {
@@ -10755,14 +10695,19 @@
      "url": "https://www.wiz.io/careers/job/4720629006/:title?gh_jid=4720629006"
     },
     {
+     "id": "4720879006",
+     "title": "CTO Data Analyst",
+     "url": "https://www.wiz.io/careers/job/4720879006/:title?gh_jid=4720879006"
+    },
+    {
+     "id": "4721409006",
+     "title": "Executive Assistant, CTO & Product",
+     "url": "https://www.wiz.io/careers/job/4721409006/:title?gh_jid=4721409006"
+    },
+    {
      "id": "4721575006",
      "title": "Solutions Support Engineer - US East",
      "url": "https://www.wiz.io/careers/job/4721575006/:title?gh_jid=4721575006"
-    },
-    {
-     "id": "4722439006",
-     "title": "Solutions Engineer, Growth - East",
-     "url": "https://www.wiz.io/careers/job/4722439006/:title?gh_jid=4722439006"
     },
     {
      "id": "4722518006",
@@ -10785,11 +10730,6 @@
      "url": "https://www.wiz.io/careers/job/4723042006/:title?gh_jid=4723042006"
     },
     {
-     "id": "4723268006",
-     "title": "Partner Solutions Architect - MSP",
-     "url": "https://www.wiz.io/careers/job/4723268006/:title?gh_jid=4723268006"
-    },
-    {
      "id": "4724361006",
      "title": "Senior Revenue Systems Administrator",
      "url": "https://www.wiz.io/careers/job/4724361006/:title?gh_jid=4724361006"
@@ -10798,11 +10738,6 @@
      "id": "4725388006",
      "title": "Renewal Manager",
      "url": "https://www.wiz.io/careers/job/4725388006/:title?gh_jid=4725388006"
-    },
-    {
-     "id": "4725976006",
-     "title": "Senior Solutions Engineer, Melbourne",
-     "url": "https://www.wiz.io/careers/job/4725976006/:title?gh_jid=4725976006"
     },
     {
      "id": "4726018006",
@@ -10825,6 +10760,11 @@
      "url": "https://www.wiz.io/careers/job/4727947006/:title?gh_jid=4727947006"
     },
     {
+     "id": "4728256006",
+     "title": "Senior Solutions Engineer - South India",
+     "url": "https://www.wiz.io/careers/job/4728256006/:title?gh_jid=4728256006"
+    },
+    {
      "id": "4728279006",
      "title": "Technical Account Manager (Central)",
      "url": "https://www.wiz.io/careers/job/4728279006/:title?gh_jid=4728279006"
@@ -10835,25 +10775,35 @@
      "url": "https://www.wiz.io/careers/job/4728309006/:title?gh_jid=4728309006"
     },
     {
-     "id": "4728329006",
-     "title": "Senior Solutions Support Engineer - US East",
-     "url": "https://www.wiz.io/careers/job/4728329006/:title?gh_jid=4728329006"
-    },
-    {
      "id": "4728651006",
      "title": "Senior Customer Assurance Analyst",
      "url": "https://www.wiz.io/careers/job/4728651006/:title?gh_jid=4728651006"
+    },
+    {
+     "id": "4730112006",
+     "title": "Head of Partner Marketing",
+     "url": "https://www.wiz.io/careers/job/4730112006/:title?gh_jid=4730112006"
+    },
+    {
+     "id": "4730442006",
+     "title": "Technical Account Manager, ANZ",
+     "url": "https://www.wiz.io/careers/job/4730442006/:title?gh_jid=4730442006"
+    },
+    {
+     "id": "4730882006",
+     "title": "Product Enablement Program Manager",
+     "url": "https://www.wiz.io/careers/job/4730882006/:title?gh_jid=4730882006"
     }
    ],
-   "jobsHash": "b77ed843bead31eb54c1885cb2a4075eec6837568425584894d5c974333d677e",
+   "jobsHash": "e5826c6a8b64f10e9b2574bddbd036bf51d7cc168987718a7245dd255a973e7e",
    "pages": {
-    "/": "319a632ef27a6e3fd1485cf6e00e20e683338d2d36637f42519517e1f250d455",
-    "/blog": "fee956680119712fd87873524611f2d470de0ae7c6b4c5109af5ac04a058c8f9",
+    "/": "0455a2ebcb4d75557e97cae84a3d7bbb09b18696bd36dfd33f5ac3e0b4cb9284",
+    "/blog": "5fcbb7d2757d549fa6eda298886b5d2f5ee51df352fa7dd22b4acd31ff02a0b1",
     "/newsroom": "1ec1f22950d3f486a3404c0071a71b4f466973e1c1c5745223d17256597cc4d0"
    },
-   "siteHash": "44f6772948d28e8bc6fa21df24103f7d8098443dc6d630be598cc6a0987ddf04"
+   "siteHash": "debaf80045f0077274ac9e15bad044e88f6260162a0fc06ea81aa602593d1b61"
   }
  },
- "updatedAt": "2026-11-16T01:44:12+00:00",
+ "updatedAt": "2026-11-23T01:44:12+00:00",
  "version": 1
 }
