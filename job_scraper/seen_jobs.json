@@ -62770,6 +62770,447 @@
       "status": "skipped",
       "portal": "freehire-search",
       "source": "cli"
+    },
+    "baker-tilly-us_managing-director-asset-management-regulatory-compliance": {
+      "title": "Managing Director, Asset Management Regulatory Compliance",
+      "company": "Baker Tilly US",
+      "url": "https://www.linkedin.com/jobs/view/managing-director-asset-management-regulatory-compliance-at-baker-tilly-us-4477322509",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "altera_director-of-foundry-engineering": {
+      "title": "Director of Foundry Engineering",
+      "company": "Altera",
+      "url": "https://www.linkedin.com/jobs/view/director-of-foundry-engineering-at-altera-4471140695",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "zettabyte_director-of-devops": {
+      "title": "Director of DevOps",
+      "company": "Zettabyte",
+      "url": "https://www.linkedin.com/jobs/view/director-of-devops-at-zettabyte-4492689012",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-25",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "gyga-force_director-of-operations": {
+      "title": "Director of Operations",
+      "company": "Gyga Force",
+      "url": "https://www.linkedin.com/jobs/view/director-of-operations-at-gyga-force-4494710972",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-24",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "family-office_chief-of-staff": {
+      "title": "Chief of Staff",
+      "company": "Family Office",
+      "url": "https://www.adzuna.com/details/5979842204?utm_medium=api&utm_source=aa2b179f",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-26",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "jobgether_executive-vice-president-for-national-campaigns-programs-rem-24db3a": {
+      "title": "Executive Vice President for National Campaigns & Programs - Remote (San Francisco Bay Area)",
+      "company": "Jobgether",
+      "url": "https://www.linkedin.com/jobs/view/executive-vice-president-for-national-campaigns-programs-remote-san-francisco-bay-area-at-jobgether-4495075590",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "computer-history-museum_vice-president-education-and-impact": {
+      "title": "Vice President, Education and Impact",
+      "company": "Computer History Museum",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-education-and-impact-at-computer-history-museum-4494973382",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-25",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "canyon-code_head-of-enterprise-ai": {
+      "title": "Head of Enterprise AI",
+      "company": "Canyon Code",
+      "url": "https://www.linkedin.com/jobs/view/head-of-enterprise-ai-at-canyon-code-4495075612",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "jpmorganchase_vice-president-product-manager-ai-model-enablement-and-ecosy-bd0a0e": {
+      "title": "Vice President, Product Manager - AI Model Enablement and Ecosystem",
+      "company": "JPMorganChase",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-product-manager-ai-model-enablement-and-ecosystem-at-jpmorganchase-4495284326",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-26",
+      "deadline": null,
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "rank_score": 42,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-27",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "AI model platform governance and cost tracking (usage, cost attribution, price-performance) overlaps his GenAI governance and LLM cost work"
+      ],
+      "gaps": [
+        "Individual-contributor product manager role (5+ years asked); a bank VP title is mid-level, below his target level",
+        "Calls for strong AI platform, infrastructure and machine learning knowledge and product backlog ownership; he is not a product manager",
+        "Big bank (not preferred); pay not posted"
+      ]
+    },
+    "hadrian_director-build-engineering": {
+      "title": "Director, Build Engineering",
+      "company": "Hadrian",
+      "url": "https://jobs.a16z.com/jobs/hadrian/9aabb2ce-169b-4552-a28d-8c5bda0f6b0f--director-build-engineering",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-25",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "vc-boards-search",
+      "source": "cli"
+    },
+    "justbacked_head-of-customer-engineering": {
+      "title": "Head of Customer Engineering",
+      "company": "JustBacked",
+      "url": "https://www.linkedin.com/jobs/view/head-of-customer-engineering-at-justbacked-4493877220",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "sandisk_director-application-strategy-and-governance": {
+      "title": "Director, Application Strategy and Governance",
+      "company": "Sandisk",
+      "url": "https://www.linkedin.com/jobs/view/director-application-strategy-and-governance-at-sandisk-4488061558",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "rank_score": 50,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-27",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Also serves as Chief of Staff to the VP, Enterprise Systems, running the operating rhythm, planning and executive reporting, which matches his CTO chief-of-staff role",
+        "Large public company, so the Director exception applies; governance and process harmonization across towers fits his PMO and governance work"
+      ],
+      "gaps": [
+        "Asks for 8+ years in enterprise or solution architecture with a strong application (ERP, HR, SCM, PLM) bias, which he lacks",
+        "Reports to the VP, Enterprise Systems, not the C-suite; pay not posted",
+        "Enterprise IT application governance is adjacent to, not inside, his record"
+      ]
+    },
+    "newsbreak_head-of-strategy-business-operations": {
+      "title": "Head of Strategy & Business Operations",
+      "company": "NewsBreak",
+      "url": "https://www.linkedin.com/jobs/view/head-of-strategy-business-operations-at-newsbreak-4493478087",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-26",
+      "deadline": null,
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "rank_score": 50,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-27",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Strategy and business operations is one of his core functions",
+        "High-growth consumer AI and local platform company in Mountain View"
+      ],
+      "gaps": [
+        "Posted pay $240K-$290K is below the $300K base floor (deal-breaker)",
+        "Startup Head of title; reporting line not stated"
+      ]
+    },
+    "ridgeline_director-product-technology-operations": {
+      "title": "Director, Product & Technology Operations",
+      "company": "Ridgeline",
+      "url": "https://www.linkedin.com/jobs/view/director-product-technology-operations-at-ridgeline-4449880226",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-26",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "biospace_head-of-ai-and-data-solutions-delivery": {
+      "title": "Head of AI and Data Solutions Delivery",
+      "company": "BioSpace",
+      "url": "https://www.linkedin.com/jobs/view/head-of-ai-and-data-solutions-delivery-at-biospace-4495574712",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "atlanta-housing_chief-operating-officer": {
+      "title": "Chief Operating Officer",
+      "company": "Atlanta Housing",
+      "url": "https://www.linkedin.com/jobs/view/chief-operating-officer-at-atlanta-housing-4495828291",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "dawn-taylor-associates_chief-operating-officer-financial-services-new-york-city": {
+      "title": "Chief Operating Officer - Financial Services - New York City",
+      "company": "Dawn Taylor Associates",
+      "url": "https://www.linkedin.com/jobs/view/chief-operating-officer-financial-services-new-york-city-at-dawn-taylor-associates-4483484650",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-25",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "squadron-legal_chief-operating-officer": {
+      "title": "Chief Operating Officer",
+      "company": "Squadron Legal",
+      "url": "https://www.linkedin.com/jobs/view/chief-operating-officer-at-squadron-legal-4491943604",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-20",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "lcmc-health_chief-operating-officer-west-jefferson-medical-center": {
+      "title": "Chief Operating Officer - West Jefferson Medical Center",
+      "company": "LCMC Health",
+      "url": "https://www.linkedin.com/jobs/view/chief-operating-officer-west-jefferson-medical-center-at-lcmc-health-4493057360",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-24",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "jobgether_vp-people-business-operations-remote-san-francisco-bay-area": {
+      "title": "VP, People & Business Operations - Remote (San Francisco Bay Area)",
+      "company": "Jobgether",
+      "url": "https://www.linkedin.com/jobs/view/vp-people-business-operations-remote-san-francisco-bay-area-at-jobgether-4495092219",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "citigroup_vp-senior-java-software-engineer-prime-brokerage-technology": {
+      "title": "VP Senior Java Software Engineer - Prime Brokerage Technology",
+      "company": "Citigroup",
+      "url": "https://www.adzuna.com/details/5979986892?utm_medium=api&utm_source=aa2b179f",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-26",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
+    },
+    "progyny-inc_vice-president-client-success-health-plan-market-leader": {
+      "title": "Vice President, Client Success - Health Plan Market Leader",
+      "company": "Progyny, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-client-success-health-plan-market-leader-at-progyny-inc-4466647110",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-21",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "alpha-school_vice-president-of-client-success-alpha-400-000-year-usd": {
+      "title": "Vice President of Client Success, Alpha - $400,000/year USD",
+      "company": "Alpha School",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-client-success-alpha-%24400-000-year-usd-at-alpha-school-4494738607",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "swooped_vice-president-client-success": {
+      "title": "Vice President, Client Success",
+      "company": "Swooped",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-client-success-at-swooped-4495226369",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-26",
+      "deadline": null,
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "rank_score": 51,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-27",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "VP-level client success leadership, scaling and upskilling CS teams, matches his Ripple and Engajer customer success record",
+        "Remote (United States)"
+      ],
+      "gaps": [
+        "Posted pay $275K-$300K tops out at the floor, so base cannot clear $300K (deal-breaker)",
+        "Employer not named (posted by a staffing aggregator); health plan and employer segments are outside his domain",
+        "Revenue growth and expansion focus reads as a commercial CS role"
+      ]
+    },
+    "ladders_vp-of-customer-success": {
+      "title": "VP of Customer Success",
+      "company": "Ladders",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-customer-success-at-ladders-4492397782",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-23",
+      "deadline": null,
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "source": "cli",
+      "rank_score": 43,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-11-27",
+      "location_verdict": "FLAG",
+      "language_gate": "PASS",
+      "strengths": [
+        "Owns strategy and execution of a global customer success function"
+      ],
+      "gaps": [
+        "Posted pay $160K-$200K is far below the $300K base floor (deal-breaker)",
+        "Employer not named (posted by Ladders for a client in business services); location only says United States"
+      ]
+    },
+    "cboe-global-markets_vp-head-of-project-management": {
+      "title": "VP, Head of Project Management",
+      "company": "Cboe Global Markets",
+      "url": "https://www.linkedin.com/jobs/view/vp-head-of-project-management-at-cboe-global-markets-4495221145",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-25",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "sevan-multi-site-solutions_vice-president-national-construction-programs": {
+      "title": "Vice President, National Construction Programs",
+      "company": "Sevan Multi-Site Solutions",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-national-construction-programs-at-sevan-multi-site-solutions-4469255673",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-26",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "digital-waffle_vice-president-of-software-engineering": {
+      "title": "Vice President of Software Engineering",
+      "company": "Digital Waffle",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-software-engineering-at-digital-waffle-4495311168",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "cognition-ai_regional-sales-director-enterprise-australia": {
+      "title": "Regional Sales Director - Enterprise Australia",
+      "company": "Cognition AI",
+      "url": "https://jobs.ashbyhq.com/cognition/d5268384-d994-46aa-ac20-e1aee1ffa550",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "target-board",
+      "source": "ats-api",
+      "skip_reason": "target company, but a sales role (Regional Sales Director, Australia): outside Casey's functions"
+    },
+    "david-ai_head-of-marketplace": {
+      "title": "Head of Marketplace",
+      "company": "David AI",
+      "url": "https://jobs.ashbyhq.com/david-ai/6dd3b9e1-149d-4eff-a57d-44f18542e126",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-27",
+      "deadline": null,
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "target-board",
+      "source": "ats-api",
+      "rank_score": 46,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-27",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Owns a function end to end with a team, budget allocation and weekly operating rhythm, which matches his builder and operating-cadence record",
+        "Thought partner to executive leadership on how the marketplace scales; AI data company (target company)"
+      ],
+      "gaps": [
+        "Posted pay $205K-$235K is below the $300K base floor (deal-breaker)",
+        "Startup Head of/GM title at a ~70-person company; reporting line not stated",
+        "Two-sided marketplace supply growth (paid acquisition, contributor funnels) is outside his experience"
+      ]
     }
   }
 }
