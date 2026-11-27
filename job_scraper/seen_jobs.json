@@ -38739,7 +38739,7 @@
       "posted_date": "2026-11-12",
       "deadline": "2026-11-26",
       "fit": "medium",
-      "status": "ranked",
+      "status": "expired",
       "portal": "freehire-search",
       "source": "cli",
       "location": "Boulder, CO, USA",
@@ -62734,6 +62734,42 @@
       "portal": "vc-boards-search",
       "source": "cli",
       "location": "Menlo Park, CA, USA"
+    },
+    "thoughtspot_rvp-ai-outcomes-architecture": {
+      "title": "RVP, AI Outcomes Architecture",
+      "company": "ThoughtSpot",
+      "url": "https://www.linkedin.com/jobs/view/rvp-ai-outcomes-architecture-at-thoughtspot-4489047329",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-20",
+      "deadline": null,
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "flow-engineering_head-of-customer-engineering": {
+      "title": "Head of Customer Engineering",
+      "company": "Flow Engineering",
+      "url": "https://www.linkedin.com/jobs/view/head-of-customer-engineering-at-flow-engineering-4493414141",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-25",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "source": "cli"
+    },
+    "pyramid-consulting-inc_engineering-operations-support-specialist": {
+      "title": "Engineering Operations Support Specialist",
+      "company": "Pyramid Consulting, Inc",
+      "url": "https://www.adzuna.com/details/5979484859?utm_medium=api&utm_source=aa2b179f",
+      "first_seen": "2026-11-27",
+      "posted_date": "2026-11-26",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "source": "cli"
     }
   }
 }
